@@ -4,98 +4,98 @@
             "id": "apostles-creed",
             "title": "Apostles Creed",
             "summary": "The ancient summary of the Church's core beliefs.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/apostles_creed.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/apostles_creed.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "nicene-creed",
             "title": "Nicene Creed",
             "summary": "The official profession of faith defined at the First Council of Nicaea.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/nicene_creed.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/nicene_creed.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "rosary",
             "title": "Rosary",
             "summary": "A meditative prayer contemplating the lives of Jesus and Mary.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/rosary.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/rosary.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "mysteries-rosary",
             "title": "The Mysteries of the Rosary",
             "summary": "Guides to the Joyful, Sorrowful, Glorious, and Luminous mysteries.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/mysteries.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/mysteries.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "lords-prayer",
             "title": "Lords Prayer",
             "summary": "The prayer taught by Jesus Himself to His disciples.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/our_father.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/our_father.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "hail-mary",
             "title": "Hail Mary",
             "summary": "The angelic salutation honoring the Mother of God.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/hail_mary.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/hail_mary.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "fatima-prayer",
             "title": "Fatima Prayer",
             "summary": "The 'O My Jesus' prayer given to the children at Fatima.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/fatima.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/fatima.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "litany",
             "title": "Litany",
             "summary": "A series of repetitive petitions used in public and private devotion.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/litany.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/litany.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "hail-holy-queen",
             "title": "Hail Holy Queen",
             "summary": "The Salve Regina, traditionally prayed at the end of the Rosary.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/hail_holy_queen.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/hail_holy_queen.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "memorare",
             "title": "Memorare",
             "summary": "A powerful prayer to Mary, attributed to St. Bernard of Clairvaux.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/memorare.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/memorare.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "angelus",
             "title": "Angelus",
             "summary": "A devotional prayer commemorating the Incarnation.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/angelus.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/angelus.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "prayer-before-meals",
             "title": "Prayer Before Meals",
             "summary": "A prayer of gratitude for God's provision and blessings.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/meal_prayer.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/meal_prayer.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "prayer-after-communion",
             "title": "Prayer After Holy Communion",
             "summary": "A quiet reflection and prayer of thanks after receiving the Eucharist.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/communion_prayer.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/communion_prayer.jpg",
             "categoryId": "prayers"
         },
         {
             "id": "pray-guardian-angel",
             "title": "Pray to the Guardian Angel",
             "summary": "The 'Angel of God' prayer for guidance and protection.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/images/guardian_prayer.jpg",
+            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/guardian_prayer.jpg",
             "categoryId": "prayers"
         }
     ]
