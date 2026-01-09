@@ -1,1 +1,81 @@
-{}
+{
+    "items": [
+        {
+            "id": "brief-angels",
+            "title": "Brief About Angels",
+            "summary": "An introduction to the nature and purpose of God's celestial messengers.",
+            "imageUrl": "https://your-domain.com/images/angels_brief.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "seraphim",
+            "title": "1. Seraphim",
+            "summary": "The highest order of angels, known for their burning love and proximity to God's throne.",
+            "imageUrl": "https://your-domain.com/images/seraphim.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "cherubim",
+            "title": "2. Cherubim",
+            "summary": "Angels of deep wisdom and protectors of sacred spaces.",
+            "imageUrl": "https://your-domain.com/images/cherubim.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "thrones",
+            "title": "3. Thrones",
+            "summary": "Angels representing divine justice and the steadfastness of God's power.",
+            "imageUrl": "https://your-domain.com/images/thrones.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "dominions",
+            "title": "4. Dominions or Lordships",
+            "summary": "Angels who regulate the duties of lower angels and manifest the majesty of God.",
+            "imageUrl": "https://your-domain.com/images/dominions.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "virtues",
+            "title": "5. Virtues or Strongholds",
+            "summary": "Angels associated with miracles and the infusion of grace and courage into humanity.",
+            "imageUrl": "https://your-domain.com/images/virtues.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "powers",
+            "title": "6. Powers",
+            "summary": "The warrior angels who defend against evil spirits and maintain cosmic order.",
+            "imageUrl": "https://your-domain.com/images/powers.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "principalities",
+            "title": "7. Principalities or Rulers",
+            "summary": "Angels who watch over nations, cities, and the earthly leaders within the Church.",
+            "imageUrl": "https://your-domain.com/images/principalities.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "archangels",
+            "title": "8. Archangels",
+            "summary": "The chief messengers of God who carry out missions of great importance for mankind.",
+            "imageUrl": "https://your-domain.com/images/archangels.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "angels-9",
+            "title": "9. Angels",
+            "summary": "The order closest to humans, acting as direct messengers and helpers in our daily lives.",
+            "imageUrl": "https://your-domain.com/images/angels_lower.jpg",
+            "categoryId": "angels"
+        },
+        {
+            "id": "guardian-angels",
+            "title": "Guardian Angels",
+            "summary": "Personal celestial protectors assigned by God to every human soul.",
+            "imageUrl": "https://your-domain.com/images/guardian_angels.jpg",
+            "categoryId": "angels"
+        }
+    ]
+}

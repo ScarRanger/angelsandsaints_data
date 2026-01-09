@@ -1,1 +1,116 @@
-{}
+{
+    "items": [
+        {
+            "id": "st-joseph",
+            "title": "St. Joseph",
+            "summary": "The Foster-Father of Jesus and Patron of the Universal Church.",
+            "imageUrl": "https://your-domain.com/images/joseph.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-mark",
+            "title": "St. Mark",
+            "summary": "The Evangelist and author of the second Gospel.",
+            "imageUrl": "https://your-domain.com/images/mark.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-luke",
+            "title": "St. Luke",
+            "summary": "The 'Beloved Physician' and author of the third Gospel and Acts.",
+            "imageUrl": "https://your-domain.com/images/luke.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-paul",
+            "title": "St. Paul",
+            "summary": "The Apostle to the Gentiles and author of the many New Testament epistles.",
+            "imageUrl": "https://your-domain.com/images/paul.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-francis-xavier",
+            "title": "St. Francis Xavier",
+            "summary": "The great Jesuit missionary who brought the Gospel to Asia.",
+            "imageUrl": "https://your-domain.com/images/xavier.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-gonsalo-garcia",
+            "title": "St. Gonsalo Garcia",
+            "summary": "The first Indian-born saint and a martyr in Japan.",
+            "imageUrl": "https://your-domain.com/images/gonsalo_garcia.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-anthony-padua",
+            "title": "St. Anthony of Padua",
+            "summary": "The 'Hammer of Heretics' and finder of lost things.",
+            "imageUrl": "https://your-domain.com/images/anthony_padua.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-teresa-calcutta",
+            "title": "St. Teresa of Calcutta",
+            "summary": "The 'Saint of the Gutters' who founded the Missionaries of Charity.",
+            "imageUrl": "https://your-domain.com/images/mother_teresa.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-alphonsa",
+            "title": "St. Alphonsa",
+            "summary": "The first female saint of Indian origin, known for her suffering and holiness.",
+            "imageUrl": "https://your-domain.com/images/alphonsa.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-padre-pio",
+            "title": "St. Padre Pio",
+            "summary": "The stigmatic monk known for his deep prayer and spiritual gifts.",
+            "imageUrl": "https://your-domain.com/images/padre_pio.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-mary-magdalene",
+            "title": "St. Mary Magdalene",
+            "summary": "The 'Apostle to the Apostles' and first witness to the Resurrection.",
+            "imageUrl": "https://your-domain.com/images/magdalene.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-mary-faustina",
+            "title": "St. Mary Faustina",
+            "summary": "The Apostle of Divine Mercy and secretary of Jesus' message to the world.",
+            "imageUrl": "https://your-domain.com/images/faustina.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-teresa-child-jesus",
+            "title": "St. Teresa of Child Jesus",
+            "summary": "The 'Little Flower' of Lisieux and doctor of the Church.",
+            "imageUrl": "https://your-domain.com/images/little_flower.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-francis-assisi",
+            "title": "St. Francis of Assisi",
+            "summary": "The lover of poverty and nature who founded the Franciscan Order.",
+            "imageUrl": "https://your-domain.com/images/francis_assisi.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-clare",
+            "title": "St. Clare",
+            "summary": "The devoted follower of St. Francis and foundress of the Poor Clares.",
+            "imageUrl": "https://your-domain.com/images/clare.jpg",
+            "categoryId": "saints"
+        },
+        {
+            "id": "st-bernadette",
+            "title": "St. Bernadette",
+            "summary": "The visionary of Lourdes to whom the Immaculate Conception appeared.",
+            "imageUrl": "https://your-domain.com/images/bernadette.jpg",
+            "categoryId": "saints"
+        }
+    ]
+}

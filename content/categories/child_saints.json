@@ -1,1 +1,81 @@
-{}
+{
+    "items": [
+        {
+            "id": "st-dominic-savio",
+            "title": "St. Dominic Savio",
+            "summary": "The student of St. John Bosco who chose 'Death rather than sin.'",
+            "imageUrl": "https://your-domain.com/images/dominic_savio.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-tarcisius",
+            "title": "St. Tarcisius",
+            "summary": "The young martyr of the Eucharist who died protecting the Blessed Sacrament.",
+            "imageUrl": "https://your-domain.com/images/tarcisius.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-maria-goretti",
+            "title": "St. Maria Goretti",
+            "summary": "A model of purity and forgiveness who pardoned her attacker before her death.",
+            "imageUrl": "https://your-domain.com/images/maria_goretti.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-philomena",
+            "title": "St. Philomena",
+            "summary": "A powerful young thaumaturge and virgin martyr of the early Church.",
+            "imageUrl": "https://your-domain.com/images/philomena.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-agnes-rome",
+            "title": "St. Agnes of Rome",
+            "summary": "The young girl who refused to marry, declaring herself a bride of Christ.",
+            "imageUrl": "https://your-domain.com/images/agnes.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-rose-viterbo",
+            "title": "St. Rose of Viterbo",
+            "summary": "A young preacher and visionary who defended the Church in 13th-century Italy.",
+            "imageUrl": "https://your-domain.com/images/rose_viterbo.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-imelda-lambertini",
+            "title": "St. Imelda Lambertini",
+            "summary": "Patroness of First Communicants, who died in an ecstasy of love for the Eucharist.",
+            "imageUrl": "https://your-domain.com/images/imelda.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-vitus",
+            "title": "St. Vitus",
+            "summary": "One of the Fourteen Holy Helpers, known for his miraculous courage as a boy.",
+            "imageUrl": "https://your-domain.com/images/vitus.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-jose-sanchez",
+            "title": "St. Jose Sanchez Del Rio",
+            "summary": "The 14-year-old Cristero martyr who died shouting 'Viva Cristo Rey!'",
+            "imageUrl": "https://your-domain.com/images/jose_sanchez.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-crescentius",
+            "title": "St. Crescentius of Rome",
+            "summary": "An 11-year-old child who bore witness to Christ during the Diocletian persecutions.",
+            "imageUrl": "https://your-domain.com/images/crescentius.jpg",
+            "categoryId": "child_saints"
+        },
+        {
+            "id": "st-carlo-acutis",
+            "title": "St. Carlo Acutis",
+            "summary": "The millennial 'Cyber-Apostle of the Eucharist' who used the web for the Gospel.",
+            "imageUrl": "https://your-domain.com/images/carlo_acutis.jpg",
+            "categoryId": "child_saints"
+        }
+    ]
+}
