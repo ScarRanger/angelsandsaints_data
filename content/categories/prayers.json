@@ -14,13 +14,7 @@
             "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/nicene_creed.jpg",
             "categoryId": "prayers"
         },
-        {
-            "id": "rosary",
-            "title": "Rosary",
-            "summary": "A meditative prayer contemplating the lives of Jesus and Mary.",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/rosary.jpg",
-            "categoryId": "prayers"
-        },
+        
         {
             "id": "mysteries-rosary",
             "title": "The Mysteries of the Rosary",

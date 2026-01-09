@@ -3,35 +3,35 @@
         {
             "id": "angels",
             "title": "Angels",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/assets/images/home/uriel.jpg",
+            "imageUrl": "res:/drawable/uriel.jpg",
             "order": 1,
             "enabled": true
         },
         {
             "id": "apostles",
             "title": "Apostles",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/assets/images/home/peter_thumb.jpg",
+            "imageUrl": "res:/drawable/peter_thumb.jpg",
             "order": 2,
             "enabled": true
         },
         {
             "id": "saints",
             "title": "Saints",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/assets/images/home/joseph_thumb.jpg",
+            "imageUrl": "res:/drawable/joseph_thumb.jpg",
             "order": 3,
             "enabled": true
         },
         {
             "id": "child_saints",
             "title": "Child Saints",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/assets/images/home/dominicsavio_thumb.jpg",
+            "imageUrl": "res:/drawable/dominicsavio_thumb.jpg",
             "order": 4,
             "enabled": true
         },
         {
             "id": "prayers",
             "title": "Common Prayers",
-            "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/assets/images/home/hands.jpg",
+            "imageUrl": "res:/drawable/hands.jpg",
             "order": 5,
             "enabled": true
         }
