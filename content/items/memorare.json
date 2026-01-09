@@ -1,0 +1,19 @@
+{
+  "id": "memorare",
+  "title": "Memorare",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/memorare.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thine intercession was left unaided.\n\nInspired by this confidence, I fly unto thee, O Virgin of virgins, my mother; to thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me.\n\nAmen." }
+      ]
+    },
+    {
+      "label": "Marathi",
+      "blocks": [
+        { "type": "text", "value": "हे मायाळू कुमारी मरिये, जो कोणी आपल्या संरक्षणासाठी तुझ्याकडे धावत आला, तुझे साहाय्य मागितले व तुझ्या मध्यस्थीची याचना केली, त्याच्याकडे तू पाठ फिरवलीस असे कोणी कधी ऐकले नाही, हे तू ध्यानात घे.\n\nहे परमश्रेष्ठ कुमारी आणि माता, तुझ्या चांगुलपणावर विसंबून मी पश्चात्तापी, तुझ्याकडे धाव घेतो, तुझ्याजवळ येतो आणि तुझ्यापुढे उभा राहतो, हे देवपुत्राचे माते, माझी विनंती नाकारू नकोस तर कृपा करून ती ऐक आणि मान्य कर.\n\nआमेन." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "apostles-creed",
+  "title": "Apostles Creed",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/apostles_creed.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "I believe in God, the Father Almighty, Creator of Heaven and earth; and in Jesus Christ, His only Son, Our Lord, Who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified; died, and was buried. He descended into Hell; the third day He arose again from the dead; He ascended into Heaven, sitteth at the right hand of God, the Father Almighty; from thence He shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting.\n\nAmen." }
+      ]
+    },
+    {
+      "label": "Marathi",
+      "blocks": [
+        { "type": "text", "value": "प्रेषितांचा विश्वासांगिकार\n\nस्वर्ग आणि पृथ्वी यांचा उत्पन्नकर्ता । सर्व समर्थ परमेश्वर पिता । यावर माझा विश्वास आहे । त्याचा एकुलता एक पुत्र । आमचा प्रभू येशू ख्रिस्त । यावरहीमाझा विश्वास आहे । तो पवित्र आत्म्याच्या योगाने गर्भी संभवला कुमारी मरियेपासून जन्मला। पोन्ती पिलाताच्या अमलाखाली । त्याने दुःख भोगले। त्याला क्रुसावर खिळले। तो मरण पावला । त्याला पुरले । तो अधोलोकांत उतरला । तिसऱ्या दिवशी मेलेल्यांतून उठला । स्वर्गात चढला आणि सर्वसमर्थ देवपित्याच्या उजवीकडे बसला आहे । तेथून तो जिवंत आणि मेलेले । यांचा न्याय करावयास । पुन्हा येईल । पवित्र आत्मा । पवित्र कॅथोलिक ख्रिस्तसभा । संतांचा परस्पर संबंध । पापांची क्षमा देहाचे पुनरूत्थान । आणि अनंतकाळचे जीवन । यावर माझा विश्वास आहे ।\n\nआमेन." }
+      ]
+    }
+  ]
+}

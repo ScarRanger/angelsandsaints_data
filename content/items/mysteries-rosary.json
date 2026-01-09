@@ -1,0 +1,33 @@
+{
+  "id": "mysteries-rosary",
+  "title": "The Mysteries of the Rosary",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/mysteries.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "heading", "value": "The Joyful Mysteries (Monday & Saturday)" },
+        { "type": "text", "value": "1. The Annunciation\n2. The Visitation\n3. The Nativity\n4. The Presentation in the Temple\n5. The Finding in the Temple" },
+        { "type": "heading", "value": "The Sorrowful Mysteries (Tuesday & Friday)" },
+        { "type": "text", "value": "1. The Agony in the Garden\n2. The Scourging at the Pillar\n3. The Crowning with Thorns\n4. The Carrying of the Cross\n5. The Crucifixion" },
+        { "type": "heading", "value": "The Glorious Mysteries (Sunday & Wednesday)" },
+        { "type": "text", "value": "1. The Resurrection\n2. The Ascension\n3. The Descent of the Holy Spirit\n4. The Assumption of Mary\n5. The Coronation of Mary as Queen of Heaven and Earth" },
+        { "type": "heading", "value": "The Luminous Mysteries (Thursday)" },
+        { "type": "text", "value": "1. The Baptism of Jesus in the Jordan\n2. The Wedding Feast at Cana\n3. The Proclamation of the Kingdom of God\n4. The Transfiguration\n5. The Institution of the Eucharist" }
+      ]
+    },
+    {
+      "label": "Marathi",
+      "blocks": [
+        { "type": "heading", "value": "आनंदाची रहस्ये (सोमवारी व शनिवारी)" },
+        { "type": "text", "value": "१. देवदुताने मरियेला संदेश दिला\n२. मरियेने एलिझाबेथची भेट घेतली\n३. बाळ येशू गाईच्या गोठ्यात जन्मला\n४. मरियेने येशूबाळाला मंदिरात भेटवले\n५. येशू मंदिरात सापडला" },
+        { "type": "heading", "value": "दुखाची रहस्ये (मंगळवारी व शुक्रवारी)" },
+        { "type": "text", "value": "१. येशूला बागेत रक्ताचा घाम आला\n२. येशूच्या अंगावर फटके मारले\n३. येशूच्या मस्तकावर काट्यांचा मुकुट घातला\n४. येशूने भारी क्रूस वाहिला\n५. येशूला क्रुसावर खिळले" },
+        { "type": "heading", "value": "गौरवाची रहस्ये (रविवारी व बुधवारी)" },
+        { "type": "text", "value": "१. येशू मेलेल्यातून तिसऱ्या दिवशी पुन्हा उठला\n२. येशू चाळीस दिवसानंतर स्वर्गात चढला\n३. पवित्र आत्मा प्रेषितांवर उतरला\n४. पवित्र मरिया सदेह स्वर्गात घेतली गेली\n५. पवित्र मरिया स्वर्ग आणि पृथ्वीची राणी झाली" },
+        { "type": "heading", "value": "प्रकाशाची रहस्ये (गुरुवारी)" },
+        { "type": "text", "value": "१. प्रभू येशूचा यार्देन नदीत बाप्तिस्मा झाला\n२. काना येथे प्रभू येशूने पाण्याचे द्राक्षारसात रूपांतर केले\n३. प्रभू येशूने स्वर्गराज्याची घोषणा करून पश्चात्तापासाठी आवाहन\n४. प्रभू येशूचे रूपांतर झाले\n५. पास्का रहस्याची आठवण म्हणून प्रभू येशूने पवित्र मिस्साबलीची स्थापना केली" }
+      ]
+    }
+  ]
+}

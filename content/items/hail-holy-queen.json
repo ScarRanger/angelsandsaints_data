@@ -1,0 +1,19 @@
+{
+  "id": "hail-holy-queen",
+  "title": "Hail Holy Queen",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/hail_holy_queen.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "Hail, holy Queen, Mother of Mercy! Our life, our sweetness, and our hope! To thee do we cry, poor banished children of Eve, to thee do we send up our sighs, mourning and weeping in this valley, of tears. Turn, then, most gracious advocate, thine eyes of mercy toward us; and after this our exile show unto us the blessed fruit of thy womb Jesus; O clement, O loving, O sweet virgin Mary. Pray for us, O holy Mother of God That we may be made worthy of the promises of Christ." }
+      ]
+    },
+    {
+      "label": "Marathi",
+      "blocks": [
+        { "type": "text", "value": "नमस्कार हे राणी\n\nनमस्कार हे राणी, दयेचे माते ! तू आमचे जीवन, आमचे माधुर्य आणि आमची आशा, तुला नमस्कार असो. तुझ्याकडे आम्ही देशपार झालेली एवेची मुले मोठ्याने आक्रोश करतो. तुझ्याकडे आम्ही या अश्रूंच्या दरीत शोक करत व रडत सुस्कारे टाकतो. तूच तर आमची कैवारीण आहेस, म्हणून तू आपली दयेची दृष्टी आम्हाकडे लाव आणि आमच्या या देशपारीनंतर तुझ्या उदराचे आशीर्वादित फळ येशू याचे आम्हाला दर्शन घडव. हे कृपाळू, हे ममताळू, हे मधुर कुमारी मरिया.\n\n- ख्रिस्ताने दिलेल्या वचनास आम्ही पात्र व्हावे म्हणून हे पवित्र देवमाते, आम्हासाठी विनंती कर." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fatima-prayer",
+  "title": "Fatima Prayer",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/fatima.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "Oh my Jesus, forgive us of our sins. Save us from the fires of hell. Lead all souls into heaven, especially those in most need of thy mercy.\n\nAmen." }
+      ]
+    },
+    {
+      "label": "Marathi",
+      "blocks": [
+        { "type": "text", "value": "हे येशू, आमच्या पापांची क्षमा कर. पापदंडापासून आमचे रक्षण कर. सर्व मनुष्यांना आणि विशेषकरून ज्यांना तुझ्या दयेची अधिक गरज आहे त्यांना स्वर्गाकडे ने.\n\nआमेन." }
+      ]
+    }
+  ]
+}

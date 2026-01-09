@@ -1,0 +1,19 @@
+{
+  "id": "nicene-creed",
+  "title": "Nicene Creed",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/nicene_creed.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all worlds; God of God, Light of Light, very God of very God; begotten, not made, being of one substance with the Father, by whom all things were made. Who, for us men for our salvation, came down from heaven, and was incarnate by the Holy Spirit of the virgin Mary, and was made man; and was crucified also for us under Pontius Pilate; He suffered and was buried; and the third day He rose again, according to the Scriptures; and ascended into heaven, and sits on the right hand of the Father; and He shall come again, with glory, to judge the quick and the dead; whose kingdom shall have no end. And I believe in the Holy Spirit, the Lord and Giver of Life; who proceeds from the Father [and the Son]; who with the Father and the Son together is worshipped and glorified; who spoke by the prophets. And I believe one holy catholic and apostolic Church. I acknowledge one baptism for the remission of sins; and I look for the resurrection of the dead, and the life of the world to come.\n\nAmen." }
+      ]
+    },
+    {
+      "label": "Marathi",
+      "blocks": [
+        { "type": "text", "value": "नायसियन क्रीड\n\nस्वर्ग आणि पृथ्वी सर्व दृश्य व अदृश्य वस्तू ह्यांचा उत्पन्नकर्ता । एकच परमेश्वर, सर्वशक्तिमान पिता । ह्यावर मी श्रद्धा ठेवतो । आणि परमेश्वराचा एकुलता एक पुत्र । येशू ख्रिस्त एकच प्रभू । ह्यावर मी श्रद्धा ठेवतो तो सर्व युगांपूर्वी पित्यापासून जन्मलेला आहे । परमेश्वरापासून परमेश्वर। प्रकाशापासून प्रकाश । खऱ्या परमेश्वरापासून खरा परमेश्वर तो पित्याशी एकतत्त्व असून । जन्मलेला आहे उत्पन्न केलेला नाही । त्याजकडून सर्व उत्पन्न झाले आहे । तो आम्हा मानवांसाठी । व आमच्या तारणासाठी । स्वर्गातून उतरला । तो पवित्र आत्म्याच्या योगाने । कुमारी मरियेपासून । शरीर धारण करून । मनुष्य झाला । शिवाय आम्हासाठी त्याला क्रुसी दिले । पोन्ती पिलाताच्या अमदानीत। त्याने दुःख भोगले । तो मरण पावला । त्याला पुरले । तो अधोलोकांत उतरला । शास्त्राप्रमाणे तो तिसऱ्या दिवशी पुन्हा जिवंत झाला । व स्वर्गात चढला आणि पित्याच्या उजवीकडे बसला आहे । आणि जिवंतांचा व मृतांचा न्याय करावयास । वैभवाने पुन्हा येणार आहे । त्याच्या राज्याचा शेवट होणार नाही । आणि पवित्र आत्मा । प्रभू व जीवनदाता । यावर मी श्रद्धा ठेवतो । तो पिता आणि पुत्र यांपासून निघतो। आणि पिता व पुत्र । यांसहित त्याला भजतात व त्याचा गौरव करतात । तो संदेष्ट्यांमार्फत बोलला आहे । आणि एकाच, पवित्र, कॅथोलिक व प्रेषितीय ख्रिस्तसभेवर । मी श्रद्धा ठेवतो । पापक्षमेसाठी मी एक बाप्तिस्मा मान्य करतो । आणि मेलेल्यांचे पुनरूत्थान । व भावी जगातील जीवनाची । मी वाट पाहतो ।\n\nआमेन." }
+      ]
+    }
+  ]
+}

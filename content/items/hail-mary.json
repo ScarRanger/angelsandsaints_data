@@ -1,0 +1,19 @@
+{
+  "id": "hail-mary",
+  "title": "Hail Mary",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/hail_mary.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "Hail Mary, full of grace. Our Lord is with you. Blessed are you among women, and blessed is the fruit of your womb, Jesus.\n\nHoly Mary, Mother of God pray for us sinners, now and at the hour of our death.\n\nAmen." }
+      ]
+    },
+    {
+      "label": "Marathi",
+      "blocks": [
+        { "type": "text", "value": "नमो कृपापूर्ण मरिये, प्रभू तुझ्या ठायी आहे. धन्य तू स्त्रियांमध्ये धन्य तुझ्या उदराचे फळ येशू.\n\nहे पवित्र मरिये, देवाचे माते, आम्हा पाप्यांसाठी आता आणि आमच्या मरणाच्या वेळी विनंती कर.\n\nआमेन." }
+      ]
+    }
+  ]
+}

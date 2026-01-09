@@ -1,0 +1,27 @@
+{
+  "id": "angelus",
+  "title": "Angelus",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/angelus.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "V/. The Angel of the Lord declared unto Mary,\nR/. And she conceived of the Holy Spirit.\n\nHail Mary, full of grace, the Lord is with you; blessed are you among women, and blessed is the fruit of your womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen." },
+        { "type": "text", "value": "V/. Behold the handmaid of the Lord,\nR/. Be it done unto me according to your Word.\n\nHail Mary…" },
+        { "type": "text", "value": "V/. And the Word was made flesh,\nR/. And dwelt among us.\n\nHail Mary…" },
+        { "type": "text", "value": "V/. Pray for us, O holy Mother of God,\nR/. That we may be made worthy of the promises of Christ." },
+        { "type": "text", "value": "Let us pray. Pour forth, we beseech you, O Lord, your grace into our hearts: that we, to whom the Incarnation of Christ your Son was made known by the message of an Angel, may by his Passion and Cross be brought to the glory of his Resurrection. Through the same Christ our Lord. Amen." }
+      ]
+    },
+    {
+      "label": "Marathi",
+      "blocks": [
+        { "type": "text", "value": "- प्रभूच्या दूताने मरियेला संदेश दिला,\n  आणि ती पवित्र आत्म्याच्या योगाने\n  गर्भवती झाली.\n\n- नमो कृपापूर्ण मरिये ..." },
+        { "type": "text", "value": "- पहा, मी प्रभूची दासी आहे,\n  तुझ्या शब्दाप्रमाणे माझ्याठायी होवो.\n\n- नमो कृपापूर्ण मरिये ..." },
+        { "type": "text", "value": "- देवशब्द मनुष्य झाला,\n  आणि आम्हामध्ये राहिला.\n\n- नमो कृपापूर्ण मरिये ..." },
+        { "type": "text", "value": "- ख्रिस्ताने दिलेल्या वचनांस\n  आम्ही पात्र व्हावे म्हणून\n  हे पवित्र देवमाते,\n  आम्हासाठी विनंती कर.." },
+        { "type": "text", "value": "- आपण प्रार्थना करूया:\nहे प्रभो, आम्ही तुला विनंती करतो की आमच्या अंत:करणात तुझ्या कृपेचा वर्षाव कर. तुझा पुत्र ख्रिस्त ह्याचे देहधारण आम्हाला दूताच्या संदेशाद्वारे प्रकट करण्यात आले. त्याच्या दुःखसहनाच्या व क्रुसाच्याद्वारे आम्हाला पुनरुत्थानाचे वैभव मिळू दे, ही प्रार्थना आम्ही आमच्या प्रभुख्रिस्ताद्वारे करतो.\nआमेन.\n\nईश्वरी मदत आम्हाला सदैव लाभो\nमेलेल्या विश्वासू लोकांचे आत्मे देवाच्या दयेने शांती पावोत\nआमेन." }
+      ]
+    }
+  ]
+}

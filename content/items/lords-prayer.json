@@ -1,0 +1,19 @@
+{
+  "id": "lords-prayer",
+  "title": "Lords Prayer",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/our_father.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven.\n\nGive us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.\n\nFor thine is the kingdom, and the power, and the glory, for ever and ever.\n\nAmen." }
+      ]
+    },
+    {
+      "label": "Marathi",
+      "blocks": [
+        { "type": "text", "value": "आमच्या स्वर्गीयबापा\n\nआमच्या स्वर्गीय बापा, तुझे नाव पवित्र मानले जावो, तुझे राज्य येवो. जसे स्वर्गात तसे पृथ्वीवरही तुझ्या इच्छेप्रमाणे होवो.\n\nआमची दररोजची भाकर आज आम्हाला दे. जशी आम्ही आमचा अपराध करणाऱ्यांना क्षमा करतो तशी तू आमच्या अपराधांची क्षमा कर आणि आम्हाला मोहात पडू देऊ नकोस पण वाईटापासून आम्हाला सोडव.\n\nआमेन." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "prayer-before-meals",
+  "title": "Prayer Before Meals",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/meal_prayer.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "Bless us, Oh Lord, and these thy gifts which we are about to receive from thy bounty, through Christ, Our Lord.\n\nAmen." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "prayer-after-communion",
+  "title": "Prayer After Holy Communion",
+  "imageUrl": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/images/communion_prayer.jpg",
+  "versions": [
+    {
+      "label": "English",
+      "blocks": [
+        { "type": "text", "value": "What has passed our lips as food, O Lord, may we possess in purity of heart, that what is given to us in time, be our healing for eternity. May Your Body, O Lord, which I have eaten, and Your Blood which I have drunk, cleave to my very soul, and grant that no trace of sin be found in me, whom these pure and holy mysteries have renewed. Who live and reign, world without end. Amen.\n\nWe humbly beseech You, almighty god, to grant that those whom You refresh with Your sacraments, may serve you worthily by a life well pleasing to You. Through our Lord Jesus Christ, Your Son, Who lives and reigns, world without end. Amen." }
+      ]
+    }
+  ]
+}
