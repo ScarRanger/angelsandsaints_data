@@ -1,2 +1,6 @@
 images
 assets
+.venv
+.env.example
+requirements.txt
+upload_to_r2.py
