@@ -34,6 +34,14 @@
             "imageUrl": "https://your-domain/assets/images/prayers.jpg",
             "order": 5,
             "enabled": true
+        },
+        {
+            "id": "bible",
+            "title": "Bible",
+            "imageUrl": "https://your-domain/assets/images/bible.jpg",
+            "order": 6,
+            "enabled": true
         }
+
     ]
 }
