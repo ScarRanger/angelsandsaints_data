@@ -4,84 +4,84 @@
             "id": "st-peter",
             "title": "St. Peter",
             "summary": "The fisherman called to be the 'Rock' of the Church and the first Pope.",
-            "imageUrl": "https://your-domain.com/images/peter_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/home/peter.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-andrew",
             "title": "St. Andrew",
             "summary": "The first-called Apostle and brother of Peter, known for his missionary zeal.",
-            "imageUrl": "https://your-domain.com/images/andrew_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/andrew.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-james-major",
             "title": "St. James Major",
             "summary": "The first Apostle to be martyred and a member of Jesus' inner circle.",
-            "imageUrl": "https://your-domain.com/images/james_major_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/james_major.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-john",
             "title": "St. John",
             "summary": "The Beloved Disciple and Evangelist who stood at the foot of the Cross.",
-            "imageUrl": "https://your-domain.com/images/john_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/john.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-philip",
             "title": "St. Philip",
             "summary": "The Apostle who led Nathanael to Christ and requested to see the Father.",
-            "imageUrl": "https://your-domain.com/images/philip_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/philip.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-thaddeus",
             "title": "St. Thaddeus",
             "summary": "Also known as Jude, the patron saint of lost causes and desperate situations.",
-            "imageUrl": "https://your-domain.com/images/thaddeus_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/thaddeus.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-bartholomew",
             "title": "St. Bartholomew",
             "summary": "Recognized as Nathanael, the Israelite 'in whom there is no guile.'",
-            "imageUrl": "https://your-domain.com/images/bartholomew_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/bartholomew.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-thomas",
             "title": "St. Thomas",
             "summary": "Famous for his initial doubt, he later confessed 'My Lord and my God.'",
-            "imageUrl": "https://your-domain.com/images/thomas_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/thomas.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-james-less",
             "title": "St. James Less",
             "summary": "Author of the Epistle of James and a key leader in the early Church in Jerusalem.",
-            "imageUrl": "https://your-domain.com/images/james_less_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/james_less.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-matthew",
             "title": "St. Matthew",
             "summary": "The former tax collector who left everything to follow Jesus and write the Gospel.",
-            "imageUrl": "https://your-domain.com/images/matthew_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/matthew.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "st-simon",
             "title": "St. Simon",
             "summary": "Known as the Zealot, he preached the Gospel with great fervor across many lands.",
-            "imageUrl": "https://your-domain.com/images/simon_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/simon.jpeg",
             "categoryId": "apostles"
         },
         {
             "id": "judas-iscariot",
             "title": "Judas Iscariot",
             "summary": "The disciple who betrayed Jesus, leading to the events of the Passion.",
-            "imageUrl": "https://your-domain.com/images/judas_thumb.jpg",
+            "imageUrl": "https://your-domain.com/assets/images/apostles/judas.jpeg",
             "categoryId": "apostles"
         }
     ]
