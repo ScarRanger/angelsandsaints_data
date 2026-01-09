@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "id": "angels",
+            "title": "Angels",
+            "imageUrl": "https://your-domain/assets/images/angels.jpg",
+            "order": 1,
+            "enabled": true
+        },
+        {
+            "id": "apostles",
+            "title": "Apostles",
+            "imageUrl": "https://your-domain/assets/images/apostles.jpg",
+            "order": 2,
+            "enabled": true
+        },
+        {
+            "id": "saints",
+            "title": "Saints",
+            "imageUrl": "https://your-domain/assets/images/saints.jpg",
+            "order": 3,
+            "enabled": true
+        },
+        {
+            "id": "child_saints",
+            "title": "Child Saints",
+            "imageUrl": "https://your-domain/assets/images/child_saints.jpg",
+            "order": 4,
+            "enabled": true
+        },
+        {
+            "id": "prayers",
+            "title": "Common Prayers",
+            "imageUrl": "https://your-domain/assets/images/prayers.jpg",
+            "order": 5,
+            "enabled": true
+        }
+    ]
+}
