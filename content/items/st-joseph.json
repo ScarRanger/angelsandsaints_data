@@ -1,0 +1,34 @@
+{
+  "id": "st-joseph",
+  "title": "St. Joseph",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/home/joseph_thumb.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Foster-Father of Jesus"
+    },
+    {
+      "type": "text",
+      "value": "Saint Joseph was chosen by God to be the husband of the Blessed Virgin Mary and the foster-father of Jesus Christ. He is the Patron of the Universal Church, workers, fathers, and a happy death."
+    },
+    {
+      "type": "heading",
+      "value": "The Just Man"
+    },
+    {
+      "type": "text",
+      "value": "Scripture calls Joseph 'a just man' (Matthew 1:19). When he discovered Mary was with child, he planned to divorce her quietly rather than expose her to shame. An angel revealed that the child was conceived by the Holy Spirit, and Joseph obediently took Mary as his wife."
+    },
+    {
+      "type": "heading",
+      "value": "Protector and Provider"
+    },
+    {
+      "type": "text",
+      "value": "Joseph protected the Holy Family, fleeing to Egypt to escape Herod's massacre. As a carpenter, he provided for Jesus and Mary through honest labor. He taught Jesus his trade and raised Him with loving care. Joseph is invoked as a powerful intercessor and patron of a peaceful death."
+    }
+  ]
+}

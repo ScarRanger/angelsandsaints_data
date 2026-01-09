@@ -1,0 +1,34 @@
+{
+  "id": "archangels",
+  "title": "8. Archangels",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/archangels.png"
+    },
+    {
+      "type": "heading",
+      "value": "Chief Messengers of God"
+    },
+    {
+      "type": "text",
+      "value": "Archangels are the chief messengers who carry out God's most important missions for humanity. They are known by name in Scripture and tradition."
+    },
+    {
+      "type": "heading",
+      "value": "The Three Named Archangels"
+    },
+    {
+      "type": "text",
+      "value": "Sacred Scripture names three: Michael ('Who is like God?'), the warrior prince; Gabriel ('God is my strength'), the divine messenger; and Raphael ('God heals'), the guardian and healer."
+    },
+    {
+      "type": "heading",
+      "value": "Their Missions"
+    },
+    {
+      "type": "text",
+      "value": "Archangels appear at pivotal moments in salvation history. Gabriel announced the Incarnation to Mary, Michael leads the heavenly armies, and Raphael guided Tobias on his journey. They execute God's most crucial commands."
+    }
+  ]
+}

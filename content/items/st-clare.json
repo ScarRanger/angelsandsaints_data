@@ -1,0 +1,34 @@
+{
+  "id": "st-clare",
+  "title": "St. Clare",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/clare.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Foundress of the Poor Clares"
+    },
+    {
+      "type": "text",
+      "value": "Saint Clare of Assisi was a noblewoman who, inspired by Saint Francis, left her family to embrace a life of radical poverty and prayer. She became the foundress of the Order of Poor Ladies (Poor Clares)."
+    },
+    {
+      "type": "heading",
+      "value": "Life of Contemplation"
+    },
+    {
+      "type": "text",
+      "value": "Clare lived in the monastery of San Damiano for over 40 years, never leaving despite illness. Her community devoted themselves to prayer, especially adoration of the Blessed Sacrament, supporting Francis' preaching through their hidden life of intercession."
+    },
+    {
+      "type": "heading",
+      "value": "Defender with the Eucharist"
+    },
+    {
+      "type": "text",
+      "value": "When Saracen soldiers attacked her monastery, Clare, though bedridden, held up the monstrance with the Blessed Sacrament. The attackers fled in terror. She died in 1253 and is the patron saint of television (because she once miraculously 'saw' Mass on her wall)."
+    }
+  ]
+}

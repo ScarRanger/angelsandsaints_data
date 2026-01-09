@@ -1,0 +1,34 @@
+{
+  "id": "thrones",
+  "title": "3. Thrones",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/thrones.png"
+    },
+    {
+      "type": "heading",
+      "value": "Bearers of Divine Justice"
+    },
+    {
+      "type": "text",
+      "value": "The Thrones are majestic angels who serve as the living symbols of God's justice and authority. They are called Thrones because God's glory rests upon them."
+    },
+    {
+      "type": "heading",
+      "value": "Their Characteristics"
+    },
+    {
+      "type": "text",
+      "value": "These angels are depicted in sacred Scripture as great wheels covered with eyes, constantly turning and reflecting the omnipresence of divine judgment. They manifest the steadfastness and stability of God's power."
+    },
+    {
+      "type": "heading",
+      "value": "Ministry of Justice"
+    },
+    {
+      "type": "text",
+      "value": "Thrones bring God's justice to bear upon the world. They assist in maintaining cosmic order and ensure that divine will is executed perfectly throughout creation."
+    }
+  ]
+}

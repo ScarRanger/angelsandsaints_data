@@ -1,0 +1,34 @@
+{
+  "id": "st-mary-magdalene",
+  "title": "St. Mary Magdalene",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/magdelena.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Apostle to the Apostles"
+    },
+    {
+      "type": "text",
+      "value": "Saint Mary Magdalene was a devoted follower of Jesus from whom He cast out seven demons. She became one of His most faithful disciples, supporting His ministry and following Him to the Cross."
+    },
+    {
+      "type": "heading",
+      "value": "First Witness of the Resurrection"
+    },
+    {
+      "type": "text",
+      "value": "Mary Magdalene was the first person to whom the Risen Christ appeared on Easter morning. Initially mistaking Him for the gardener, she recognized Jesus when He spoke her name. He commissioned her to announce His resurrection to the apostles."
+    },
+    {
+      "type": "heading",
+      "value": "Model of Conversion"
+    },
+    {
+      "type": "text",
+      "value": "Mary Magdalene represents the transformative power of Christ's love. From a life troubled by demons, she became a great saint, exemplifying repentance, faithful love, and contemplative devotion. She is the patron saint of penitent sinners and contemplatives."
+    }
+  ]
+}

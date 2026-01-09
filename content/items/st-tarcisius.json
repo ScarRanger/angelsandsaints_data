@@ -1,0 +1,34 @@
+{
+  "id": "st-tarcisius",
+  "title": "St. Tarcisius",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/child_saints/tarcisius.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Martyr of the Eucharist"
+    },
+    {
+      "type": "text",
+      "value": "Saint Tarcisius was a young acolyte in 3rd-century Rome during the persecution of Christians. He is honored as the patron saint of altar servers and First Communicants."
+    },
+    {
+      "type": "heading",
+      "value": "Protecting the Blessed Sacrament"
+    },
+    {
+      "type": "text",
+      "value": "When a priest needed someone to bring the Eucharist to imprisoned Christians, young Tarcisius volunteered. On his way, he was attacked by pagan boys who demanded to see what he was carrying. He refused, protecting the Blessed Sacrament with his life."
+    },
+    {
+      "type": "heading",
+      "value": "Death in Defense of Jesus"
+    },
+    {
+      "type": "text",
+      "value": "The boys beat Tarcisius mercilessly, but he would not surrender the Eucharist. When Christian soldiers arrived, they found him dead, still clutching the consecrated Host to his chest. He is called the 'martyr of the Eucharist' for his heroic love."
+    }
+  ]
+}

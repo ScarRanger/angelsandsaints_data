@@ -1,0 +1,34 @@
+{
+  "id": "st-philip",
+  "title": "St. Philip",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/philip.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "The Apostle Who Brought Nathanael"
+    },
+    {
+      "type": "text",
+      "value": "Philip was from Bethsaida, the same town as Peter and Andrew. Upon being called by Jesus, he immediately found Nathanael (Bartholomew) and brought him to Christ, saying 'We have found him of whom Moses wrote' (John 1:45)."
+    },
+    {
+      "type": "heading",
+      "value": "Show Us the Father"
+    },
+    {
+      "type": "text",
+      "value": "At the Last Supper, Philip made the famous request: 'Lord, show us the Father, and it is enough for us.' Jesus replied, 'Have I been with you so long, and you still do not know me, Philip? Whoever has seen me has seen the Father' (John 14:8-9)."
+    },
+    {
+      "type": "heading",
+      "value": "Ministry and Death"
+    },
+    {
+      "type": "text",
+      "value": "Tradition holds that Philip preached in Greece, Syria, and Phrygia. He is believed to have been martyred in Hierapolis, either by crucifixion or stoning, for his unwavering proclamation of Christ."
+    }
+  ]
+}

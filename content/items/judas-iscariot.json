@@ -1,0 +1,34 @@
+{
+  "id": "judas-iscariot",
+  "title": "Judas Iscariot",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/judas.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "The Betrayer"
+    },
+    {
+      "type": "text",
+      "value": "Judas Iscariot was one of the Twelve Apostles chosen by Jesus. Despite witnessing countless miracles and hearing Christ's teachings firsthand, he betrayed his Master for thirty pieces of silver."
+    },
+    {
+      "type": "heading",
+      "value": "The Betrayal"
+    },
+    {
+      "type": "text",
+      "value": "In the Garden of Gethsemane, Judas identified Jesus to the arresting soldiers with a kiss—a sign of affection turned into a symbol of treachery. His betrayal set in motion the events of Christ's Passion and Death."
+    },
+    {
+      "type": "heading",
+      "value": "His Tragic End"
+    },
+    {
+      "type": "text",
+      "value": "Overcome with remorse, Judas returned the silver and hanged himself (Matthew 27:3-5). His story serves as a warning about the dangers of greed, the hardening of the heart, and despair. Unlike Peter, who also denied Christ but repented, Judas did not turn to God's mercy."
+    }
+  ]
+}

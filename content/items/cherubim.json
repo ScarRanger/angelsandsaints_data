@@ -1,0 +1,34 @@
+{
+  "id": "cherubim",
+  "title": "2. Cherubim",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/cherubim.png"
+    },
+    {
+      "type": "heading",
+      "value": "Angels of Deep Wisdom"
+    },
+    {
+      "type": "text",
+      "value": "The Cherubim are angels of profound wisdom and knowledge. They guard sacred spaces and radiate the light of God's glory and knowledge."
+    },
+    {
+      "type": "heading",
+      "value": "Biblical Role"
+    },
+    {
+      "type": "text",
+      "value": "After the Fall, God placed Cherubim with a flaming sword to guard the way to the Tree of Life (Genesis 3:24). In the Temple, golden images of Cherubim adorned the Ark of the Covenant, symbolizing God's throne."
+    },
+    {
+      "type": "heading",
+      "value": "Their Mission"
+    },
+    {
+      "type": "text",
+      "value": "Cherubim protect the divine mysteries and serve as the guardians of God's holiness. They assist in dispensing divine wisdom to those whom God wishes to enlighten."
+    }
+  ]
+}

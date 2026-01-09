@@ -1,0 +1,34 @@
+{
+  "id": "st-maria-goretti",
+  "title": "St. Maria Goretti",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/child_saints/maria_goretti.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Martyr of Purity"
+    },
+    {
+      "type": "text",
+      "value": "Saint Maria Goretti was an Italian girl who became a martyr of purity at age 11. She is the patron saint of youth, teenage girls, victims of rape, and forgiveness."
+    },
+    {
+      "type": "heading",
+      "value": "Assault and Martyrdom"
+    },
+    {
+      "type": "text",
+      "value": "In 1902, a 19-year-old neighbor, Alessandro Serenelli, attempted to rape Maria. She resisted, crying out that it was a mortal sin and he would go to hell. Enraged, he stabbed her 14 times. She died the next day after forgiving him."
+    },
+    {
+      "type": "heading",
+      "value": "Forgiveness and Conversion"
+    },
+    {
+      "type": "text",
+      "value": "Before dying, Maria said: 'I forgive Alessandro and want him to be with me in heaven.' Alessandro repented in prison after Maria appeared to him in a vision. He attended her canonization in 1950. Maria's mother also publicly forgave him."
+    }
+  ]
+}

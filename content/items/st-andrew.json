@@ -1,0 +1,34 @@
+{
+  "id": "st-andrew",
+  "title": "St. Andrew",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/andrew.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "The First-Called Apostle"
+    },
+    {
+      "type": "text",
+      "value": "Saint Andrew was the brother of Simon Peter and the first disciple called by Jesus. Originally a follower of John the Baptist, Andrew immediately recognized Jesus as the Messiah."
+    },
+    {
+      "type": "heading",
+      "value": "Bringing Others to Christ"
+    },
+    {
+      "type": "text",
+      "value": "Andrew's first act after meeting Jesus was to bring his brother Peter to the Lord (John 1:40-42). He is known as a great evangelist who constantly brought others to Christ, including the boy with loaves and fishes."
+    },
+    {
+      "type": "heading",
+      "value": "Missionary Work and Martyrdom"
+    },
+    {
+      "type": "text",
+      "value": "Tradition holds that Andrew preached in Greece, Asia Minor, and Russia. He was martyred in Patras, Greece, on an X-shaped cross (now called St. Andrew's Cross), which he embraced as a blessing, spending two days preaching from it before his death."
+    }
+  ]
+}

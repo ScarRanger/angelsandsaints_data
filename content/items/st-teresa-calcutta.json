@@ -1,0 +1,34 @@
+{
+  "id": "st-teresa-calcutta",
+  "title": "St. Teresa of Calcutta",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/mother_tesera.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Saint of the Gutters"
+    },
+    {
+      "type": "text",
+      "value": "Mother Teresa of Calcutta, born Agnes Gonxha Bojaxhiu in Albania, answered God's call to serve 'the poorest of the poor.' She founded the Missionaries of Charity, dedicated to serving those whom society had abandoned."
+    },
+    {
+      "type": "heading",
+      "value": "Seeing Christ in the Poor"
+    },
+    {
+      "type": "text",
+      "value": "Mother Teresa saw Jesus in every suffering person, especially the dying destitute of Calcutta. She picked up the sick and dying from the streets, giving them dignity, love, and care in their final hours. Her famous words: 'Do small things with great love.'"
+    },
+    {
+      "type": "heading",
+      "value": "Nobel Prize and Sainthood"
+    },
+    {
+      "type": "text",
+      "value": "She received the Nobel Peace Prize in 1979. After her death in 1997, her private writings revealed a profound 'dark night of the soul'—spiritual dryness she endured for decades. She was canonized in 2016, a model of faithful service despite inner desolation."
+    }
+  ]
+}

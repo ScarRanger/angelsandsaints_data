@@ -1,0 +1,34 @@
+{
+  "id": "st-paul",
+  "title": "St. Paul",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/paul_.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Apostle to the Gentiles"
+    },
+    {
+      "type": "text",
+      "value": "Saint Paul, originally named Saul, was a fierce persecutor of Christians until his dramatic conversion on the road to Damascus. Christ appeared to him in a blinding light, asking 'Saul, why do you persecute me?' (Acts 9:4)."
+    },
+    {
+      "type": "heading",
+      "value": "Missionary Journeys"
+    },
+    {
+      "type": "text",
+      "value": "After his conversion, Paul became Christianity's greatest missionary, undertaking three major journeys throughout the Roman Empire. He founded numerous churches and wrote at least 13 New Testament epistles, providing deep theological insights into the Christian faith."
+    },
+    {
+      "type": "heading",
+      "value": "Martyrdom in Rome"
+    },
+    {
+      "type": "text",
+      "value": "Paul was imprisoned multiple times for preaching Christ. He was eventually martyred in Rome under Emperor Nero, beheaded as a Roman citizen. His writings continue to shape Christian theology and spirituality, emphasizing salvation by grace through faith."
+    }
+  ]
+}

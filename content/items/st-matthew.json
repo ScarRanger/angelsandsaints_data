@@ -1,0 +1,34 @@
+{
+  "id": "st-matthew",
+  "title": "St. Matthew",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/matthew.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "The Tax Collector Called"
+    },
+    {
+      "type": "text",
+      "value": "Matthew, also called Levi, was a tax collector—a profession despised by Jews as it represented collaboration with Roman occupiers. Jesus called him with two simple words: 'Follow me' (Matthew 9:9), and Matthew immediately left everything."
+    },
+    {
+      "type": "heading",
+      "value": "The First Gospel"
+    },
+    {
+      "type": "text",
+      "value": "Matthew wrote the first Gospel, specifically for Jewish readers. He emphasized Jesus as the promised Messiah, beginning with a genealogy tracing Jesus to Abraham and David, and citing numerous Old Testament prophecies fulfilled in Christ."
+    },
+    {
+      "type": "heading",
+      "value": "From Sinner to Saint"
+    },
+    {
+      "type": "text",
+      "value": "Matthew's radical conversion shows Christ's power to transform lives. From a social outcast, he became an evangelist and apostle. Tradition says he preached in Ethiopia and Persia before being martyred for the faith."
+    }
+  ]
+}

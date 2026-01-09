@@ -1,0 +1,34 @@
+{
+  "id": "st-francis-assisi",
+  "title": "St. Francis of Assisi",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/francis_assisi.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Lover of Poverty and Creation"
+    },
+    {
+      "type": "text",
+      "value": "Saint Francis of Assisi was born into wealth but renounced everything to follow Christ in radical poverty. He became one of the most beloved saints, known for his love of God, creation, and the poor."
+    },
+    {
+      "type": "heading",
+      "value": "Franciscan Order"
+    },
+    {
+      "type": "text",
+      "value": "Francis gathered followers who shared his vision of living the Gospel literally. He founded the Franciscan Order, emphasizing poverty, preaching, and service. He called all creatures his brothers and sisters, famously preaching to birds and taming a wolf."
+    },
+    {
+      "type": "heading",
+      "value": "Stigmata and Death"
+    },
+    {
+      "type": "text",
+      "value": "In 1224, while praying on Mount La Verna, Francis received the stigmata—the wounds of Christ crucified—the first recorded case in history. He died in 1226, singing Psalm 142. He is the patron saint of animals, ecology, and Italy."
+    }
+  ]
+}

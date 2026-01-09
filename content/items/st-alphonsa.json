@@ -1,0 +1,34 @@
+{
+  "id": "st-alphonsa",
+  "title": "St. Alphonsa",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/alphonsa.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "First Female Saint of India"
+    },
+    {
+      "type": "text",
+      "value": "Saint Alphonsa of the Immaculate Conception was born in Kerala, India in 1910. She is the first woman of Indian origin to be canonized as a saint by the Catholic Church."
+    },
+    {
+      "type": "heading",
+      "value": "Life of Suffering"
+    },
+    {
+      "type": "text",
+      "value": "From childhood, Alphonsa experienced tremendous suffering—illness, burns, and chronic pain. To avoid an arranged marriage, she accidentally stepped into a pit of burning chaff, suffering severe burns. She joined the Franciscan Clarist Congregation, offering her sufferings for souls."
+    },
+    {
+      "type": "heading",
+      "value": "United with Christ Crucified"
+    },
+    {
+      "type": "text",
+      "value": "Despite constant physical agony, Alphonsa remained joyful and devoted to God. She said, 'I will remain on the cross with a smiling face.' She died in 1946 at age 36 and was canonized in 2008. She is invoked for healing and strength in suffering."
+    }
+  ]
+}

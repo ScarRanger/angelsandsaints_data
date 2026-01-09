@@ -1,0 +1,34 @@
+{
+  "id": "st-agnes-rome",
+  "title": "St. Agnes of Rome",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/child_saints/agnes.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Virgin Martyr"
+    },
+    {
+      "type": "text",
+      "value": "Saint Agnes was a Roman girl who was martyred at age 12 or 13 during the persecution of Diocletian around AD 304. She is one of the most venerated virgin martyrs of the Church."
+    },
+    {
+      "type": "heading",
+      "value": "Bride of Christ"
+    },
+    {
+      "type": "text",
+      "value": "Agnes had consecrated her virginity to Christ from childhood. When a Roman official's son sought to marry her, she refused, declaring: 'I am already promised to the Lord of the universe. I will not betray my true love.'"
+    },
+    {
+      "type": "heading",
+      "value": "Martyrdom and Miracles"
+    },
+    {
+      "type": "text",
+      "value": "Agnes was condemned to be defiled in a brothel, but her hair miraculously grew to cover her body, and a divine light protected her. She was then sentenced to be burned, but the flames would not touch her. Finally, she was beheaded. She is the patron saint of young girls and chastity."
+    }
+  ]
+}

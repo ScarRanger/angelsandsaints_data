@@ -1,0 +1,34 @@
+{
+  "id": "st-james-less",
+  "title": "St. James Less",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/james_less.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "James the Just"
+    },
+    {
+      "type": "text",
+      "value": "James the Less, also called James the Just, was likely a relative of Jesus (called the 'brother of the Lord'). He became the first bishop of Jerusalem and a pillar of the early Church."
+    },
+    {
+      "type": "heading",
+      "value": "Author and Leader"
+    },
+    {
+      "type": "text",
+      "value": "James wrote the Epistle of James, emphasizing practical faith: 'Faith without works is dead' (James 2:26). He presided over the Council of Jerusalem (Acts 15), helping to resolve the question of Gentile converts."
+    },
+    {
+      "type": "heading",
+      "value": "Martyrdom in Jerusalem"
+    },
+    {
+      "type": "text",
+      "value": "According to tradition, James was thrown from the pinnacle of the Temple and stoned to death around AD 62 for refusing to deny Christ. His faithfulness unto death earned him the title 'James the Just.'"
+    }
+  ]
+}

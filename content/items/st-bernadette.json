@@ -1,0 +1,34 @@
+{
+  "id": "st-bernadette",
+  "title": "St. Bernadette",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/bernadatte.png"
+    },
+    {
+      "type": "heading",
+      "value": "Visionary of Lourdes"
+    },
+    {
+      "type": "text",
+      "value": "Saint Bernadette Soubirous was a poor, illiterate girl from Lourdes, France. In 1858, at age 14, the Blessed Virgin Mary appeared to her 18 times in a grotto, revealing herself as 'the Immaculate Conception.'"
+    },
+    {
+      "type": "heading",
+      "value": "The Apparitions"
+    },
+    {
+      "type": "text",
+      "value": "Mary asked Bernadette to dig in the ground, revealing a spring whose waters have been the source of thousands of miraculous healings. She requested that a chapel be built and that people come in procession, praying the Rosary and doing penance."
+    },
+    {
+      "type": "heading",
+      "value": "Hidden Life and Death"
+    },
+    {
+      "type": "text",
+      "value": "After the apparitions, Bernadette joined the Sisters of Charity. She lived in obscurity, suffering from tuberculosis and bone cancer. She died in 1879 at age 35. Her body remains incorrupt. Lourdes has become one of the world's greatest pilgrimage sites."
+    }
+  ]
+}

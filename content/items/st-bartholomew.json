@@ -1,0 +1,34 @@
+{
+  "id": "st-bartholomew",
+  "title": "St. Bartholomew",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/bartholomew.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "The Israelite Without Guile"
+    },
+    {
+      "type": "text",
+      "value": "Bartholomew is identified with Nathanael, whom Philip brought to Jesus. When Jesus saw him, He declared: 'Behold, an Israelite indeed, in whom there is no deceit!' (John 1:47)."
+    },
+    {
+      "type": "heading",
+      "value": "His Conversion"
+    },
+    {
+      "type": "text",
+      "value": "Initially skeptical ('Can anything good come out of Nazareth?'), Nathanael became a devoted disciple after Jesus demonstrated supernatural knowledge of him. He confessed: 'Rabbi, you are the Son of God! You are the King of Israel!' (John 1:49)."
+    },
+    {
+      "type": "heading",
+      "value": "Martyrdom"
+    },
+    {
+      "type": "text",
+      "value": "Tradition states that Bartholomew preached in India, Armenia, and Mesopotamia. He was martyred in Armenia, reportedly flayed alive and then beheaded for refusing to worship pagan idols. He is often depicted in art holding his own skin."
+    }
+  ]
+}

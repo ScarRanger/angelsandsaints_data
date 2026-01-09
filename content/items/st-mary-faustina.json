@@ -1,0 +1,34 @@
+{
+  "id": "st-mary-faustina",
+  "title": "St. Mary Faustina",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/faustina.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Apostle of Divine Mercy"
+    },
+    {
+      "type": "text",
+      "value": "Saint Maria Faustina Kowalska was a Polish nun who received extraordinary visions of Jesus. Through her, Christ revealed His infinite mercy and desire to save all souls, especially the greatest sinners."
+    },
+    {
+      "type": "heading",
+      "value": "The Divine Mercy Message"
+    },
+    {
+      "type": "text",
+      "value": "Jesus appeared to Faustina and said, 'Paint an image according to the pattern you see, with the signature: Jesus, I Trust in You.' He taught her the Chaplet of Divine Mercy and requested that the Sunday after Easter be celebrated as Divine Mercy Sunday."
+    },
+    {
+      "type": "heading",
+      "value": "Diary and Legacy"
+    },
+    {
+      "type": "text",
+      "value": "Faustina recorded Jesus' messages in her 'Diary,' which has become a spiritual classic. She died of tuberculosis in 1938 at age 33. Pope John Paul II canonized her in 2000, and her message of Divine Mercy has spread worldwide."
+    }
+  ]
+}

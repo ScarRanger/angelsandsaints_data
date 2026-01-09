@@ -1,0 +1,34 @@
+{
+  "id": "brief-angels",
+  "title": "Brief About Angels",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/angels_brief.png"
+    },
+    {
+      "type": "heading",
+      "value": "God's Celestial Messengers"
+    },
+    {
+      "type": "text",
+      "value": "Angels are pure spiritual beings created by God to serve as His messengers and ministers. They possess intelligence and free will, and exist to glorify God and assist humanity in the journey of salvation."
+    },
+    {
+      "type": "heading",
+      "value": "Nature of Angels"
+    },
+    {
+      "type": "text",
+      "value": "Unlike humans, angels do not have physical bodies. They are immortal spirits who can take on visible forms when God sends them with messages or tasks for humanity."
+    },
+    {
+      "type": "heading",
+      "value": "The Nine Choirs"
+    },
+    {
+      "type": "text",
+      "value": "Sacred Tradition teaches that angels are organized into nine choirs or orders, each with distinct roles in God's cosmic plan: Seraphim, Cherubim, Thrones, Dominions, Virtues, Powers, Principalities, Archangels, and Angels."
+    }
+  ]
+}

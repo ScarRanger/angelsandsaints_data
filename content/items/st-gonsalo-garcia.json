@@ -1,0 +1,34 @@
+{
+  "id": "st-gonsalo-garcia",
+  "title": "St. Gonsalo Garcia",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/gonsalo_garcia.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "First Indian-Born Saint"
+    },
+    {
+      "type": "text",
+      "value": "Saint Gonsalo Garcia was born in Bassein, India (near Mumbai) around 1556 to Portuguese parents. He is honored as the first Indian-born saint and a martyr of Japan."
+    },
+    {
+      "type": "heading",
+      "value": "Franciscan Missionary"
+    },
+    {
+      "type": "text",
+      "value": "After working as a merchant, Gonsalo felt called to religious life and joined the Franciscan Order. He traveled to Japan as a missionary, where Christianity was beginning to face severe persecution under Toyotomi Hideyoshi."
+    },
+    {
+      "type": "heading",
+      "value": "Martyrdom in Nagasaki"
+    },
+    {
+      "type": "text",
+      "value": "In 1597, Gonsalo was arrested along with 25 other Christians. They were paraded through towns as a warning, then crucified on a hill in Nagasaki. Gonsalo sang hymns and preached from his cross before being pierced with spears. He was canonized in 1862."
+    }
+  ]
+}

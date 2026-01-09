@@ -1,0 +1,34 @@
+{
+  "id": "st-francis-xavier",
+  "title": "St. Francis Xavier",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/xavier.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "The Great Missionary"
+    },
+    {
+      "type": "text",
+      "value": "Saint Francis Xavier was one of the founding members of the Society of Jesus (Jesuits) and one of the greatest Christian missionaries. He brought the Gospel to India, Southeast Asia, and Japan."
+    },
+    {
+      "type": "heading",
+      "value": "Apostle of the Indies and Japan"
+    },
+    {
+      "type": "text",
+      "value": "Xavier baptized tens of thousands, translating prayers and catechisms into local languages. He traveled tirelessly, enduring great hardships to reach distant lands. His letters reveal his burning zeal for souls and his desire to bring all people to Christ."
+    },
+    {
+      "type": "heading",
+      "value": "Death in Sight of China"
+    },
+    {
+      "type": "text",
+      "value": "Francis Xavier died on an island off the coast of China in 1552, at age 46, while attempting to enter that closed empire. His body remained incorrupt and is enshrined in Goa, India. He is the patron saint of missionaries and foreign missions."
+    }
+  ]
+}

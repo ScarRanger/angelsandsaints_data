@@ -1,0 +1,34 @@
+{
+  "id": "st-carlo-acutis",
+  "title": "St. Carlo Acutis",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/child_saints/carlo_acutis.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Cyber-Apostle of the Eucharist"
+    },
+    {
+      "type": "text",
+      "value": "Blessed Carlo Acutis was an Italian teenager who used computer programming and the internet to spread devotion to the Eucharist. He is called the 'cyber-apostle' and patron of the internet generation."
+    },
+    {
+      "type": "heading",
+      "value": "Eucharistic Love"
+    },
+    {
+      "type": "text",
+      "value": "Carlo had an intense love for Jesus in the Eucharist, attending daily Mass from age 7. He said, 'The Eucharist is my highway to heaven.' He created a website cataloging Eucharistic miracles from around the world, which has been viewed by millions."
+    },
+    {
+      "type": "heading",
+      "value": "Offering His Suffering"
+    },
+    {
+      "type": "text",
+      "value": "Carlo was diagnosed with leukemia at age 15. He offered his suffering for the Pope and the Church, saying 'I offer all the suffering I will have to suffer for the Lord, for the Pope, and the Church.' He died in 2006 and was beatified in 2020. His body remains incorrupt."
+    }
+  ]
+}

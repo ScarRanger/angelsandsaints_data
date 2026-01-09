@@ -1,0 +1,34 @@
+{
+  "id": "st-john",
+  "title": "St. John",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/john.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "The Beloved Disciple"
+    },
+    {
+      "type": "text",
+      "value": "Saint John, the 'disciple whom Jesus loved,' was the youngest apostle and the only one not to be martyred. He alone stood with Mary at the foot of the Cross, where Jesus entrusted His mother to his care."
+    },
+    {
+      "type": "heading",
+      "value": "The Evangelist"
+    },
+    {
+      "type": "text",
+      "value": "John wrote the Fourth Gospel, emphasizing Jesus' divinity and love. His Gospel begins with the profound words: 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1)."
+    },
+    {
+      "type": "heading",
+      "value": "Apostle of Love"
+    },
+    {
+      "type": "text",
+      "value": "John also wrote three epistles and the Book of Revelation. His central message was God's love: 'God is love, and whoever abides in love abides in God' (1 John 4:16). He lived to old age in Ephesus, caring for Mary until her Assumption."
+    }
+  ]
+}

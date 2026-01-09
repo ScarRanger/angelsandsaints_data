@@ -1,0 +1,34 @@
+{
+  "id": "st-mark",
+  "title": "St. Mark",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/mark.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "The Evangelist"
+    },
+    {
+      "type": "text",
+      "value": "Saint Mark, also called John Mark, was a companion of Saint Peter and Saint Paul. He is the author of the second Gospel, which is believed to record Peter's eyewitness testimony of Jesus' life."
+    },
+    {
+      "type": "heading",
+      "value": "His Gospel"
+    },
+    {
+      "type": "text",
+      "value": "Mark's Gospel, the shortest and likely the first written, portrays Jesus as the suffering Servant and Son of God. It emphasizes Christ's actions and miracles, presenting a fast-paced narrative of His ministry, death, and resurrection."
+    },
+    {
+      "type": "heading",
+      "value": "Founder of the Church in Alexandria"
+    },
+    {
+      "type": "text",
+      "value": "Tradition holds that Mark founded the Church in Alexandria, Egypt, and became its first bishop. He was martyred there, dragged through the streets by a mob. He is the patron saint of Egypt and his symbol is the winged lion."
+    }
+  ]
+}

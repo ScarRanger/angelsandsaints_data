@@ -1,0 +1,34 @@
+{
+  "id": "st-vitus",
+  "title": "St. Vitus",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/child_saints/vitus.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "One of the Fourteen Holy Helpers"
+    },
+    {
+      "type": "text",
+      "value": "Saint Vitus was a child martyr and one of the Fourteen Holy Helpers, a group of saints venerated for their powerful intercession. He is invoked against epilepsy, nervous disorders, and oversleeping."
+    },
+    {
+      "type": "heading",
+      "value": "Christian from Childhood"
+    },
+    {
+      "type": "text",
+      "value": "Born in Sicily to pagan parents, Vitus was secretly baptized and raised as a Christian by his nurse and tutor. When his father discovered this, he tried to force the boy to renounce his faith, but Vitus remained steadfast."
+    },
+    {
+      "type": "heading",
+      "value": "Miraculous Courage and Martyrdom"
+    },
+    {
+      "type": "text",
+      "value": "Angels freed Vitus from prison and took him to Rome, where he miraculously cured Emperor Diocletian's son of demon possession. When he refused to sacrifice to pagan gods, Vitus was martyred at age 12 or 13, thrown into a cauldron of molten lead."
+    }
+  ]
+}

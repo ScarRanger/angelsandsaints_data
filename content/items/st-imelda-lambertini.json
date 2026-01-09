@@ -1,0 +1,34 @@
+{
+  "id": "st-imelda-lambertini",
+  "title": "St. Imelda Lambertini",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/child_saints/imelda.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Patroness of First Communicants"
+    },
+    {
+      "type": "text",
+      "value": "Saint Imelda Lambertini was an Italian girl who died at age 11 in an ecstasy of love after receiving her First Holy Communion miraculously. She is the patron saint of First Communicants."
+    },
+    {
+      "type": "heading",
+      "value": "Longing for Jesus"
+    },
+    {
+      "type": "text",
+      "value": "Imelda entered a Dominican convent as a young girl. She had an intense desire to receive Jesus in the Eucharist, but the age for First Communion was 14. She prayed fervently: 'Can anyone receive Jesus into his heart and not die?'"
+    },
+    {
+      "type": "heading",
+      "value": "Miraculous Communion"
+    },
+    {
+      "type": "text",
+      "value": "One day in 1333, during Mass, a Host miraculously appeared above Imelda's head. The priest gave her Communion, and she died immediately in ecstasy, consumed by divine love. Her death fulfilled her own prophetic question about receiving Jesus."
+    }
+  ]
+}

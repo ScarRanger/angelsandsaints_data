@@ -1,0 +1,34 @@
+{
+  "id": "dominions",
+  "title": "4. Dominions or Lordships",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/dominions.png"
+    },
+    {
+      "type": "heading",
+      "value": "Regulators of Angelic Duties"
+    },
+    {
+      "type": "text",
+      "value": "The Dominions, also called Lordships, are angels who regulate the duties of all lower angels. They ensure that the cosmos remains in order and that God's commands are carried out."
+    },
+    {
+      "type": "heading",
+      "value": "Their Authority"
+    },
+    {
+      "type": "text",
+      "value": "Dominions possess a form of divine authority and are rarely seen by mortals. They manifest the majesty of God and govern the activities of all angelic groups beneath them."
+    },
+    {
+      "type": "heading",
+      "value": "Divine Governance"
+    },
+    {
+      "type": "text",
+      "value": "Through the Dominions, God's sovereignty is made known. They receive their orders directly from the Seraphim and Cherubim, then delegate responsibilities to the lower choirs of angels."
+    }
+  ]
+}

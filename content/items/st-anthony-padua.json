@@ -1,0 +1,34 @@
+{
+  "id": "st-anthony-padua",
+  "title": "St. Anthony of Padua",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/anthony_padua_.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "The Hammer of Heretics"
+    },
+    {
+      "type": "text",
+      "value": "Saint Anthony of Padua was a brilliant Franciscan friar, Doctor of the Church, and powerful preacher. Born in Portugal, he became one of the most beloved saints, known for his devotion to the poor and his miracles."
+    },
+    {
+      "type": "heading",
+      "value": "Powerful Preacher"
+    },
+    {
+      "type": "text",
+      "value": "Anthony's preaching was so effective that he converted thousands, including hardened heretics. Once, when people refused to listen, he preached to fish, which gathered to hear him—a miracle that shamed the townspeople into conversion."
+    },
+    {
+      "type": "heading",
+      "value": "Finder of Lost Things"
+    },
+    {
+      "type": "text",
+      "value": "Anthony is invoked to find lost items because when a novice stole his psalter, Anthony prayed and the thief was moved to return it. He died at age 36 in 1231. He is often depicted holding the Child Jesus, who appeared to him in a vision."
+    }
+  ]
+}

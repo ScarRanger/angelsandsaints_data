@@ -1,0 +1,34 @@
+{
+  "id": "seraphim",
+  "title": "1. Seraphim",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/seraphim.png"
+    },
+    {
+      "type": "heading",
+      "value": "The Burning Ones"
+    },
+    {
+      "type": "text",
+      "value": "The Seraphim are the highest order of angels, closest to God's throne. Their name means 'the burning ones,' reflecting their intense love and adoration for God."
+    },
+    {
+      "type": "heading",
+      "value": "Biblical Description"
+    },
+    {
+      "type": "text",
+      "value": "In Isaiah's vision (Isaiah 6:2-3), the Seraphim are described as having six wings: with two they cover their faces, with two they cover their feet, and with two they fly. They continuously cry out 'Holy, Holy, Holy is the Lord of Hosts!'"
+    },
+    {
+      "type": "heading",
+      "value": "Their Role"
+    },
+    {
+      "type": "text",
+      "value": "The Seraphim exist in perpetual worship and adoration of God. Their burning love purifies and inflames the hearts of those lower in the heavenly hierarchy, spreading divine love throughout creation."
+    }
+  ]
+}

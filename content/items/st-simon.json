@@ -1,0 +1,34 @@
+{
+  "id": "st-simon",
+  "title": "St. Simon",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/simon.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "Simon the Zealot"
+    },
+    {
+      "type": "text",
+      "value": "Simon is called 'the Zealot' or 'the Cananean,' likely indicating he was a member of the Zealots, a Jewish political movement that sought to overthrow Roman rule through force."
+    },
+    {
+      "type": "heading",
+      "value": "Transformed Zeal"
+    },
+    {
+      "type": "text",
+      "value": "After encountering Christ, Simon's political zeal was transformed into spiritual fervor. He learned from Jesus that God's kingdom is not established by violence but by love, sacrifice, and the power of the Holy Spirit."
+    },
+    {
+      "type": "heading",
+      "value": "Missionary Journeys"
+    },
+    {
+      "type": "text",
+      "value": "Tradition holds that Simon preached the Gospel throughout Egypt, North Africa, and Persia. According to various accounts, he was martyred in Persia alongside Jude Thaddeus, either by being sawn in half or crucified."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "st-teresa-child-jesus",
+  "title": "St. Teresa of Child Jesus",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/saints/therese_child_jesus.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "The Little Flower"
+    },
+    {
+      "type": "text",
+      "value": "Saint Thérèse of Lisieux, known as the 'Little Flower,' was a Carmelite nun who discovered a 'little way' of spiritual childhood—doing small things with extraordinary love for God."
+    },
+    {
+      "type": "heading",
+      "value": "The Little Way"
+    },
+    {
+      "type": "text",
+      "value": "Thérèse taught that sanctity is not about great deeds but about complete surrender to God's will in everyday life. She wrote: 'My vocation is love... In the heart of the Church, I will be love.' Her path of trust and abandonment is accessible to all."
+    },
+    {
+      "type": "heading",
+      "value": "Story of a Soul"
+    },
+    {
+      "type": "text",
+      "value": "She died of tuberculosis at age 24 in 1897. Her autobiography, 'Story of a Soul,' became a worldwide bestseller. She promised to 'spend my heaven doing good on earth' and is invoked for countless miracles. She was declared a Doctor of the Church in 1997."
+    }
+  ]
+}

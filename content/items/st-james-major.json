@@ -1,0 +1,34 @@
+{
+  "id": "st-james-major",
+  "title": "St. James Major",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/james_major.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "Son of Thunder"
+    },
+    {
+      "type": "text",
+      "value": "James, son of Zebedee and brother of John, was called 'Boanerges' (Son of Thunder) by Jesus. He was one of the three apostles in Jesus' inner circle, witnessing the Transfiguration and the Agony in the Garden."
+    },
+    {
+      "type": "heading",
+      "value": "First Apostle Martyred"
+    },
+    {
+      "type": "text",
+      "value": "James was the first of the Twelve to be martyred, beheaded by King Herod Agrippa around AD 44 (Acts 12:2). His willingness to drink from Christ's cup of suffering fulfilled Jesus' prophecy."
+    },
+    {
+      "type": "heading",
+      "value": "Patron of Spain"
+    },
+    {
+      "type": "text",
+      "value": "Tradition holds that James preached in Spain. His relics are said to rest in Santiago de Compostela, making it one of Christianity's greatest pilgrimage sites. He is the patron saint of Spain and pilgrims."
+    }
+  ]
+}

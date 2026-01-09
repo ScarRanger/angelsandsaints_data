@@ -1,0 +1,34 @@
+{
+  "id": "powers",
+  "title": "6. Powers",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/powers.png"
+    },
+    {
+      "type": "heading",
+      "value": "Warrior Angels"
+    },
+    {
+      "type": "text",
+      "value": "The Powers are warrior angels who defend the cosmos against evil spirits. They are the heavenly soldiers who fight against the forces of darkness."
+    },
+    {
+      "type": "heading",
+      "value": "Guardians of Order"
+    },
+    {
+      "type": "text",
+      "value": "Powers maintain cosmic order by preventing demons from overthrowing the world. They stand as a barrier between the physical and spiritual realms, protecting humanity from demonic attacks."
+    },
+    {
+      "type": "heading",
+      "value": "Spiritual Warfare"
+    },
+    {
+      "type": "text",
+      "value": "These angels are constantly engaged in spiritual battle, restraining the power of evil and ensuring that God's plan for salvation continues unimpeded. They are the first line of defense in the angelic army."
+    }
+  ]
+}

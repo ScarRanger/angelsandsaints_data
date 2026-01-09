@@ -1,0 +1,34 @@
+{
+  "id": "principalities",
+  "title": "7. Principalities or Rulers",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/principalities.png"
+    },
+    {
+      "type": "heading",
+      "value": "Guardians of Nations"
+    },
+    {
+      "type": "text",
+      "value": "The Principalities, also called Rulers, are angels assigned to watch over nations, cities, and dioceses. They guide leaders and protect communities."
+    },
+    {
+      "type": "heading",
+      "value": "Earthly Oversight"
+    },
+    {
+      "type": "text",
+      "value": "These angels oversee the distribution of power among humanity and work to ensure that earthly kingdoms align with God's divine will. They inspire leaders to govern justly and mercifully."
+    },
+    {
+      "type": "heading",
+      "value": "Ecclesiastical Care"
+    },
+    {
+      "type": "text",
+      "value": "Principalities have special concern for the Church and its mission. They guide bishops and religious communities, helping to spread the Gospel and defend the faith in different regions of the world."
+    }
+  ]
+}

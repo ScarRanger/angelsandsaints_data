@@ -1,0 +1,42 @@
+{
+  "id": "guardian-angels",
+  "title": "Guardian Angels",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/guardian_angels.png"
+    },
+    {
+      "type": "heading",
+      "value": "Personal Celestial Protectors"
+    },
+    {
+      "type": "text",
+      "value": "Every human being is assigned a Guardian Angel by God at the moment of conception. These angels remain with us throughout our earthly life and beyond."
+    },
+    {
+      "type": "heading",
+      "value": "Biblical Foundation"
+    },
+    {
+      "type": "text",
+      "value": "Jesus Himself spoke of Guardian Angels: 'See that you do not despise one of these little ones, for I say to you that their angels in heaven always look upon the face of my heavenly Father' (Matthew 18:10)."
+    },
+    {
+      "type": "heading",
+      "value": "Their Ministry"
+    },
+    {
+      "type": "text",
+      "value": "Guardian Angels protect us from physical and spiritual dangers, inspire good thoughts, pray for us before God's throne, and guide us on the path to heaven. They rejoice when we do good and grieve when we sin."
+    },
+    {
+      "type": "heading",
+      "value": "How to Honor Them"
+    },
+    {
+      "type": "text",
+      "value": "We should pray daily to our Guardian Angel, invoking their protection and guidance. We can also honor the angels of others, especially when praying for loved ones."
+    }
+  ]
+}

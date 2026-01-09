@@ -1,0 +1,34 @@
+{
+  "id": "st-thomas",
+  "title": "St. Thomas",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/apostles/thomas.jpeg"
+    },
+    {
+      "type": "heading",
+      "value": "Doubting Thomas"
+    },
+    {
+      "type": "text",
+      "value": "Saint Thomas is famously known for his initial doubt of Christ's Resurrection. Absent when Jesus first appeared to the apostles, Thomas declared he would not believe unless he could touch Jesus' wounds."
+    },
+    {
+      "type": "heading",
+      "value": "My Lord and My God"
+    },
+    {
+      "type": "text",
+      "value": "Eight days later, Jesus appeared again and invited Thomas to touch His wounds. Thomas responded with the most profound confession of faith in the Gospels: 'My Lord and my God!' (John 20:28). Jesus replied: 'Blessed are those who have not seen and yet have believed.'"
+    },
+    {
+      "type": "heading",
+      "value": "Apostle to India"
+    },
+    {
+      "type": "text",
+      "value": "Tradition holds that Thomas evangelized India, establishing Christian communities that survive to this day. He was martyred near Madras (Chennai), pierced with spears while praying. Indian Christians trace their faith to St. Thomas."
+    }
+  ]
+}

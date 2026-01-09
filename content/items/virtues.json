@@ -1,0 +1,34 @@
+{
+  "id": "virtues",
+  "title": "5. Virtues or Strongholds",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/angels/virtues.png"
+    },
+    {
+      "type": "heading",
+      "value": "Angels of Miracles"
+    },
+    {
+      "type": "text",
+      "value": "The Virtues, also known as Strongholds, are associated with acts of heroism and the working of miracles. They channel God's grace into the material world."
+    },
+    {
+      "type": "heading",
+      "value": "Bestowers of Grace"
+    },
+    {
+      "type": "text",
+      "value": "Virtues infuse courage, grace, and valor into the hearts of saints and martyrs. They strengthen those who are struggling and inspire acts of great faith and heroism."
+    },
+    {
+      "type": "heading",
+      "value": "Cosmic Supervision"
+    },
+    {
+      "type": "text",
+      "value": "These angels also govern the movements of the heavenly bodies and maintain the order of nature. Through them, God performs signs and wonders to reveal His presence and power."
+    }
+  ]
+}

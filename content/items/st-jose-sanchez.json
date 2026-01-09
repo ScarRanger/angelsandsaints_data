@@ -1,0 +1,34 @@
+{
+  "id": "st-jose-sanchez",
+  "title": "St. Jose Sanchez Del Rio",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/child_saints/jose_sanchez.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Viva Cristo Rey!"
+    },
+    {
+      "type": "text",
+      "value": "Saint José Sánchez del Río was a 14-year-old Mexican boy who died shouting 'Viva Cristo Rey!' (Long live Christ the King!) during the Cristero War, when the Mexican government persecuted the Catholic Church."
+    },
+    {
+      "type": "heading",
+      "value": "Young Cristero"
+    },
+    {
+      "type": "text",
+      "value": "Despite his youth, José begged to join the Cristero army defending religious freedom. His parents initially refused, but he persisted. He served as a flag-bearer, and when a general's horse was killed in battle, José gave him his own, saying 'I can run faster than you!'"
+    },
+    {
+      "type": "heading",
+      "value": "Torture and Martyrdom"
+    },
+    {
+      "type": "text",
+      "value": "José was captured and tortured to make him renounce his faith. They cut the soles of his feet and forced him to walk to his execution. With each painful step, he shouted 'Viva Cristo Rey!' He was shot on February 10, 1928. He was canonized in 2016."
+    }
+  ]
+}

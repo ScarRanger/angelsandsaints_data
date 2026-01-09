@@ -1,0 +1,34 @@
+{
+  "id": "st-dominic-savio",
+  "title": "St. Dominic Savio",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/home/dominicsavio_thumb.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Death Rather Than Sin"
+    },
+    {
+      "type": "text",
+      "value": "Saint Dominic Savio was a student of Saint John Bosco who chose as his motto: 'Death, but not sin!' He became one of the youngest non-martyred saints, dying at only 14 years old."
+    },
+    {
+      "type": "heading",
+      "value": "Early Holiness"
+    },
+    {
+      "type": "text",
+      "value": "From an early age, Dominic showed exceptional piety. At his First Communion, he made four resolutions: frequent Confession and Communion, devotion to Mary, making Sundays holy, and befriending Jesus. He was a peacemaker among his classmates."
+    },
+    {
+      "type": "heading",
+      "value": "Death and Canonization"
+    },
+    {
+      "type": "text",
+      "value": "Dominic fell ill and died peacefully in 1857, asking his father if he was seeing wonderful things. He whispered, 'Oh, what beautiful things I see!' He was canonized in 1954 and is the patron saint of choirboys and juvenile delinquents."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "st-rose-viterbo",
+  "title": "St. Rose of Viterbo",
+  "blocks": [
+    {
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev.com/assets/images/child_saints/rose_viterbo.jpg"
+    },
+    {
+      "type": "heading",
+      "value": "Child Preacher"
+    },
+    {
+      "type": "text",
+      "value": "Saint Rose of Viterbo was a 13th-century Italian girl who became a powerful preacher despite her young age. She is the patron saint of exiles and people in exile or rejected by religious orders."
+    },
+    {
+      "type": "heading",
+      "value": "Preaching Against Heresy"
+    },
+    {
+      "type": "text",
+      "value": "From age 8, Rose received visions and began preaching in the streets of Viterbo, calling people to repentance and defending the Church against heretics. Her passionate preaching drew large crowds, and many converted through her words."
+    },
+    {
+      "type": "heading",
+      "value": "Exile and Death"
+    },
+    {
+      "type": "text",
+      "value": "Her bold defense of the Pope led to her family's exile. After returning to Viterbo, she tried to join the Poor Clares but was rejected. She died at age 17 in 1251. Her body remains incorrupt and is carried in procession annually in Viterbo."
+    }
+  ]
+}
