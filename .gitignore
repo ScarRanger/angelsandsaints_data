@@ -4,3 +4,5 @@ assets
 .env.example
 requirements.txt
 upload_to_r2.py
+.github
+node_modules

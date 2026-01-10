@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-10",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT WILLIAM OF BOURGES",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT WILLIAM OF BOURGES"
+  ],
+  "suppressedObservances": [],
+  "summary": "William Berruyer, of the illustrious family of the ancient counts of Nevers, was educated by Peter the hermit, archdeacon of Soissons, his uncle by the mother's side. He learned from his infancy to despise the folly and emptiness of the riches and grandeur of the world, to abhor its pleasures, and to tremble at its dangers. His only delight was in exercises of piety and in his studies, in which he employed his whole time with indefatigable application. He was made canon, first of Soissons, and afterwards of Paris: but he soon took the resolution of abandoning all commerce with the world; and retired into the solitude of Grandmont, where he lived with great regularity in that austere order, till seeing its peace disturbed by a contest which arose between the fathers and lay-brothers, he passed into the Cistercian, then in wonderful odour of sanctity. He took the habit in the abbey of Pontigny, and shining as a perfect model of monastic perfection, was after some time chosen prior of that house, and afterwards abbot, first of Fountaine-Jean, in the diocess of Sens, (a filiation of Pontigny, founded in 1124, by Peter de Courtenay, son of king Lewis the Fat,) and some time after, of Chaalis, near Senlis, a much more numerous monastery, also a filiation of Pontigny, built by Lewis the Fat in 1136, a little before his death. St. William always reputed himself the last among his brethren. The universal mortification of his senses and passions, laid in him the foundation of an admirable purity of heart, and an extraordinary gift of prayer; in which he received great heavenly lights, and tasted of the sweets which God has reserved for those to whom he is pleased to communicate himself. The sweetness and cheerfulness of his countenance testified the uninterrupted joy and peace that overflowed his soul, and made virtue appear with the most engaging charms in the midst of austerities.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT WILLIAM OF BOURGES"
+    },
+    {
+      "type": "text",
+      "value": "SATURDAY, 10 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "William Berruyer, of the illustrious family of the ancient counts of Nevers, was educated by Peter the hermit, archdeacon of Soissons, his uncle by the mother's side. He learned from his infancy to despise the folly and emptiness of the riches and grandeur of the world, to abhor its pleasures, and to tremble at its dangers. His only delight was in exercises of piety and in his studies, in which he employed his whole time with indefatigable application. He was made canon, first of Soissons, and afterwards of Paris: but he soon took the resolution of abandoning all commerce with the world; and retired into the solitude of Grandmont, where he lived with great regularity in that austere order, till seeing its peace disturbed by a contest which arose between the fathers and lay-brothers, he passed into the Cistercian, then in wonderful odour of sanctity. He took the habit in the abbey of Pontigny, and shining as a perfect model of monastic perfection, was after some time chosen prior of that house, and afterwards abbot, first of Fountaine-Jean, in the diocess of Sens, (a filiation of Pontigny, founded in 1124, by Peter de Courtenay, son of king Lewis the Fat,) and some time after, of Chaalis, near Senlis, a much more numerous monastery, also a filiation of Pontigny, built by Lewis the Fat in 1136, a little before his death. St. William always reputed himself the last among his brethren. The universal mortification of his senses and passions, laid in him the foundation of an admirable purity of heart, and an extraordinary gift of prayer; in which he received great heavenly lights, and tasted of the sweets which God has reserved for those to whom he is pleased to communicate himself. The sweetness and cheerfulness of his countenance testified the uninterrupted joy and peace that overflowed his soul, and made virtue appear with the most engaging charms in the midst of austerities."
+    },
+    {
+      "type": "text",
+      "value": "On the death of Henry de Sully, archbishop of Bourges, the clergy of that church requested his brother Eudo, bishop of Paris, to come and assist them in the election of a pastor. Desirous to choose some abbot of the Cistercian Order, then renowned for holy men, they put on the altar the names of three, written on as many billets. This manner of election by lots would have been superstitious, and a tempting of God, had it been done, relying on a miracle without the warrant of divine inspiration. But it deserved not this censure, when all the persons proposed seemed equally worthy and fit, as the choice was only recommended to God, and left to this issue by following the rules of his ordinary providence, and imploring his light, without rashness, or a neglect of the usual means of scrutiny; prudence might sometimes even recommend such a method, in order to terminate a debate when the candidates seemed equally qualified. God, in such cases, is said sometimes to have miraculously interposed."
+    },
+    {
+      "type": "text",
+      "value": "Eudo, accordingly, having written three billets, laid them on the altar; and having made his prayer, drew first the name of the abbot William, on whom, at the same time, the majority of the votes of the clergy had made the election fall, the 23rd of November, 1200. This news overwhelmed William with grief. He never would have acquiesced, had he not received a double command in virtue of obedience, from the Pope, and from his general, the abbot of Citeaux. He left his dear solitude with many tears, and was received at Bourges as one sent by heaven, and soon after was consecrated. In this new dignity his first care was to conform both his exterior and interior to the most perfect rules of sanctity; being very sensible that a man's first task is to honour God perfectly in his own soul. He redoubled all his austerities, saying, it was now incumbent on him to do penance for others, as well as for himself. He always wore a hair-shirt under his religious habit, and never added, nor diminished, any thing in his clothes either winter or summer. He never ate any flesh-meat, though he had it at his table for strangers. His attention to feed his flock was no less remarkable, especially in assisting the poor both spiritually and corporally, saying, that he was chiefly sent for them. He was most mild to penitent sinners; but inflexible towards the impenitent, though he refused to have recourse to the civil power against them, the usual remedy of that age. Many such he at last reclaimed by his sweetness and charity."
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "God our father, in Saint William, your bishop, you gave a light to your faithful people. You made him a pastor of the church to feed your sheep with his word and to teach them by his example. Help us by his prayers to keep the faith he taught and follow the way of life he showed us. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T06:24:20.882Z"
+}

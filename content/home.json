@@ -34,6 +34,13 @@
             "imageUrl": "res:/drawable/hands",
             "order": 5,
             "enabled": true
+        },
+        {
+            "id": "daily-feast",
+            "title": "Daily Feast",
+            "imageUrl": "res:/drawable/feast",
+            "order": 6,
+            "enabled": true
         }
     ]
 }
