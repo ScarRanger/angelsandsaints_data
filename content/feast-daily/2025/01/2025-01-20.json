@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-20",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT SEBASTIAN",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT SEBASTIAN"
+  ],
+  "suppressedObservances": [],
+  "summary": "The name of Sebastian is enveloped in a wreath of legends. The oldest historical account of the saint is found in a commentary on the psalms by St. Ambrose; the passage reads: \"Allow me to propose to you the example of the holy martyr Sebastian. By birth he was a Milanese. Perhaps the persecutor of Christians had left Milan, or had not yet arrived, or had become momentarily more tolerant. Sebastian believed that here there was no opportunity for combat, or that it had already passed. So he went to Rome, the scene of bitter opposition arising from the Christians' zeal for the faith. There he suffered, there he gained the crown.\"",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT SEBASTIAN"
+    },
+    {
+      "type": "text",
+      "value": "TUESDAY, 20 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "The name of Sebastian is enveloped in a wreath of legends. The oldest historical account of the saint is found in a commentary on the psalms by St. Ambrose; the passage reads: \"Allow me to propose to you the example of the holy martyr Sebastian. By birth he was a Milanese. Perhaps the persecutor of Christians had left Milan, or had not yet arrived, or had become momentarily more tolerant. Sebastian believed that here there was no opportunity for combat, or that it had already passed. So he went to Rome, the scene of bitter opposition arising from the Christians' zeal for the faith. There he suffered, there he gained the crown.\""
+    },
+    {
+      "type": "text",
+      "value": "St. Sebastian was widely venerated during the Middle Ages, particularly as a protector against the plague. Paul the Deacon relates that in 670 a great pestilence at Rome ceased when an altar was dedicated in his honor. The Breviary account of the saint is highly legendary; in part it reads: \"Diocletian tried by every means to turn Sebastian from the faith of Christ."
+    },
+    {
+      "type": "text",
+      "value": "After all efforts had proven fruitless, he ordered him tied to a post and pierced with arrows. When everyone thought him dead, a devout woman named Irene arranged for his burial during the night; finding him still alive, she cared for him in her own house. After his recovery he appeared again before Diocletian and boldly rebuked him for his wickedness. Enraged by the saint's sharp words, the emperor ordered him scourged until he expired. His body was thrown into a sewer.\""
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "Grant us, we pray, O Lord, a spirit of fortitude, so that, taught by the glorious example of your Martyr Saint Sebastian, we may learn to obey you rather than men. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:20.363Z"
+}

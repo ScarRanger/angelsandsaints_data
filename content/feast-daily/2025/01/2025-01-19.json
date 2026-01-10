@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-19",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT CANUTE IV",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": true,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT CANUTE IV"
+  ],
+  "suppressedObservances": [],
+  "summary": "Canute was an ambitious king (1080-1086) who sought to strengthen the Danish Monarchy was a devout Catholic and devotedly supported the Church and the Pope and had designs on the English throne. Slain by rebels in 1086, he was the first Danish king to be canonised. He was recognized by the Roman Catholic Church as patron saint of Denmark in 1101.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT CANUTE IV"
+    },
+    {
+      "type": "text",
+      "value": "MONDAY, 19 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "Canute was an ambitious king (1080-1086) who sought to strengthen the Danish Monarchy was a devout Catholic and devotedly supported the Church and the Pope and had designs on the English throne. Slain by rebels in 1086, he was the first Danish king to be canonised. He was recognized by the Roman Catholic Church as patron saint of Denmark in 1101."
+    },
+    {
+      "type": "text",
+      "value": "Canute was a strong, wise king of Denmark. He was a great athlete, an expert horseman, and a marvelous general. At the beginning of his reign, he led a war against the barbarians who were threatening to take over the civilized world. King Canute and his army defeated them. He loved the Christian faith so much that he introduced it to people who had never heard of Christianity."
+    },
+    {
+      "type": "text",
+      "value": "St. Canute knelt in church at the foot of the altar and offered his crown to the King of kings, Jesus. King Canute was very charitable and gentle with his people. He tried to help them with their problems. Most of all, he wanted to help them be true followers of Christ."
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "Glorious St. Canute, as king, you died fighting for the Church. Help me appreciate all martyrs who have protected the Church. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:19.139Z"
+}

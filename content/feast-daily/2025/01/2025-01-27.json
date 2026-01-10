@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-27",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT ANGELA MERICI",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT ANGELA MERICI"
+  ],
+  "suppressedObservances": [],
+  "summary": "Although not common, some older images and statues of St. Francis of Assisi show him balancing three orbs on his shoulders. They appear to be globes, heavenly realms, or the earth, the moon, and the sun. But the three orbs represent the three orders in the Franciscan family: the first order for men, the second order for women, and the third order for the laity who desired to live by the Franciscan rule. Today's saint, Angela Merici, was a third order Franciscan, a lay woman who followed a strict rule of Franciscan life outside of a convent.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT ANGELA MERICI"
+    },
+    {
+      "type": "text",
+      "value": "TUESDAY, 27 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "Although not common, some older images and statues of St. Francis of Assisi show him balancing three orbs on his shoulders. They appear to be globes, heavenly realms, or the earth, the moon, and the sun. But the three orbs represent the three orders in the Franciscan family: the first order for men, the second order for women, and the third order for the laity who desired to live by the Franciscan rule. Today's saint, Angela Merici, was a third order Franciscan, a lay woman who followed a strict rule of Franciscan life outside of a convent."
+    },
+    {
+      "type": "text",
+      "value": "Angela's holiness, mystical experiences, and leadership skills ultimately led her beyond her Franciscan commitment to found her own community of “virgins in the world” dedicated to the education of vulnerable girls, or, in common parlance, at risk youths. She placed the community under the patronage of St. Ursula. The community, after Angela's death, was formally recognized as the Ursulines, and gained such renown for their schools that they came to be known as the female Jesuits."
+    },
+    {
+      "type": "text",
+      "value": "St. Angela saw the risk that uneducated girls in her own region of northern Italy would end up being abused sexually or financially and sought to counter this possibility through education. She gathered a like minded group of virgins around her into a “company,” a military word also used by St. Ignatius in founding his “Company of Jesus” around the same time. Saint Angela organized her city into districts which reported to a “colonel” who oversaw the education and general welfare of the poor girls under their care. Saint Angela's cooperators did not understand their dedicated virginity as a failure to find a husband or a rejection of religious life in a convent. They emulated the early Christian orders of virgins as spouses of Christ who served the children of their Beloved in the world."
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "May the Virgin Saint Angela never fail to commend us to your compassion, O Lord, we pray, that, following the lessons of her charity and prudence, and express it in what we do. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:28.577Z"
+}

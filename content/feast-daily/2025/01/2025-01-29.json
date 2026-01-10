@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-29",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT GILDAS - THE WISE",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT GILDAS - THE WISE"
+  ],
+  "suppressedObservances": [],
+  "summary": "He was born in 516, in the North of England or Wales. His father's name was Cau (or Nau) and that he came from noble lineage.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT GILDAS - THE WISE"
+    },
+    {
+      "type": "text",
+      "value": "THURSDAY, 29 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "He was born in 516, in the North of England or Wales. His father's name was Cau (or Nau) and that he came from noble lineage."
+    },
+    {
+      "type": "text",
+      "value": "He lived in a time when the glory of Rome was faded from Britain. The permanent legions had been withdrawn by Maximus, who used them to sack Rome itself and make himself Emperor."
+    },
+    {
+      "type": "text",
+      "value": "Gildas noted for his piety was well educated, and was not afraid of publicly rebuking contemporary monarchs, at a time when libel was answered by a sword, rather than a Court order."
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "Saint Gildas, we thank you for your wisdom and the legacy you left for your countrymen and brethren in the faith. We pray for your intercession to help us live saintly lives so that when our days are done here we may join you and our Lord for eternity. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:30.854Z"
+}

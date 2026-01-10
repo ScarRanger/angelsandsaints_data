@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-22",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINTS OF THE DAY",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINTS OF THE DAY"
+  ],
+  "suppressedObservances": [],
+  "summary": "Vincent Pallotti was born on April 21, 1795. His life belongs to an era of radical change. In these difficult times, Pallotti was educated and carried out his priestly ministry.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINTS OF THE DAY"
+    },
+    {
+      "type": "text",
+      "value": "THURSDAY, 22 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "Vincent Pallotti was born on April 21, 1795. His life belongs to an era of radical change. In these difficult times, Pallotti was educated and carried out his priestly ministry."
+    },
+    {
+      "type": "text",
+      "value": "From his boyhood years, he sought personal perfection with an extraordinary fervor, but did not isolate himself from the world. He gave generously of his help and presence wherever needed, especially to young people."
+    },
+    {
+      "type": "text",
+      "value": "He was ordained a priest on May 16, 1818. For Pallotti, priestly life was a full-time task and a humble service. He was best known as a preacher and a confessor. During parish missions he touched many who had minimal contact with the Church. Many who listened to him began to live a more coherent Christian life, and it was not long before he became known as the “Apostle of Rome.”"
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "Almighty ever-living God, mercifully pour out your Spirit upon us, so that our hearts may possess the strong love by which the Martyr Saint Vincent triumphed over all bodily torments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:22.702Z"
+}

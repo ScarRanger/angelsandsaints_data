@@ -1,0 +1,42 @@
+{
+  "date": "2025-01-16",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT JOSEPH VAZ",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT JOSEPH VAZ"
+  ],
+  "suppressedObservances": [],
+  "summary": "The day he was born, his father Cristovam Vaz saw a star in the Sky around midday. He wrote in his personal diary that his son would become a great man.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT JOSEPH VAZ"
+    },
+    {
+      "type": "text",
+      "value": "FRIDAY, 16 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "The day he was born, his father Cristovam Vaz saw a star in the Sky around midday. He wrote in his personal diary that his son would become a great man."
+    },
+    {
+      "type": "text",
+      "value": "The doors of Cortalim Church opened on their own when he went to visit the Blessed Sacrament one night. He was called “the little saint” as a boy and recited the Rosary on his way to Church and school. He resolved to eat kanji for his food (sometimes called the food of the poor) throughout his life."
+    },
+    {
+      "type": "text",
+      "value": "He started the first Milagristas or Oratorians indigenous order after returning from South Kanara having brought peace among warring factions. The Oratorians served the Church in Sri Lanka and other countries for 150 years."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:15.714Z"
+}

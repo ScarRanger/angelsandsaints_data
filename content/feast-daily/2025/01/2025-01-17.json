@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-17",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT ANTHONY THE ABBOT (GREAT / EGYPT)",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT ANTHONY THE ABBOT (GREAT / EGYPT)"
+  ],
+  "suppressedObservances": [],
+  "summary": "Anthony \"the Great\", the \"Father of Monks\", ranks with those saints whose life exercised a profound influence upon succeeding generations. He was born in Middle Egypt (about 250) of distinguished parents. After their untimely deaths, he dedicated himself wholly to acts of mortification.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT ANTHONY THE ABBOT (GREAT / EGYPT)"
+    },
+    {
+      "type": "text",
+      "value": "SATURDAY, 17 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "Anthony \"the Great\", the \"Father of Monks\", ranks with those saints whose life exercised a profound influence upon succeeding generations. He was born in Middle Egypt (about 250) of distinguished parents. After their untimely deaths, he dedicated himself wholly to acts of mortification."
+    },
+    {
+      "type": "text",
+      "value": "One day while in church he heard the words of the Gospel: \"If you wish to be perfect, go, sell what you have, and give it to the poor\" (Matt. 19:21). It seemed as if Christ had spoken to him personally, giving a command he must obey. Without delay he sold his property, gave the proceeds to the poor, and went into the desert (about 270). When overcome by fatigue, his bed was the hard ground. He fasted rigorously, ate only bread and salt, and drank only water. Nor would he take food before sundown; at times he passed two days without any nourishment. Often, too, he spent whole nights in prayer."
+    },
+    {
+      "type": "text",
+      "value": "The saint suffered repeatedly from diabolical attacks, but these merely made him more steadfast in virtue. He would encourage his disciples in their struggle with the devil with such words: \"Believe me; the devil fears the vigils of pious souls, and their fastings, their voluntary poverty, their loving compassion, their humility, but most of all their ardent love of Christ our Lord. As soon as he sees the sign of the Cross, he flees in terror.\" He died in 356 on Mount Kolzin by the Red Sea, 105 years old. A year later his friend, the fearless bishop and confessor St. Athanasius, wrote his biography, which for centuries became the classic handbook of ascetics. As seen by St. Anthony, the purpose of asceticism is not to destroy the body but to bring it into subjection, re-establishing man's original harmonious integrity, his true God-given nature."
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "O God, who brought the Abbot Saint Anthony to serve you by a wondrous way of life in the desert, grant, through his intercession, that, denying ourselves, we may always love you above all things. Through our Lord Jesus Christ, your Son,who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:16.886Z"
+}

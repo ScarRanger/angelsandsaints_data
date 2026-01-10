@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-15",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT PAUL - THE FIRST HERMIT",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT PAUL - THE FIRST HERMIT"
+  ],
+  "suppressedObservances": [],
+  "summary": "A Christian from his youth, Paul was orphaned at age 15. In 250 the persecution by Decius forced him into hiding, first at a friend's house and then, fearing exposure, to a cave in the Egyptian desert. He had planned to return home after things quieted down, but the peaceful solitude of the desert seduced him to stay. A palm tree and a spring near his cave provided him food, clothing, and water until he turned 43. After that time, as it had happened for Elias, a raven brought him half a loaf of bread each day.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT PAUL - THE FIRST HERMIT"
+    },
+    {
+      "type": "text",
+      "value": "THURSDAY, 15 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "A Christian from his youth, Paul was orphaned at age 15. In 250 the persecution by Decius forced him into hiding, first at a friend's house and then, fearing exposure, to a cave in the Egyptian desert. He had planned to return home after things quieted down, but the peaceful solitude of the desert seduced him to stay. A palm tree and a spring near his cave provided him food, clothing, and water until he turned 43. After that time, as it had happened for Elias, a raven brought him half a loaf of bread each day."
+    },
+    {
+      "type": "text",
+      "value": "In Paul's 90th year in the desert his presence was revealed to St. Anthony, who immediately went to find him. Anthony met Paul in his cave, and the two hermits became friends overnight. They shared a whole loaf of bread brought by the raven, discussed world events, and prayed. Anthony thought he had found a companion, but Paul knew that God had sent Anthony to help him die. The biography described their meeting:"
+    },
+    {
+      "type": "text",
+      "value": "Blessed Paul said to Anthony: “For a long time now, I have known that you dwelled in these regions. And for a long time God had promised you to me for a companion. Since my hour of eternal sleep has arrived, and because I have always desired ‘to be dissolved and to be with Christ' (see Philippians 1:23), having ‘finished the course, . . . a crown of justice' (see 2 Timothy 4:7–8) remains for me. You have been sent by God to bury my miserable body, rather to return earth to earth.”"
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "O God, who wanted that St. Paul, our father, reach a high degree of sanctity through a life of solitude in the desert, grant that, through his intercession we, who are striving to develop in ourselves the spirit of prayer and service, may come ever closer to you in love. We ask this through Christ our Lord. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:14.599Z"
+}

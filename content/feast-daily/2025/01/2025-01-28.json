@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-28",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT THOMAS AQUINAS",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT THOMAS AQUINAS"
+  ],
+  "suppressedObservances": [],
+  "summary": "St. Thomas Aquinas was a Dominican priest and Scriptural theologian. He took seriously the medieval maxim that “grace perfects and builds on nature; it does not set it aside or destroy it.” Therefore, insofar as Thomas thought about philosophy as the discipline that investigates what we can know naturally about God and human beings, he thought that good Scriptural theology, since it treats those same topics, presupposes good philosophical analysis and argumentation. Although Thomas authored some works of pure philosophy, most of his philosophizing is found in the context of his doing Scriptural theology. Indeed, one finds Thomas engaging in the work of philosophy even in his Biblical commentaries and sermons.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT THOMAS AQUINAS"
+    },
+    {
+      "type": "text",
+      "value": "WEDNESDAY, 28 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "St. Thomas Aquinas was a Dominican priest and Scriptural theologian. He took seriously the medieval maxim that “grace perfects and builds on nature; it does not set it aside or destroy it.” Therefore, insofar as Thomas thought about philosophy as the discipline that investigates what we can know naturally about God and human beings, he thought that good Scriptural theology, since it treats those same topics, presupposes good philosophical analysis and argumentation. Although Thomas authored some works of pure philosophy, most of his philosophizing is found in the context of his doing Scriptural theology. Indeed, one finds Thomas engaging in the work of philosophy even in his Biblical commentaries and sermons."
+    },
+    {
+      "type": "text",
+      "value": "Within his large body of work, Thomas treats most of the major sub-disciplines of philosophy, including logic, philosophy of nature, metaphysics, epistemology, philosophical psychology, philosophy of mind, philosophical theology, the philosophy of language, ethics, and political philosophy. As far as his philosophy is concerned, Thomas is perhaps most famous for his so-called five ways of attempting to demonstrate the existence of God. These five short arguments constitute only an introduction to a rigorous project in natural theology—theology that is properly philosophical and so does not make use of appeals to religious authority—that runs through thousands of tightly argued pages. Thomas also offers one of the earliest systematic discussions of the nature and kinds of law, including a famous treatment of natural law. Despite his interest in law, Thomas' writings on ethical theory are actually virtue-centered and include extended discussions of the relevance of happiness, pleasure, the passions, habit, and the faculty of will for the moral life, as well as detailed treatments of each one of the theological, intellectual, and cardinal virtues. Arguably, Thomas' most influential contribution to theology and philosophy, however, is his model for the correct relationship between these two disciplines, a model which has it that neither theology nor philosophy is reduced one to the other, where each of these two disciplines is allowed its own proper scope, and each discipline is allowed to perfect the other, if not in content, then at least by inspiring those who practice that discipline to reach ever new intellectual heights."
+    },
+    {
+      "type": "text",
+      "value": "In his lifetime, Thomas' expert opinion on theological and philosophical topics was sought by many, including at different times a king, a pope, and a countess. It is fair to say that, as a theologian, Thomas is one of the most important in the history of Western civilization, given the extent of his influence on the development of Roman Catholic theology since the 14th century. However, it also seems right to say—if only from the sheer influence of his work on countless philosophers and intellectuals in every century since the 13th, as well as on persons in countries as culturally diverse as Argentina, Canada, England, France, Germany, India, Italy, Japan, Poland, Spain, and the United States—that, globally, Thomas is one of the 10 most influential philosophers in the Western philosophical tradition."
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "O God, who made Saint Thomas Aquinas outstanding in his zeal for holiness and his study of sacred doctrine, grant us, we pray, that we may understand what he taught and imitate what he accomplished. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:29.719Z"
+}

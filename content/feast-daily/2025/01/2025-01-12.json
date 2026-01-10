@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-12",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "SAINT MARGUERITE BOURGEOYS",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": true,
+    "isTransferred": false
+  },
+  "saints": [
+    "SAINT MARGUERITE BOURGEOYS"
+  ],
+  "suppressedObservances": [],
+  "summary": "Marguerite Bourgeoys was born in Troyes, France in 1620 and died in Montreal in 1700. As one of the older girls of a Christian, middle-class family, Marguerite had to assume the responsibility for the household when her mother died. At the age of twenty, she had a conversion experience during a religious procession that profoundly influenced her future mission and focused her values. She felt singled out by the Blessed Virgin. In response, she joined a local group of women who gathered to do charitable work as an extension of a cloister in Troyes. Marguerite served as leader of this extern group and, as her service, taught the children in the poor section of town. In 1653 Paul de Maisonneuve, founder of Montreal, passed through Troyes and invited Marguerite to join him in Ville Marie as a lay teacher to instruct the children of the colonists and the Native Americans. In June 1653, she sailed from Nantes on a three-month voyage to the New World.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "SAINT MARGUERITE BOURGEOYS"
+    },
+    {
+      "type": "text",
+      "value": "MONDAY, 12 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "Marguerite Bourgeoys was born in Troyes, France in 1620 and died in Montreal in 1700. As one of the older girls of a Christian, middle-class family, Marguerite had to assume the responsibility for the household when her mother died. At the age of twenty, she had a conversion experience during a religious procession that profoundly influenced her future mission and focused her values. She felt singled out by the Blessed Virgin. In response, she joined a local group of women who gathered to do charitable work as an extension of a cloister in Troyes. Marguerite served as leader of this extern group and, as her service, taught the children in the poor section of town. In 1653 Paul de Maisonneuve, founder of Montreal, passed through Troyes and invited Marguerite to join him in Ville Marie as a lay teacher to instruct the children of the colonists and the Native Americans. In June 1653, she sailed from Nantes on a three-month voyage to the New World."
+    },
+    {
+      "type": "text",
+      "value": "Marguerite's humanitarian and Christian work in Canada was principally as educator and founder. The wilderness was so hard on the colonists that she had to wait for five years before children survived until school age. In the interim, she instructed the Indian children. In 1658 she opened her first school in a stone stable given her by the town leaders. Marguerite had a broad concept of education. She saw the school as a vehicle of religious and social development. Unique to her time, she provided education for all, giving special attention to girls, the poor and the natives. Education in Marguerite's schools consisted in the basics of literacy, religious instruction, home economics, and the arts."
+    },
+    {
+      "type": "text",
+      "value": "Beyond the classroom, she worked with families, assisted in faith formation in the parish, and addressed the social service needs of the colonists. Noteworthy among her contributions to the colony is the special vocational schools she established to provide the domestic skills a young woman would need to run a home in the wilderness."
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "O Mother Bourgeoys, you, whose compassionate power is ever increasing, show us your way of Truth, Faith and Holiness."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:11.276Z"
+}

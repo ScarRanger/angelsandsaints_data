@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-11",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "FEAST OF THE DAY",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "FEAST OF THE DAY"
+  ],
+  "suppressedObservances": [],
+  "summary": "The mystery of Christ's baptism in the Jordan by St. John, the Precursor, proposes the contemplation of an already adult Jesus. This mystery is infinitely linked to the Solemnities of the Lord's birth and the Epiphany that we have just celebrated, as in some ways it takes up and represents their significance to us.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "FEAST OF THE DAY"
+    },
+    {
+      "type": "text",
+      "value": "SUNDAY, 11 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "The mystery of Christ's baptism in the Jordan by St. John, the Precursor, proposes the contemplation of an already adult Jesus. This mystery is infinitely linked to the Solemnities of the Lord's birth and the Epiphany that we have just celebrated, as in some ways it takes up and represents their significance to us."
+    },
+    {
+      "type": "text",
+      "value": "At Christmas we have contemplated the human birth of the Word incarnate by the Virgin Mary. In the 4th century, the Fathers of the Church deepened the understanding of the faith with regard to the Christmas mystery in the light of Jesus' Humanity. They spoke of the Incarnation of the Word already working like the ‘Christification' of that humanity that he had assumed from His mother. Or put in simpler terms: Jesus is the Christ from the first instant of conception in Mary's spotless womb because He Himself, with His Divine Power, consecrated, anointed and ‘Christified' that human nature with which He became incarnate."
+    },
+    {
+      "type": "text",
+      "value": "In the mystery of the Epiphany, we then meditated on Christ's manifestation to all nations that was represented by the Magi, the wise men from the East, who came to adore the Child."
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "Almighty ever-living God, who, when Christ had been baptized in the River Jordan and as the Holy Spirit descended upon him, solemnly declared him your beloved Son, grant that your children by adoption, reborn of water and the Holy Spirit, may always be well pleasing to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:10.147Z"
+}

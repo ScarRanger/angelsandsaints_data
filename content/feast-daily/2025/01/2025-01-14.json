@@ -1,0 +1,50 @@
+{
+  "date": "2025-01-14",
+  "calendar": "general_roman",
+  "source": "marian_calendar",
+  "observance": {
+    "title": "FEASTS OF THE DAY",
+    "type": "saint",
+    "rank": "memorial",
+    "color": "white",
+    "season": "Ordinary Time",
+    "isSunday": false,
+    "isTransferred": false
+  },
+  "saints": [
+    "FEASTS OF THE DAY"
+  ],
+  "suppressedObservances": [],
+  "summary": "The devotion to the Holy Child Jesus has long been a tradition of the Catholic Church for a very long time. This devotion is a veneration of our Lord's sacred Infancy. Many saints had a very strong devotion to the Divine Child, notably St. Therese of the Child Jesus, St. Francis of Assisi, St. Anthony of Padua, and St. Teresa of Avila.",
+  "blocks": [
+    {
+      "type": "heading",
+      "value": "FEASTS OF THE DAY"
+    },
+    {
+      "type": "text",
+      "value": "WEDNESDAY, 14 JANUARY, 2026"
+    },
+    {
+      "type": "text",
+      "value": "The devotion to the Holy Child Jesus has long been a tradition of the Catholic Church for a very long time. This devotion is a veneration of our Lord's sacred Infancy. Many saints had a very strong devotion to the Divine Child, notably St. Therese of the Child Jesus, St. Francis of Assisi, St. Anthony of Padua, and St. Teresa of Avila."
+    },
+    {
+      "type": "text",
+      "value": "Prague is the capitol city of the Czech Republic, which is at the very central of Europe with Germany, Poland, Russia and Austria as its neighbours. The history of the Infant Jesus of Prague started in the 17th century when a statue of the Infant Jesus was brought into Bohemia (now Czech Republic) and eventually was given to the Discalced Carmelites in Prague. Since then, the statue has remained in Prague and has drawn many devotees worldwide to go and honor the Holy Child. Many graces, blessings, favors and miraculous healings have been received by many who petitioned before the Infant Jesus."
+    },
+    {
+      "type": "text",
+      "value": "The exact origin of the Infant Jesus statue was not truly known, but historical sources point to a small 28cm high sculpture of the Holy Child with a bird in his right hand carved in around the year 1340. Many other Infant Jesus sculptures were also carved by famous masters throughout Europe in the Middle Ages."
+    },
+    {
+      "type": "heading",
+      "value": "Prayer"
+    },
+    {
+      "type": "text",
+      "value": "St. Devasahayam, For the love of Christ you have willingly and patiently underwent torments and tortures for three years, and willingly sacrificed your life and obtained the joy of eternal life and the veneration at the alters as God's great reward. We praise and thank God for blessing you with this glorious life."
+    }
+  ],
+  "lastUpdated": "2026-01-10T10:37:13.504Z"
+}
