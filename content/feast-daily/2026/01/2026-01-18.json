@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-18",
+  "date": "2026-01-18",
   "calendar": "general_roman",
   "source": "marian_calendar",
   "observance": {
@@ -8,7 +8,7 @@
     "rank": "memorial",
     "color": "white",
     "season": "Ordinary Time",
-    "isSunday": false,
+    "isSunday": true,
     "isTransferred": false
   },
   "saints": [
@@ -46,5 +46,5 @@
       "value": "Grant, we pray You, almighty God, that as we celebrate the heavenly birthday of blessed Prisca, your virgin and martyr, so we may rejoice in her annual festival and profit by the example of her great faith. Through our Lord Jesus Christ, Your Son, who being God, lives and reigns with you in the unity of the Holy Spirit, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T10:37:17.997Z"
+  "lastUpdated": "2026-01-10T11:15:38.687Z"
 }

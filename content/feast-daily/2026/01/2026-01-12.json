@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-12",
+  "date": "2026-01-12",
   "calendar": "general_roman",
   "source": "marian_calendar",
   "observance": {
@@ -8,7 +8,7 @@
     "rank": "memorial",
     "color": "white",
     "season": "Ordinary Time",
-    "isSunday": true,
+    "isSunday": false,
     "isTransferred": false
   },
   "saints": [
@@ -46,5 +46,5 @@
       "value": "O Mother Bourgeoys, you, whose compassionate power is ever increasing, show us your way of Truth, Faith and Holiness."
     }
   ],
-  "lastUpdated": "2026-01-10T10:37:11.276Z"
+  "lastUpdated": "2026-01-10T11:15:31.915Z"
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-26",
+  "date": "2026-01-26",
   "calendar": "general_roman",
   "source": "marian_calendar",
   "observance": {
@@ -8,7 +8,7 @@
     "rank": "memorial",
     "color": "white",
     "season": "Ordinary Time",
-    "isSunday": true,
+    "isSunday": false,
     "isTransferred": false
   },
   "saints": [
@@ -46,5 +46,5 @@
       "value": "O God, who has deigned to bless uswith the favor of venerating the Blessed Virgin Maryunder the title of \"Mother of the Forsaken\",and has willed to bestow so much power on her intercessionthat no one should be abandonedwho has recourse to her motherly help!Grant we beseech you to us, your servants,the privilege that we all,who put ourselves under the protection of so exalted a Mother,may never be forsaken by your Divine Mercy,Through Christ, Our Lord. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T10:37:27.439Z"
+  "lastUpdated": "2026-01-10T11:15:47.811Z"
 }

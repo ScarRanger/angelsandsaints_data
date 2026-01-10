@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-25",
+  "date": "2026-01-25",
   "calendar": "general_roman",
   "source": "marian_calendar",
   "observance": {
@@ -8,7 +8,7 @@
     "rank": "memorial",
     "color": "white",
     "season": "Ordinary Time",
-    "isSunday": false,
+    "isSunday": true,
     "isTransferred": false
   },
   "saints": [
@@ -46,5 +46,5 @@
       "value": "O God, who taught the whole world through the preaching of the blessed Apostle Paul, draw us, we pray, nearer to you through the example of him whose conversion we celebrate today, and so make us witnesses to your truth in the world. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T10:37:26.215Z"
+  "lastUpdated": "2026-01-10T11:15:46.672Z"
 }
