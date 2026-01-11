@@ -8,3 +8,4 @@ upload_to_r2.py
 node_modules
 testing
 scripts
+.env.local

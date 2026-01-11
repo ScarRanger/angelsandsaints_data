@@ -1,29 +1,13 @@
 {
   "date": "2026-01-12",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT MARGUERITE BOURGEOYS",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT MARGUERITE BOURGEOYS"
-  ],
-  "suppressedObservances": [],
-  "summary": "Marguerite Bourgeoys was born in Troyes, France in 1620 and died in Montreal in 1700. As one of the older girls of a Christian, middle-class family, Marguerite had to assume the responsibility for the household when her mother died. At the age of twenty, she had a conversion experience during a religious procession that profoundly influenced her future mission and focused her values. She felt singled out by the Blessed Virgin. In response, she joined a local group of women who gathered to do charitable work as an extension of a cloister in Troyes. Marguerite served as leader of this extern group and, as her service, taught the children in the poor section of town. In 1653 Paul de Maisonneuve, founder of Montreal, passed through Troyes and invited Marguerite to join him in Ville Marie as a lay teacher to instruct the children of the colonists and the Native Americans. In June 1653, she sailed from Nantes on a three-month voyage to the New World.",
+  "title": "SAINT MARGUERITE BOURGEOYS",
+  "patronage": "Against poverty; impoverishment; loss of parents; people rejected by religious orders; poverty.",
+  "prayer": "O Mother Bourgeoys, you, whose compassionate power is ever increasing, show us your way of Truth, Faith and Holiness.",
+  "biography": "VIRGIN AND FOUNDRESS\n\n(17 April 1620 - 12 January 1700)\n\nMarguerite Bourgeoys was born in Troyes, France in 1620 and died in Montreal in 1700. As one of the older girls of a Christian, middle-class family, Marguerite had to assume the responsibility for the household when her mother died. At the age of twenty, she had a conversion experience during a religious procession that profoundly influenced her future mission and focused her values. She felt singled out by the Blessed Virgin. In response, she joined a local group of women who gathered to do charitable work as an extension of a cloister in Troyes. Marguerite served as leader of this extern group and, as her service, taught the children in the poor section of town. In 1653 Paul de Maisonneuve, founder of Montreal, passed through Troyes and invited Marguerite to join him in Ville Marie as a lay teacher to instruct the children of the colonists and the Native Americans. In June 1653, she sailed from Nantes on a three-month voyage to the New World.\n\nMarguerite's humanitarian and Christian work in Canada was principally as educator and founder. The wilderness was so hard on the colonists that she had to wait for five years before children survived until school age. In the interim, she instructed the Indian children. In 1658 she opened her first school in a stone stable given her by the town leaders. Marguerite had a broad concept of education. She saw the school as a vehicle of religious and social development. Unique to her time, she provided education for all, giving special attention to girls, the poor and the natives. Education in Marguerite's schools consisted in the basics of literacy, religious instruction, home economics, and the arts.\n\nBeyond the classroom, she worked with families, assisted in faith formation in the parish, and addressed the social service needs of the colonists. Noteworthy among her contributions to the colony is the special vocational schools she established to provide the domestic skills a young woman would need to run a home in the wilderness.\n\nShe became the official guardian to the \"filles du roi,\" young orphan girls sent by the monarch to establish new families. She lodged them in her own home, served as a matchmaker, and prepared them for their new life as pioneers. Her signature appears as a witness on many of the early marriage contracts in Montreal. As a result of these activities she was affectionately referred to as \"the Mother of the Colony.\" Marguerite made three trips back to France to recruit other women to join her in her work of education and to obtain civil approbation from the king.\n\nMarguerite's apostolic spirituality was a special gift to the Church. She was a woman of action inserted into her time as is attested to by the mark she left on the history of Montreal and education in Canada. She was a woman of faith, deeply committed to the service of the Gospels. She was personally motivated by the missionary journeying of Mary in service to her cousin, Elizabeth, and desired to form a group of uncloistered women who would imitate Mary in this mystery of the Visitation.\n\nMarguerite had an exceptional and practical love of God and neighbor. She had a great desire to serve the Church in its most local form, the parish. She exhorted her extern congregation of educators to be \"daughters of the parish\" - to worship with the people and use the local church as a source of spiritual nourishment.\n\nHer Congregation received Church approbation in 1698 and at that time pronounced vows as uncloistered religious. Today the Congregation de Notre Dame numbers 2600 sisters in North America, Japan, Latin America, and the Cameroons in service to the people of God in the spirit of the Visitation.\n\nOn November 12, 1950 Pope Pius XII beatified Marguerite Bourgeoys. Canonizing her October 31, 1982, Pope John Paul II gave the Canadian Church its first woman saint.\n\nMake us humble enough to abandon ourselves to the Will of God, generous enough to find in the Cross the joy of the Loving Giver.\n\nMay your fidelity to Jesus in the Blessed Sacrament lead us ever nearer to this source of light and peace. May your spirit of openness help us to be concerned for our brothers and sisters throughout the world.\n\nFinally, may Our Lady of the Trinity, Father, Son and Holy Spirit, bring us to this unity of eternal grace to which God has called you for all eternity. Amen.",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT MARGUERITE BOURGEOYS"
-    },
-    {
-      "type": "text",
-      "value": "MONDAY, 12 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Against poverty; impoverishment; loss of parents; people rejected by religious orders; poverty."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "VIRGIN AND FOUNDRESS"
+    },
+    {
+      "type": "text",
+      "value": "(17 April 1620 - 12 January 1700)"
     },
     {
       "type": "text",
@@ -46,6 +42,38 @@
       "value": "Beyond the classroom, she worked with families, assisted in faith formation in the parish, and addressed the social service needs of the colonists. Noteworthy among her contributions to the colony is the special vocational schools she established to provide the domestic skills a young woman would need to run a home in the wilderness."
     },
     {
+      "type": "text",
+      "value": "She became the official guardian to the \"filles du roi,\" young orphan girls sent by the monarch to establish new families. She lodged them in her own home, served as a matchmaker, and prepared them for their new life as pioneers. Her signature appears as a witness on many of the early marriage contracts in Montreal. As a result of these activities she was affectionately referred to as \"the Mother of the Colony.\" Marguerite made three trips back to France to recruit other women to join her in her work of education and to obtain civil approbation from the king."
+    },
+    {
+      "type": "text",
+      "value": "Marguerite's apostolic spirituality was a special gift to the Church. She was a woman of action inserted into her time as is attested to by the mark she left on the history of Montreal and education in Canada. She was a woman of faith, deeply committed to the service of the Gospels. She was personally motivated by the missionary journeying of Mary in service to her cousin, Elizabeth, and desired to form a group of uncloistered women who would imitate Mary in this mystery of the Visitation."
+    },
+    {
+      "type": "text",
+      "value": "Marguerite had an exceptional and practical love of God and neighbor. She had a great desire to serve the Church in its most local form, the parish. She exhorted her extern congregation of educators to be \"daughters of the parish\" - to worship with the people and use the local church as a source of spiritual nourishment."
+    },
+    {
+      "type": "text",
+      "value": "Her Congregation received Church approbation in 1698 and at that time pronounced vows as uncloistered religious. Today the Congregation de Notre Dame numbers 2600 sisters in North America, Japan, Latin America, and the Cameroons in service to the people of God in the spirit of the Visitation."
+    },
+    {
+      "type": "text",
+      "value": "On November 12, 1950 Pope Pius XII beatified Marguerite Bourgeoys. Canonizing her October 31, 1982, Pope John Paul II gave the Canadian Church its first woman saint."
+    },
+    {
+      "type": "text",
+      "value": "Make us humble enough to abandon ourselves to the Will of God, generous enough to find in the Cross the joy of the Loving Giver."
+    },
+    {
+      "type": "text",
+      "value": "May your fidelity to Jesus in the Blessed Sacrament lead us ever nearer to this source of light and peace. May your spirit of openness help us to be concerned for our brothers and sisters throughout the world."
+    },
+    {
+      "type": "text",
+      "value": "Finally, may Our Lady of the Trinity, Father, Son and Holy Spirit, bring us to this unity of eternal grace to which God has called you for all eternity. Amen."
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +82,6 @@
       "value": "O Mother Bourgeoys, you, whose compassionate power is ever increasing, show us your way of Truth, Faith and Holiness."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:19.129Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:15.616Z"
 }

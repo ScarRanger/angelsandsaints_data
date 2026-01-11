@@ -1,29 +1,13 @@
 {
   "date": "2026-01-16",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT JOSEPH VAZ",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT JOSEPH VAZ"
-  ],
-  "suppressedObservances": [],
-  "summary": "The day he was born, his father Cristovam Vaz saw a star in the Sky around midday. He wrote in his personal diary that his son would become a great man.",
+  "title": "SAINT JOSEPH VAZ",
+  "patronage": "Sri Lanka.",
+  "prayer": null,
+  "biography": "CONFESSOR\n\n(21 April 1651 - 16 January 1711)\n\nThe day he was born, his father Cristovam Vaz saw a star in the Sky around midday. He wrote in his personal diary that his son would become a great man.\n\nThe doors of Cortalim Church opened on their own when he went to visit the Blessed Sacrament one night. He was called “the little saint” as a boy and recited the Rosary on his way to Church and school. He resolved to eat kanji for his food (sometimes called the food of the poor) throughout his life.\n\nHe started the first Milagristas or Oratorians indigenous order after returning from South Kanara having brought peace among warring factions. The Oratorians served the Church in Sri Lanka and other countries for 150 years.\n\nHe disguised himself as a coolie wearing a loin cloth around his waist when he entered Sri Lanka as part of his mission since no priest was allowed on the island. His wheatish brown complexion helped him slip onto the island where the Dutch persecuted Roman Catholics. He entered hiding a kit under his loin cloth and wore a Rosary round his neck. He later built the first Church in Sri Lanka and dedicated it to Mother Mary.\n\nHe worked alone in Sri Lanka for 10 years and the next 14 years was accompanied by Goan Oratorians. He learnt their culture, sang their songs, and helped build their own local Church, never imposing the western Church on the faithful.\n\nHe baptised, catechised and built 300 chapels, churches and built homes for the old, sick and the needy next to the churches. He would always keep a sack of rice to be distributed to the poor after mass. Under the fear of being caught by the Dutch who were ruling in Sri Lanka, he disguised himself as a baker, dhobi, coolie, servant, businessman, porter and even a fisherwoman. He would work during the night by the light of the moon. He issued a command over snakes to never bite a priest. Till date, never has a priest in Sri Lanka has been bitten by a snake.\n\nWhile in prison, he learnt Tamil and Sinhalese, translating Catechism books and wrote the Stations of the Cross in the local language. He won the hearts of the Buddhist kings with the exemplary life he led. He was requested by the kings to pray for rain when the island was ravaged by drought. He performed the miracle of rain in Kandy, a record of which can be found in their archives. It had rained all over the island except on the Saint and the Altar he built to pray for rain. He never kept any money with him, always depended on God and his fellowmen. He had nothing to owe, and nothing to call his own. He wore and owned only one cassock, which was patched and stitched all over.\n\nThe Sri Lankans called him Samanasu Swami (the angelic priest) and is the first and only missionary of the East to have his mission in the East. He educated his neighbour and companion John who accompanied him in Sri Lanka and requested the superior of the Oratorians to ordain him a priest. John, who later returned to Goa, was ordained a priest. (The first Dalit-priest)\n\nHe would always sleep on a mat on the floor and never sought glory. He served 30 years as a priest, 24 of them in the Sri Lankan Vineyard and walked barefoot for the most part of his life. Despite his thin figure, he walked through the jungles like the wind.\n\nHe died in an odour of Sanctity on January 16, 1711, the day and the time that he had been foretold! Before dying he advised those gathered around him in Sinhala saying, “Hardly will you be able to do at the time of death what you have not done during your life”.\n\nHe sent the crucifix given to him by the Pope to Goa, now preserved in the oratory room of the shrine of St. Joseph Vaz at Sancoale, Goa, the only relic in India.\n\nSPECIAL PRAYER OVER THE SICK: Heavenly Father, Your Son proved through wonders how sensitive Your heart is towards those who are burdened with sin, sorrow, sickness and difficulties. Through the wonders Your Servant Blessed Joseph Vaz, wrought both in his life and death, he trailed the same path to show forth that divine kindness and thus drew thousands to the bosom of the Church. Therefore, we plead, through his intercession, to increase our faith in You, to make of us true witnesses of Your love, and, if it is Your will, grant us this favour (pray silently for your intention) and especially grant us a much needed miracle (pray silently for a miracle) through Jesus Christ our Lord. Amen.",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT JOSEPH VAZ"
-    },
-    {
-      "type": "text",
-      "value": "FRIDAY, 16 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Sri Lanka."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "CONFESSOR"
+    },
+    {
+      "type": "text",
+      "value": "(21 April 1651 - 16 January 1711)"
     },
     {
       "type": "text",
@@ -44,7 +40,44 @@
     {
       "type": "text",
       "value": "He started the first Milagristas or Oratorians indigenous order after returning from South Kanara having brought peace among warring factions. The Oratorians served the Church in Sri Lanka and other countries for 150 years."
+    },
+    {
+      "type": "text",
+      "value": "He disguised himself as a coolie wearing a loin cloth around his waist when he entered Sri Lanka as part of his mission since no priest was allowed on the island. His wheatish brown complexion helped him slip onto the island where the Dutch persecuted Roman Catholics. He entered hiding a kit under his loin cloth and wore a Rosary round his neck. He later built the first Church in Sri Lanka and dedicated it to Mother Mary."
+    },
+    {
+      "type": "text",
+      "value": "He worked alone in Sri Lanka for 10 years and the next 14 years was accompanied by Goan Oratorians. He learnt their culture, sang their songs, and helped build their own local Church, never imposing the western Church on the faithful."
+    },
+    {
+      "type": "text",
+      "value": "He baptised, catechised and built 300 chapels, churches and built homes for the old, sick and the needy next to the churches. He would always keep a sack of rice to be distributed to the poor after mass. Under the fear of being caught by the Dutch who were ruling in Sri Lanka, he disguised himself as a baker, dhobi, coolie, servant, businessman, porter and even a fisherwoman. He would work during the night by the light of the moon. He issued a command over snakes to never bite a priest. Till date, never has a priest in Sri Lanka has been bitten by a snake."
+    },
+    {
+      "type": "text",
+      "value": "While in prison, he learnt Tamil and Sinhalese, translating Catechism books and wrote the Stations of the Cross in the local language. He won the hearts of the Buddhist kings with the exemplary life he led. He was requested by the kings to pray for rain when the island was ravaged by drought. He performed the miracle of rain in Kandy, a record of which can be found in their archives. It had rained all over the island except on the Saint and the Altar he built to pray for rain. He never kept any money with him, always depended on God and his fellowmen. He had nothing to owe, and nothing to call his own. He wore and owned only one cassock, which was patched and stitched all over."
+    },
+    {
+      "type": "text",
+      "value": "The Sri Lankans called him Samanasu Swami (the angelic priest) and is the first and only missionary of the East to have his mission in the East. He educated his neighbour and companion John who accompanied him in Sri Lanka and requested the superior of the Oratorians to ordain him a priest. John, who later returned to Goa, was ordained a priest. (The first Dalit-priest)"
+    },
+    {
+      "type": "text",
+      "value": "He would always sleep on a mat on the floor and never sought glory. He served 30 years as a priest, 24 of them in the Sri Lankan Vineyard and walked barefoot for the most part of his life. Despite his thin figure, he walked through the jungles like the wind."
+    },
+    {
+      "type": "text",
+      "value": "He died in an odour of Sanctity on January 16, 1711, the day and the time that he had been foretold! Before dying he advised those gathered around him in Sinhala saying, “Hardly will you be able to do at the time of death what you have not done during your life”."
+    },
+    {
+      "type": "text",
+      "value": "He sent the crucifix given to him by the Pope to Goa, now preserved in the oratory room of the shrine of St. Joseph Vaz at Sancoale, Goa, the only relic in India."
+    },
+    {
+      "type": "text",
+      "value": "SPECIAL PRAYER OVER THE SICK: Heavenly Father, Your Son proved through wonders how sensitive Your heart is towards those who are burdened with sin, sorrow, sickness and difficulties. Through the wonders Your Servant Blessed Joseph Vaz, wrought both in his life and death, he trailed the same path to show forth that divine kindness and thus drew thousands to the bosom of the Church. Therefore, we plead, through his intercession, to increase our faith in You, to make of us true witnesses of Your love, and, if it is Your will, grant us this favour (pray silently for your intention) and especially grant us a much needed miracle (pray silently for a miracle) through Jesus Christ our Lord. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:23.638Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:20.668Z"
 }

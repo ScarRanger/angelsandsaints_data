@@ -1,37 +1,25 @@
 {
   "date": "2026-01-19",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT CANUTE IV",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT CANUTE IV"
-  ],
-  "suppressedObservances": [],
-  "summary": "Canute was an ambitious king (1080-1086) who sought to strengthen the Danish Monarchy was a devout Catholic and devotedly supported the Church and the Pope and had designs on the English throne. Slain by rebels in 1086, he was the first Danish king to be canonised. He was recognized by the Roman Catholic Church as patron saint of Denmark in 1101.",
+  "title": "SAINT CANUTE IV",
+  "patronage": null,
+  "prayer": "Glorious St. Canute, as king, you died fighting for the Church. Help me appreciate all martyrs who have protected the Church. Amen.",
+  "biography": "KING AND MARTYR\n\n(c. 1042 - July 10, 1086)\n\nCanute was an ambitious king (1080-1086) who sought to strengthen the Danish Monarchy was a devout Catholic and devotedly supported the Church and the Pope and had designs on the English throne. Slain by rebels in 1086, he was the first Danish king to be canonised. He was recognized by the Roman Catholic Church as patron saint of Denmark in 1101.\n\nCanute was a strong, wise king of Denmark. He was a great athlete, an expert horseman, and a marvelous general. At the beginning of his reign, he led a war against the barbarians who were threatening to take over the civilized world. King Canute and his army defeated them. He loved the Christian faith so much that he introduced it to people who had never heard of Christianity.\n\nSt. Canute knelt in church at the foot of the altar and offered his crown to the King of kings, Jesus. King Canute was very charitable and gentle with his people. He tried to help them with their problems. Most of all, he wanted to help them be true followers of Christ.\n\nHowever, a rebellion broke out in his kingdom because of the laws he had made about supporting the Church. On 10 July 1086, Canute and his men took refuge inside the wooden St. Alban's Priory in Odense. While his enemies were still outside, King Canute received the sacraments of Reconciliation and Holy Communion. He felt compassion for those who were upset enough to kill him. With all his heart he forgave his enemies. The rebels stormed into the church and Canute was killed kneeling before the altar along with seventeen of his followers and his brother Benedict. According to chronicler Ælnoth of Canterbury, Canute died following a lance thrust in the side. He was succeeded by Olaf as Olaf I of Denmark.\n\nBecause of his martyrdom and advocacy of the Church, Canute quickly began to be considered a saint. Under the reign of Olaf, Denmark suffered from crop failure, which was seen as divine retribution for the sacrilege killing of Canute. Miracles were soon reported as taking place at his grave and his canonisation was already being sought during the reign of Olaf. On 19 April 1101, persuaded by the envoys from Eric III of Denmark, Pope Paschal II confirmed the “cult of Canute” that had arisen and King Canute IV was canonised as a saint under the name San Canuto. He was the first Dane to be canonised.",
   "blocks": [
     {
       "type": "heading",
-      "value": "SAINT CANUTE IV"
-    },
-    {
-      "type": "text",
-      "value": "MONDAY, 19 JANUARY, 2026"
+      "value": "SAINT CANUTE IV"
     },
     {
       "type": "heading",
-      "value": "Life"
+      "value": "Biography"
     },
     {
       "type": "text",
-      "value": "1080-1086"
+      "value": "KING AND MARTYR"
+    },
+    {
+      "type": "text",
+      "value": "(c. 1042 - July 10, 1086)"
     },
     {
       "type": "text",
@@ -46,6 +34,14 @@
       "value": "St. Canute knelt in church at the foot of the altar and offered his crown to the King of kings, Jesus. King Canute was very charitable and gentle with his people. He tried to help them with their problems. Most of all, he wanted to help them be true followers of Christ."
     },
     {
+      "type": "text",
+      "value": "However, a rebellion broke out in his kingdom because of the laws he had made about supporting the Church. On 10 July 1086, Canute and his men took refuge inside the wooden St. Alban's Priory in Odense. While his enemies were still outside, King Canute received the sacraments of Reconciliation and Holy Communion. He felt compassion for those who were upset enough to kill him. With all his heart he forgave his enemies. The rebels stormed into the church and Canute was killed kneeling before the altar along with seventeen of his followers and his brother Benedict. According to chronicler Ælnoth of Canterbury, Canute died following a lance thrust in the side. He was succeeded by Olaf as Olaf I of Denmark."
+    },
+    {
+      "type": "text",
+      "value": "Because of his martyrdom and advocacy of the Church, Canute quickly began to be considered a saint. Under the reign of Olaf, Denmark suffered from crop failure, which was seen as divine retribution for the sacrilege killing of Canute. Miracles were soon reported as taking place at his grave and his canonisation was already being sought during the reign of Olaf. On 19 April 1101, persuaded by the envoys from Eric III of Denmark, Pope Paschal II confirmed the “cult of Canute” that had arisen and King Canute IV was canonised as a saint under the name San Canuto. He was the first Dane to be canonised."
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +50,6 @@
       "value": "Glorious St. Canute, as king, you died fighting for the Church. Help me appreciate all martyrs who have protected the Church. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:27.081Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:23.978Z"
 }

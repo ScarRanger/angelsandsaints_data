@@ -1,29 +1,13 @@
 {
   "date": "2026-01-26",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "FEASTS OF THE DAY",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "FEASTS OF THE DAY"
-  ],
-  "suppressedObservances": [],
-  "summary": "A statue of the Blessed Virgin Mary, Mother of the Forsaken, was venerated in Valencia, Spain, since the 15th century. In 1936, the Missionaries of Gujarat desired to build at Khambhokaj a shrine to Our Lady, under the consoling title: Mother of the Forsaken. A sculptor in Valencia, Innocencio Cuesta Lopez made a statue of Mother of the Forsaken in 1951. Later this statue was brought to India. This beautiful statue, motherly image of our heavenly Mother, has been erected in the shrine of Baroda and the devotion to Mother of the Forsaken has become very popular.",
+  "title": "FEASTS OF THE DAY",
+  "patronage": "Intestinal disorders; stomach diseases._PATRON: Crete.",
+  "prayer": "O God, who has deigned to bless uswith the favor of venerating the Blessed Virgin Maryunder the title of \"Mother of the Forsaken\",and has willed to bestow so much power on her intercessionthat no one should be abandonedwho has recourse to her motherly help!Grant we beseech you to us, your servants,the privilege that we all,who put ourselves under the protection of so exalted a Mother,may never be forsaken by your Divine Mercy,Through Christ, Our Lord. Amen.PRAYER: O God, who adorned Saints Timothy and Titus with apostolic virtues, grant through the intercession of them both, that, living justly and devoutly in this present age, we may merit to reach our heavenly homeland. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+  "biography": "A statue of the Blessed Virgin Mary, Mother of the Forsaken, was venerated in Valencia, Spain, since the 15th century. In 1936, the Missionaries of Gujarat desired to build at Khambhokaj a shrine to Our Lady, under the consoling title: Mother of the Forsaken. A sculptor in Valencia, Innocencio Cuesta Lopez made a statue of Mother of the Forsaken in 1951. Later this statue was brought to India. This beautiful statue, motherly image of our heavenly Mother, has been erected in the shrine of Baroda and the devotion to Mother of the Forsaken has become very popular.\n\nMary, Mother of the Forsaken: Pray for us!\n\nThe Feast day is celebrated on 26th January._\n\nTimothy was Paul's dearest disciple, his most steadfast associate. He was converted during the apostle's first missionary journey. When Paul revisited Lystra, Timothy, though still very young (about twenty) joined him as a co-worker and companion.\n\nThereafter, there existed between them a most intimate bond, as between father and son. St. Paul calls him his beloved child, devoted to him \"like a son to his father\" (Phil. 2:22). Of a kindly disposition, unselfish, prudent, zealous, he was a great consolation to Paul, particularly in the sufferings of his later years. He also assisted the apostle in the establishment of all the major Christian communities and was entrusted with missions of highest importance.\n\nTimothy was with Paul during his first Roman imprisonment. Paul made his self-sacrificing companion bishop of Ephesus, but the finest monument left him by his master are the two canonical Epistles bearing his name.\n\n— Excerpted from The Church's Year of Grace, Pius Parsch\n\nSt. Titus, a pagan by birth, became one of St. Paul's most illustrious disciples. He accompanied the apostle on several of his missionary journeys and was entrusted with important missions.\n\nFinally he came with St. Paul to the island of Crete, where he was appointed bishop. He performed this duty in accordance with the admonition given him, \". . . in all things show yourself an example of good works\" (Tit. 2:7).\n\nTradition tells us that he died a natural death at the age of 94, having lived in the state of virginity during his whole life. St. Paul left a worthy monument to Titus, his faithful disciple, in the beautiful pastoral letter which forms part of the New Testament. Today's feast in his honor was introduced in 1854.\n\n— Excerpted from The Church's Year of Grace, Pius Parsch",
   "blocks": [
     {
       "type": "heading",
       "value": "FEASTS OF THE DAY"
-    },
-    {
-      "type": "text",
-      "value": "MONDAY, 26 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -31,7 +15,11 @@
     },
     {
       "type": "text",
-      "value": "Intestinal disorders; stomach diseases._"
+      "value": "Intestinal disorders; stomach diseases._PATRON: Crete."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
     },
     {
       "type": "text",
@@ -39,11 +27,43 @@
     },
     {
       "type": "text",
-      "value": "PRAYER: O God, who has deigned to bless uswith the favor of venerating the Blessed Virgin Maryunder the title of \"Mother of the Forsaken\",and has willed to bestow so much power on her intercessionthat no one should be abandonedwho has recourse to her motherly help!Grant we beseech you to us, your servants,the privilege that we all,who put ourselves under the protection of so exalted a Mother,may never be forsaken by your Divine Mercy,Through Christ, Our Lord. Amen."
+      "value": "Mary, Mother of the Forsaken: Pray for us!"
+    },
+    {
+      "type": "text",
+      "value": "The Feast day is celebrated on 26th January._"
     },
     {
       "type": "text",
       "value": "Timothy was Paul's dearest disciple, his most steadfast associate. He was converted during the apostle's first missionary journey. When Paul revisited Lystra, Timothy, though still very young (about twenty) joined him as a co-worker and companion."
+    },
+    {
+      "type": "text",
+      "value": "Thereafter, there existed between them a most intimate bond, as between father and son. St. Paul calls him his beloved child, devoted to him \"like a son to his father\" (Phil. 2:22). Of a kindly disposition, unselfish, prudent, zealous, he was a great consolation to Paul, particularly in the sufferings of his later years. He also assisted the apostle in the establishment of all the major Christian communities and was entrusted with missions of highest importance."
+    },
+    {
+      "type": "text",
+      "value": "Timothy was with Paul during his first Roman imprisonment. Paul made his self-sacrificing companion bishop of Ephesus, but the finest monument left him by his master are the two canonical Epistles bearing his name."
+    },
+    {
+      "type": "text",
+      "value": "— Excerpted from The Church's Year of Grace, Pius Parsch"
+    },
+    {
+      "type": "text",
+      "value": "St. Titus, a pagan by birth, became one of St. Paul's most illustrious disciples. He accompanied the apostle on several of his missionary journeys and was entrusted with important missions."
+    },
+    {
+      "type": "text",
+      "value": "Finally he came with St. Paul to the island of Crete, where he was appointed bishop. He performed this duty in accordance with the admonition given him, \". . . in all things show yourself an example of good works\" (Tit. 2:7)."
+    },
+    {
+      "type": "text",
+      "value": "Tradition tells us that he died a natural death at the age of 94, having lived in the state of virginity during his whole life. St. Paul left a worthy monument to Titus, his faithful disciple, in the beautiful pastoral letter which forms part of the New Testament. Today's feast in his honor was introduced in 1854."
+    },
+    {
+      "type": "text",
+      "value": "— Excerpted from The Church's Year of Grace, Pius Parsch"
     },
     {
       "type": "heading",
@@ -51,8 +71,9 @@
     },
     {
       "type": "text",
-      "value": "O God, who has deigned to bless uswith the favor of venerating the Blessed Virgin Maryunder the title of \"Mother of the Forsaken\",and has willed to bestow so much power on her intercessionthat no one should be abandonedwho has recourse to her motherly help!Grant we beseech you to us, your servants,the privilege that we all,who put ourselves under the protection of so exalted a Mother,may never be forsaken by your Divine Mercy,Through Christ, Our Lord. Amen."
+      "value": "O God, who has deigned to bless uswith the favor of venerating the Blessed Virgin Maryunder the title of \"Mother of the Forsaken\",and has willed to bestow so much power on her intercessionthat no one should be abandonedwho has recourse to her motherly help!Grant we beseech you to us, your servants,the privilege that we all,who put ourselves under the protection of so exalted a Mother,may never be forsaken by your Divine Mercy,Through Christ, Our Lord. Amen.PRAYER: O God, who adorned Saints Timothy and Titus with apostolic virtues, grant through the intercession of them both, that, living justly and devoutly in this present age, we may merit to reach our heavenly homeland. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:35.796Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:33.338Z"
 }

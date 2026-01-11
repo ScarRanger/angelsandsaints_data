@@ -41,6 +41,13 @@
             "imageUrl": "res:/drawable/feast",
             "order": 6,
             "enabled": true
+        },
+        {
+            "id": "daily-readings",
+            "title": "Daily Readings",
+            "imageUrl": "res:/drawable/feast",
+            "order": 7,
+            "enabled": true
         }
     ]
 }

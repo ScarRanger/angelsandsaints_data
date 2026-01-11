@@ -1,29 +1,13 @@
 {
   "date": "2026-01-27",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT ANGELA MERICI",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT ANGELA MERICI"
-  ],
-  "suppressedObservances": [],
-  "summary": "Although not common, some older images and statues of St. Francis of Assisi show him balancing three orbs on his shoulders. They appear to be globes, heavenly realms, or the earth, the moon, and the sun. But the three orbs represent the three orders in the Franciscan family: the first order for men, the second order for women, and the third order for the laity who desired to live by the Franciscan rule. Today's saint, Angela Merici, was a third order Franciscan, a lay woman who followed a strict rule of Franciscan life outside of a convent.",
+  "title": "SAINT ANGELA MERICI",
+  "patronage": "Bodily ills; disabled people; handicapped people; illness; loss of parents; physically challenged people; sick people; sickness.",
+  "prayer": "May the Virgin Saint Angela never fail to commend us to your compassion, O Lord, we pray, that, following the lessons of her charity and prudence, and express it in what we do. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+  "biography": "VIRGIN\n\n(21 March 1474 - 27 January 1540)\n\nAlthough not common, some older images and statues of St. Francis of Assisi show him balancing three orbs on his shoulders. They appear to be globes, heavenly realms, or the earth, the moon, and the sun. But the three orbs represent the three orders in the Franciscan family: the first order for men, the second order for women, and the third order for the laity who desired to live by the Franciscan rule. Today's saint, Angela Merici, was a third order Franciscan, a lay woman who followed a strict rule of Franciscan life outside of a convent.\n\nAngela's holiness, mystical experiences, and leadership skills ultimately led her beyond her Franciscan commitment to found her own community of “virgins in the world” dedicated to the education of vulnerable girls, or, in common parlance, at risk youths. She placed the community under the patronage of St. Ursula. The community, after Angela's death, was formally recognized as the Ursulines, and gained such renown for their schools that they came to be known as the female Jesuits.\n\nSt. Angela saw the risk that uneducated girls in her own region of northern Italy would end up being abused sexually or financially and sought to counter this possibility through education. She gathered a like minded group of virgins around her into a “company,” a military word also used by St. Ignatius in founding his “Company of Jesus” around the same time. Saint Angela organized her city into districts which reported to a “colonel” who oversaw the education and general welfare of the poor girls under their care. Saint Angela's cooperators did not understand their dedicated virginity as a failure to find a husband or a rejection of religious life in a convent. They emulated the early Christian orders of virgins as spouses of Christ who served the children of their Beloved in the world.\n\nLiving in the first part of the 16th century, St. Angela was far ahead of her time. Teaching orders of nuns became normative in the Church throughout the centuries, staffing Catholic schools throughout the world. But nuns did not always do this. It had to start with someone, and that someone was today's saint. Bonds of faith, love of God, and a common purpose knitted her followers together into a religious family that served the spiritual and physical welfare of those who no one else cared about. Women make homes. Men just live in them. Saint Angela sought to change society one woman at a time by infusing every home with Christian virtue emanating from the heart of the woman who ran it. She trained future wives, mothers, and educators in their youth, when they were still able to be formed.\n\nThe Papal Bull of Pope Paul III in 1544 which recognized her community stated of St. Angela Merici: “She had such a thirst and hunger for the salvation and good of her neighbor that she was disposed and most ready to give not one, but a thousand lives, if she had had so many, for the salvation even of the least… with maternal love, she embraced all creatures…Her words…were spoken with such unheard of effectiveness that everyone felt compelled to say: ‘Here is God.'”\n\nSt. Angela was almost seventy when she died; her body remained incorrupt for thirty days. Remarkable phenomena occurred at her burial in the Church of St. Afra.",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT ANGELA MERICI"
-    },
-    {
-      "type": "text",
-      "value": "TUESDAY, 27 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -31,7 +15,19 @@
     },
     {
       "type": "text",
-      "value": "Angela's holiness, mystical experiences, and leadership skills ultimately led her beyond her Franciscan commitment to found her own community of “virgins in the world” dedicated to the education of vulnerable girls, or, in common parlance, at risk youths. She placed the community under the St. Ursula. The community, after Angela's death, was formally recognized as the Ursulines, and gained such renown for their schools that they came to be known as the female Jesuits."
+      "value": "Bodily ills; disabled people; handicapped people; illness; loss of parents; physically challenged people; sick people; sickness."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "VIRGIN"
+    },
+    {
+      "type": "text",
+      "value": "(21 March 1474 - 27 January 1540)"
     },
     {
       "type": "text",
@@ -46,6 +42,18 @@
       "value": "St. Angela saw the risk that uneducated girls in her own region of northern Italy would end up being abused sexually or financially and sought to counter this possibility through education. She gathered a like minded group of virgins around her into a “company,” a military word also used by St. Ignatius in founding his “Company of Jesus” around the same time. Saint Angela organized her city into districts which reported to a “colonel” who oversaw the education and general welfare of the poor girls under their care. Saint Angela's cooperators did not understand their dedicated virginity as a failure to find a husband or a rejection of religious life in a convent. They emulated the early Christian orders of virgins as spouses of Christ who served the children of their Beloved in the world."
     },
     {
+      "type": "text",
+      "value": "Living in the first part of the 16th century, St. Angela was far ahead of her time. Teaching orders of nuns became normative in the Church throughout the centuries, staffing Catholic schools throughout the world. But nuns did not always do this. It had to start with someone, and that someone was today's saint. Bonds of faith, love of God, and a common purpose knitted her followers together into a religious family that served the spiritual and physical welfare of those who no one else cared about. Women make homes. Men just live in them. Saint Angela sought to change society one woman at a time by infusing every home with Christian virtue emanating from the heart of the woman who ran it. She trained future wives, mothers, and educators in their youth, when they were still able to be formed."
+    },
+    {
+      "type": "text",
+      "value": "The Papal Bull of Pope Paul III in 1544 which recognized her community stated of St. Angela Merici: “She had such a thirst and hunger for the salvation and good of her neighbor that she was disposed and most ready to give not one, but a thousand lives, if she had had so many, for the salvation even of the least… with maternal love, she embraced all creatures…Her words…were spoken with such unheard of effectiveness that everyone felt compelled to say: ‘Here is God.'”"
+    },
+    {
+      "type": "text",
+      "value": "St. Angela was almost seventy when she died; her body remained incorrupt for thirty days. Remarkable phenomena occurred at her burial in the Church of St. Afra."
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +62,6 @@
       "value": "May the Virgin Saint Angela never fail to commend us to your compassion, O Lord, we pray, that, following the lessons of her charity and prudence, and express it in what we do. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:36.962Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:35.488Z"
 }

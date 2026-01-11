@@ -1,29 +1,13 @@
 {
   "date": "2026-01-15",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT PAUL - THE FIRST HERMIT",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT PAUL - THE FIRST HERMIT"
-  ],
-  "suppressedObservances": [],
-  "summary": "A Christian from his youth, Paul was orphaned at age 15. In 250 the persecution by Decius forced him into hiding, first at a friend's house and then, fearing exposure, to a cave in the Egyptian desert. He had planned to return home after things quieted down, but the peaceful solitude of the desert seduced him to stay. A palm tree and a spring near his cave provided him food, clothing, and water until he turned 43. After that time, as it had happened for Elias, a raven brought him half a loaf of bread each day.",
+  "title": "SAINT PAUL - THE FIRST HERMIT",
+  "patronage": "Clothing industry; weavers.",
+  "prayer": "O God, who wanted that St. Paul, our father, reach a high degree of sanctity through a life of solitude in the desert, grant that, through his intercession we, who are striving to develop in ourselves the spirit of prayer and service, may come ever closer to you in love. We ask this through Christ our Lord. Amen.",
+  "biography": "CONFESSOR\n\n(c. 233 – c. 345)\n\nA Christian from his youth, Paul was orphaned at age 15. In 250 the persecution by Decius forced him into hiding, first at a friend's house and then, fearing exposure, to a cave in the Egyptian desert. He had planned to return home after things quieted down, but the peaceful solitude of the desert seduced him to stay. A palm tree and a spring near his cave provided him food, clothing, and water until he turned 43. After that time, as it had happened for Elias, a raven brought him half a loaf of bread each day.\n\nIn Paul's 90th year in the desert his presence was revealed to St. Anthony, who immediately went to find him. Anthony met Paul in his cave, and the two hermits became friends overnight. They shared a whole loaf of bread brought by the raven, discussed world events, and prayed. Anthony thought he had found a companion, but Paul knew that God had sent Anthony to help him die. The biography described their meeting:\n\nBlessed Paul said to Anthony: “For a long time now, I have known that you dwelled in these regions. And for a long time God had promised you to me for a companion. Since my hour of eternal sleep has arrived, and because I have always desired ‘to be dissolved and to be with Christ' (see Philippians 1:23), having ‘finished the course, . . . a crown of justice' (see 2 Timothy 4:7–8) remains for me. You have been sent by God to bury my miserable body, rather to return earth to earth.”\n\nAnthony listened to these words with tears and groans, begging Paul not to leave him behind, but to accept him as a companion on that journey. Paul answered: “You ought not seek your own interests but those of another. It is indeed profitable for you to cast off the burden of the flesh to follow the Lamb, but it is also profitable for the rest of your brethren that they may be the more instructed by your example. I beg of you, hasten, if is not too much to ask, and bring back the cloak which Athanasius the bishop gave you, to wrap about my wretched body.” Now, blessed Paul made this request, not because he cared at all whether or not his body decayed covered up or naked, since for a long time now he had been wearing garments woven from palm leaves, but because he wanted to spare Anthony the grief of witnessing his death.\n\nAnthony went to get the cloak. When he returned he found Paul kneeling with arms outstretched, but already dead. Two lions dug Paul's grave and Anthony buried him. But he kept Paul's outer garment woven from palm leaves, which he treasured from that time and which he always wore on great feast days.\n\nPaul was spared a lonely death because he found a friend in Anthony. His experience suggests that we become friends with the sick and elderly and provide them companionship in their last days. And that we make friends with younger people ourselves as insurance against loneliness in the autumn of our lives.\n\n- Voices of the Saints, by Bert Ghezzi",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT PAUL - THE FIRST HERMIT"
-    },
-    {
-      "type": "text",
-      "value": "THURSDAY, 15 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Clothing industry; weavers."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "CONFESSOR"
+    },
+    {
+      "type": "text",
+      "value": "(c. 233 – c. 345)"
     },
     {
       "type": "text",
@@ -46,6 +42,22 @@
       "value": "Blessed Paul said to Anthony: “For a long time now, I have known that you dwelled in these regions. And for a long time God had promised you to me for a companion. Since my hour of eternal sleep has arrived, and because I have always desired ‘to be dissolved and to be with Christ' (see Philippians 1:23), having ‘finished the course, . . . a crown of justice' (see 2 Timothy 4:7–8) remains for me. You have been sent by God to bury my miserable body, rather to return earth to earth.”"
     },
     {
+      "type": "text",
+      "value": "Anthony listened to these words with tears and groans, begging Paul not to leave him behind, but to accept him as a companion on that journey. Paul answered: “You ought not seek your own interests but those of another. It is indeed profitable for you to cast off the burden of the flesh to follow the Lamb, but it is also profitable for the rest of your brethren that they may be the more instructed by your example. I beg of you, hasten, if is not too much to ask, and bring back the cloak which Athanasius the bishop gave you, to wrap about my wretched body.” Now, blessed Paul made this request, not because he cared at all whether or not his body decayed covered up or naked, since for a long time now he had been wearing garments woven from palm leaves, but because he wanted to spare Anthony the grief of witnessing his death."
+    },
+    {
+      "type": "text",
+      "value": "Anthony went to get the cloak. When he returned he found Paul kneeling with arms outstretched, but already dead. Two lions dug Paul's grave and Anthony buried him. But he kept Paul's outer garment woven from palm leaves, which he treasured from that time and which he always wore on great feast days."
+    },
+    {
+      "type": "text",
+      "value": "Paul was spared a lonely death because he found a friend in Anthony. His experience suggests that we become friends with the sick and elderly and provide them companionship in their last days. And that we make friends with younger people ourselves as insurance against loneliness in the autumn of our lives."
+    },
+    {
+      "type": "text",
+      "value": "- Voices of the Saints, by Bert Ghezzi"
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +66,6 @@
       "value": "O God, who wanted that St. Paul, our father, reach a high degree of sanctity through a life of solitude in the desert, grant that, through his intercession we, who are striving to develop in ourselves the spirit of prayer and service, may come ever closer to you in love. We ask this through Christ our Lord. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:22.530Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:19.348Z"
 }

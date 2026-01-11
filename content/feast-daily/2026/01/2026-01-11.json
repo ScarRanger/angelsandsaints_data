@@ -1,29 +1,17 @@
 {
   "date": "2026-01-11",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "FEAST OF THE DAY",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": true,
-    "isTransferred": false
-  },
-  "saints": [
-    "FEAST OF THE DAY"
-  ],
-  "suppressedObservances": [],
-  "summary": "The mystery of Christ's baptism in the Jordan by St. John, the Precursor, proposes the contemplation of an already adult Jesus. This mystery is infinitely linked to the Solemnities of the Lord's birth and the Epiphany that we have just celebrated, as in some ways it takes up and represents their significance to us.",
+  "title": "BAPTISM OF THE LORD",
+  "patronage": null,
+  "prayer": "Almighty ever-living God, who, when Christ had been baptized in the River Jordan and as the Holy Spirit descended upon him, solemnly declared him your beloved Son, grant that your children by adoption, reborn of water and the Holy Spirit, may always be well pleasing to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+  "biography": "The mystery of Christ's baptism in the Jordan by St. John, the Precursor, proposes the contemplation of an already adult Jesus. This mystery is infinitely linked to the Solemnities of the Lord's birth and the Epiphany that we have just celebrated, as in some ways it takes up and represents their significance to us.\n\nAt Christmas we have contemplated the human birth of the Word incarnate by the Virgin Mary. In the 4th century, the Fathers of the Church deepened the understanding of the faith with regard to the Christmas mystery in the light of Jesus' Humanity. They spoke of the Incarnation of the Word already working like the ‘Christification' of that humanity that he had assumed from His mother. Or put in simpler terms: Jesus is the Christ from the first instant of conception in Mary's spotless womb because He Himself, with His Divine Power, consecrated, anointed and ‘Christified' that human nature with which He became incarnate.\n\nIn the mystery of the Epiphany, we then meditated on Christ's manifestation to all nations that was represented by the Magi, the wise men from the East, who came to adore the Child.\n\nNow, in the mystery of Christ's Baptism in the Jordan River, we again encounter and represent the truth of the Lord's incarnation and His manifestation as the Christ. Jesus' Baptism is in fact His definitive manifestation as the Messiah or Christ to Israel, and as the Son of the Father to the entire world. Here we find the dimension of the Epiphany which was His manifestation to all nations. The Father's voice from heaven shows that Jesus of Nazareth is the eternal Son and the descent of the Holy Spirit in the form of a dove shows the Trinitarian nature of the Christian God. The true and unique God, Father, Son, and Holy Spirit, shows Himself in Christ, through Him, with Him and in Him.\n\nThe Baptism in the Jordan returns to the great Christmas theme of ‘Christification,' Jesus of Nazareth's spiritual anointing, His presentation as the Anointed One par excellence, the Messiah or the One sent by the Father for the salvation of mankind. The Spirit that descended on Jesus shows and seals in an incontrovertible way the ‘Christification' of Jesus' humanity that the Word had already fulfilled from the first moment of His miraculous conception by Mary. Jesus, from the very beginning, was always the Lord's Christ, He was always God. Yet, His one, true humanity, that which is perfect in every way, as the Gospel records, constantly grew in natural and supernatural perfection. ‘And Jesus increased in wisdom, in stature, and in favour with God and with men' (Lk2:52). In Israel at 30 years of age, one reached full maturity and therefore could become a master. Jesus came of age and the Spirit, descending and remaining on Him, definitively consecrated His whole being as the Christ.\n\nThe same Spirit, that descended on the water of the River Jordan wafted over the waters during the first creation (Gen 1:2). Therefore, the Baptism in the Jordan presents yet another truth: that Jesus has started a new creation. He is the second man (1 Cor 15:47) or the last Adam (1 Cor 15:45), that comes to repair the first Adam's guilt. He does this as the Lamb of God that takes away our sins. ‘Looking at the events in light of the Cross and Resurrection, the Christian people realised what happened: Jesus loaded the burden of all mankind's guilt upon His shoulders; he bore it down into the depths of the Jordan. He inaugurated his public activity by stepping into the place of sinners' (Joseph Ratzinger, Jesus of Nazareth, Bloomsbury 2007, p 18).",
   "blocks": [
     {
       "type": "heading",
-      "value": "FEAST OF THE DAY"
+      "value": "BAPTISM OF THE LORD"
     },
     {
-      "type": "text",
-      "value": "SUNDAY, 11 JANUARY, 2026"
+      "type": "heading",
+      "value": "Biography"
     },
     {
       "type": "text",
@@ -38,6 +26,18 @@
       "value": "In the mystery of the Epiphany, we then meditated on Christ's manifestation to all nations that was represented by the Magi, the wise men from the East, who came to adore the Child."
     },
     {
+      "type": "text",
+      "value": "Now, in the mystery of Christ's Baptism in the Jordan River, we again encounter and represent the truth of the Lord's incarnation and His manifestation as the Christ. Jesus' Baptism is in fact His definitive manifestation as the Messiah or Christ to Israel, and as the Son of the Father to the entire world. Here we find the dimension of the Epiphany which was His manifestation to all nations. The Father's voice from heaven shows that Jesus of Nazareth is the eternal Son and the descent of the Holy Spirit in the form of a dove shows the Trinitarian nature of the Christian God. The true and unique God, Father, Son, and Holy Spirit, shows Himself in Christ, through Him, with Him and in Him."
+    },
+    {
+      "type": "text",
+      "value": "The Baptism in the Jordan returns to the great Christmas theme of ‘Christification,' Jesus of Nazareth's spiritual anointing, His presentation as the Anointed One par excellence, the Messiah or the One sent by the Father for the salvation of mankind. The Spirit that descended on Jesus shows and seals in an incontrovertible way the ‘Christification' of Jesus' humanity that the Word had already fulfilled from the first moment of His miraculous conception by Mary. Jesus, from the very beginning, was always the Lord's Christ, He was always God. Yet, His one, true humanity, that which is perfect in every way, as the Gospel records, constantly grew in natural and supernatural perfection. ‘And Jesus increased in wisdom, in stature, and in favour with God and with men' (Lk2:52). In Israel at 30 years of age, one reached full maturity and therefore could become a master. Jesus came of age and the Spirit, descending and remaining on Him, definitively consecrated His whole being as the Christ."
+    },
+    {
+      "type": "text",
+      "value": "The same Spirit, that descended on the water of the River Jordan wafted over the waters during the first creation (Gen 1:2). Therefore, the Baptism in the Jordan presents yet another truth: that Jesus has started a new creation. He is the second man (1 Cor 15:47) or the last Adam (1 Cor 15:45), that comes to repair the first Adam's guilt. He does this as the Lamb of God that takes away our sins. ‘Looking at the events in light of the Cross and Resurrection, the Christian people realised what happened: Jesus loaded the burden of all mankind's guilt upon His shoulders; he bore it down into the depths of the Jordan. He inaugurated his public activity by stepping into the place of sinners' (Joseph Ratzinger, Jesus of Nazareth, Bloomsbury 2007, p 18)."
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -46,5 +46,6 @@
       "value": "Almighty ever-living God, who, when Christ had been baptized in the River Jordan and as the Holy Spirit descended upon him, solemnly declared him your beloved Son, grant that your children by adoption, reborn of water and the Holy Spirit, may always be well pleasing to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:17.936Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:14.498Z"
 }

@@ -1,29 +1,13 @@
 {
   "date": "2026-01-13",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT HILARY OF POITIERS",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT HILARY OF POITIERS"
-  ],
-  "suppressedObservances": [],
-  "summary": "St. Hilary was one of those great Christian heroes who poured out their lives laboring and suffering in defense of Christ's divinity. Scarcely had the days of bloody persecution ended (313), when there arose, now within the Church, a most dangerous enemy of another sort, Arianism. The heresy of Arianism denied the divinity of Christ; it was, in fact, hardly more than a form of paganism masquerading as the Christian Gospel. The smoldering strife soon flared into a mighty conflict endangering the whole Church; and its spread was all the more rapid and powerful because emperors, who called themselves Christian, proved its best supporters. Once again countless martyrs sealed in blood their belief in Christ's divinity; and orthodox bishops who voiced opposition were forced into exile amid extreme privations.",
+  "title": "SAINT HILARY OF POITIERS",
+  "patronage": "Against snakes; backward children; snake bites and lawyers.",
+  "prayer": "Grant, we pray, almighty God, that we may rightly understand and truthfully profess the divinity of your Son, which the Bishop Saint Hilary taught with such constancy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+  "biography": "BISHOP, CONFESSOR, FATHER AND DOCTOR OF THE CHURCH\n\n(c. 310–c. 367)\n\nSt. Hilary was one of those great Christian heroes who poured out their lives laboring and suffering in defense of Christ's divinity. Scarcely had the days of bloody persecution ended (313), when there arose, now within the Church, a most dangerous enemy of another sort, Arianism. The heresy of Arianism denied the divinity of Christ; it was, in fact, hardly more than a form of paganism masquerading as the Christian Gospel. The smoldering strife soon flared into a mighty conflict endangering the whole Church; and its spread was all the more rapid and powerful because emperors, who called themselves Christian, proved its best supporters. Once again countless martyrs sealed in blood their belief in Christ's divinity; and orthodox bishops who voiced opposition were forced into exile amid extreme privations.\n\nAmong the foremost defenders of the true faith stood Hilary. He belonged to a distinguished family and had received an excellent education. Though a married man, he was made bishop of Poitiers by reason of his exemplary life. It was not long before his valiant defense of the faith precipitated his exile to Phrygia. Here he composed his great work on the Blessed Trinity (in twelve books). It is a vigorous defense of the faith, which, he said, \"triumphs when attacked.\" Finally, after four years he was permitted to return to his native land. He continued his efforts, and through prudence and mildness succeeded in ridding Gaul of Arianism. Because of his edifying and illustrious writings on behalf of the true religion, the Church honors him as one of her doctors.\n\nHere is an example of Hilary's vigorous style: \"Now it is time to speak, the time for silence is past. We must expect Christ's return, for the reign of Antichrist has begun. The shepherds must give the warning signals because the hirelings have fled. Let us lay down our lives for the sheep, for brigands have entered the fold and the roaring lion is rampaging about. Be ready for martyrdom! Satan himself is clothed as an angel of light.\" A favorite motto of St. Hilary was Ministros veritatis decet vera proferre, \"Servants of the truth ought speak the truth.\"\n\n— From Pius Parsch, The Church's Year of Grace, Pius Parsch",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT HILARY OF POITIERS"
-    },
-    {
-      "type": "text",
-      "value": "TUESDAY, 13 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Against snakes; backward children; snake bites and lawyers."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "BISHOP, CONFESSOR, FATHER AND DOCTOR OF THE CHURCH"
+    },
+    {
+      "type": "text",
+      "value": "(c. 310–c. 367)"
     },
     {
       "type": "text",
@@ -46,6 +42,10 @@
       "value": "Here is an example of Hilary's vigorous style: \"Now it is time to speak, the time for silence is past. We must expect Christ's return, for the reign of Antichrist has begun. The shepherds must give the warning signals because the hirelings have fled. Let us lay down our lives for the sheep, for brigands have entered the fold and the roaring lion is rampaging about. Be ready for martyrdom! Satan himself is clothed as an angel of light.\" A favorite motto of St. Hilary was Ministros veritatis decet vera proferre, \"Servants of the truth ought speak the truth.\""
     },
     {
+      "type": "text",
+      "value": "— From Pius Parsch, The Church's Year of Grace, Pius Parsch"
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +54,6 @@
       "value": "Grant, we pray, almighty God, that we may rightly understand and truthfully profess the divinity of your Son, which the Bishop Saint Hilary taught with such constancy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:20.239Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:16.804Z"
 }

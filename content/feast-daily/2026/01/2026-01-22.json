@@ -1,29 +1,13 @@
 {
   "date": "2026-01-22",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINTS OF THE DAY",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINTS OF THE DAY"
-  ],
-  "suppressedObservances": [],
-  "summary": "Vincent Pallotti was born on April 21, 1795. His life belongs to an era of radical change. In these difficult times, Pallotti was educated and carried out his priestly ministry.",
+  "title": "SAINTS OF THE DAY",
+  "patronage": "of the arts, hiring artists to paint holy images to be sent to the missions and pontifical Missionary Union of Clergy.PATRON: Portugal; vine dressers; vinegar makers; vintners; wine growers; wine makers.",
+  "prayer": "Almighty ever-living God, mercifully pour out your Spirit upon us, so that our hearts may possess the strong love by which the Martyr Saint Vincent triumphed over all bodily torments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+  "biography": "CONFESSOR\n\n(21 April 1795 – 22 January 1850)\n\nVincent Pallotti was born on April 21, 1795. His life belongs to an era of radical change. In these difficult times, Pallotti was educated and carried out his priestly ministry.\n\nFrom his boyhood years, he sought personal perfection with an extraordinary fervor, but did not isolate himself from the world. He gave generously of his help and presence wherever needed, especially to young people.\n\nHe was ordained a priest on May 16, 1818. For Pallotti, priestly life was a full-time task and a humble service. He was best known as a preacher and a confessor. During parish missions he touched many who had minimal contact with the Church. Many who listened to him began to live a more coherent Christian life, and it was not long before he became known as the “Apostle of Rome.”\n\nDespite his numerous activities, Pallotti never lost sight of the untold needs of the people. He could be found pleading for support in the villas of the rich . He frequently came with aid to the poor. He gave comfort to the sick and dying. He visited prisons, and without hesitation was a companion of the condemned, even to the place of execution. For abandoned children, he opened residential homes and evening trade schools for adults.\n\nThere were so many needs to be met, which was such an enormous task, that he invited the help of priests, religious and lay people to participate in these endeavors. For him, it was imperative to unite every available source to help in the effort to revive faith and promote the love of God and neighbor.\n\nIt was with this intent, that in 1835 Vincent Pallotti founded the Union of the Catholic Apostolate. There were to be no distinctions made, because Pallotti was convinced that all the faithful, each in his or her own role in life and each according to personal ability, can be an apostle and can cooperate to further the growth and deepening of faith and love.\n\nVincent Pallotti died on January 22, 1850 Pope Pius XII proclaimed him “Blessed” and in 1963, Pope John XIII formally declared him a Saint.\n\n\"Continue to increase your commitment so that that which Vincent Pallotti prophetically announced, and which the Second Vatican Council authoritatively confirmed, may become a happy reality, and that all Christians become authentic apostles of Christ in the Church and in the world!\" - Blessed John Paul II.\n\nINTERCESSORY PRAYER TO ST. VINCENT PALLOTTI: Saint Vincent Pallotti, you were moulded by God, the infinite love. You answered God's call to serve Him. You were there for those seeking counsel, for the sick, for the youth and the aging, for the rich and the poor, for people of any profession and walk of life. You wanted to inspire each and every one for the Kingdom of God, reminding people of their duty to be apostles and preparing them for this work. I ask you to submit my petitions to God. Be my helper as I place this prayer before God the Father, through Jesus Christ. Do not leave me without your help. Bless me. Show me the way to Christ. Through the Spirit, lead me to the Father. Amen._\n\nDEACON AND MARTYR\n\n(304 AD)\n\nVincent of Saragossa was one of the Church's three most illustrious deacons, the other two being Stephen and Lawrence. He is also Spain's most renowned martyr. Ordained deacon by Bishop Valerius of Saragossa, he was taken in chains to Valencia during the Diocletian persecution and put to death.\n\nFrom legend we have the following details of his martyrdom. After brutal scourging in the presence of many witnesses, he was stretched on the rack; but neither torture nor blandishments nor threats could undermine the strength and courage of his faith. Next, he was cast on a heated grating, lacerated with iron hooks, and seared with hot metal plates. Then he was returned to prison, where the floor was heavily strewn with pieces of broken glass. A heavenly brightness flooded the entire dungeon, filling all who saw it with greatest awe.\n\nAfter this he was placed on a soft bed in the hope that lenient treatment would induce apostasy, since torture had proven ineffective. But strengthened by faith in Christ Jesus and the hope of everlasting life, Vincent maintained an invincible spirit and overcame all efforts, whether by fire, sword, rack, or torture to induce defection. He persevered to the end and gained the heavenly crown of martyrdom.\n\n—The Church's Year of Grace, Pius Parsch",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINTS OF THE DAY"
-    },
-    {
-      "type": "text",
-      "value": "THURSDAY, 22 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -31,7 +15,19 @@
     },
     {
       "type": "text",
-      "value": "of the arts, hiring artists to paint holy images to be sent to the missions and pontifical Missionary Union of Clergy."
+      "value": "of the arts, hiring artists to paint holy images to be sent to the missions and pontifical Missionary Union of Clergy.PATRON: Portugal; vine dressers; vinegar makers; vintners; wine growers; wine makers."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "CONFESSOR"
+    },
+    {
+      "type": "text",
+      "value": "(21 April 1795 – 22 January 1850)"
     },
     {
       "type": "text",
@@ -46,6 +42,54 @@
       "value": "He was ordained a priest on May 16, 1818. For Pallotti, priestly life was a full-time task and a humble service. He was best known as a preacher and a confessor. During parish missions he touched many who had minimal contact with the Church. Many who listened to him began to live a more coherent Christian life, and it was not long before he became known as the “Apostle of Rome.”"
     },
     {
+      "type": "text",
+      "value": "Despite his numerous activities, Pallotti never lost sight of the untold needs of the people. He could be found pleading for support in the villas of the rich . He frequently came with aid to the poor. He gave comfort to the sick and dying. He visited prisons, and without hesitation was a companion of the condemned, even to the place of execution. For abandoned children, he opened residential homes and evening trade schools for adults."
+    },
+    {
+      "type": "text",
+      "value": "There were so many needs to be met, which was such an enormous task, that he invited the help of priests, religious and lay people to participate in these endeavors. For him, it was imperative to unite every available source to help in the effort to revive faith and promote the love of God and neighbor."
+    },
+    {
+      "type": "text",
+      "value": "It was with this intent, that in 1835 Vincent Pallotti founded the Union of the Catholic Apostolate. There were to be no distinctions made, because Pallotti was convinced that all the faithful, each in his or her own role in life and each according to personal ability, can be an apostle and can cooperate to further the growth and deepening of faith and love."
+    },
+    {
+      "type": "text",
+      "value": "Vincent Pallotti died on January 22, 1850 Pope Pius XII proclaimed him “Blessed” and in 1963, Pope John XIII formally declared him a Saint."
+    },
+    {
+      "type": "text",
+      "value": "\"Continue to increase your commitment so that that which Vincent Pallotti prophetically announced, and which the Second Vatican Council authoritatively confirmed, may become a happy reality, and that all Christians become authentic apostles of Christ in the Church and in the world!\" - Blessed John Paul II."
+    },
+    {
+      "type": "text",
+      "value": "INTERCESSORY PRAYER TO ST. VINCENT PALLOTTI: Saint Vincent Pallotti, you were moulded by God, the infinite love. You answered God's call to serve Him. You were there for those seeking counsel, for the sick, for the youth and the aging, for the rich and the poor, for people of any profession and walk of life. You wanted to inspire each and every one for the Kingdom of God, reminding people of their duty to be apostles and preparing them for this work. I ask you to submit my petitions to God. Be my helper as I place this prayer before God the Father, through Jesus Christ. Do not leave me without your help. Bless me. Show me the way to Christ. Through the Spirit, lead me to the Father. Amen._"
+    },
+    {
+      "type": "text",
+      "value": "DEACON AND MARTYR"
+    },
+    {
+      "type": "text",
+      "value": "(304 AD)"
+    },
+    {
+      "type": "text",
+      "value": "Vincent of Saragossa was one of the Church's three most illustrious deacons, the other two being Stephen and Lawrence. He is also Spain's most renowned martyr. Ordained deacon by Bishop Valerius of Saragossa, he was taken in chains to Valencia during the Diocletian persecution and put to death."
+    },
+    {
+      "type": "text",
+      "value": "From legend we have the following details of his martyrdom. After brutal scourging in the presence of many witnesses, he was stretched on the rack; but neither torture nor blandishments nor threats could undermine the strength and courage of his faith. Next, he was cast on a heated grating, lacerated with iron hooks, and seared with hot metal plates. Then he was returned to prison, where the floor was heavily strewn with pieces of broken glass. A heavenly brightness flooded the entire dungeon, filling all who saw it with greatest awe."
+    },
+    {
+      "type": "text",
+      "value": "After this he was placed on a soft bed in the hope that lenient treatment would induce apostasy, since torture had proven ineffective. But strengthened by faith in Christ Jesus and the hope of everlasting life, Vincent maintained an invincible spirit and overcame all efforts, whether by fire, sword, rack, or torture to induce defection. He persevered to the end and gained the heavenly crown of martyrdom."
+    },
+    {
+      "type": "text",
+      "value": "—The Church's Year of Grace, Pius Parsch"
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +98,6 @@
       "value": "Almighty ever-living God, mercifully pour out your Spirit upon us, so that our hearts may possess the strong love by which the Martyr Saint Vincent triumphed over all bodily torments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:30.849Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:27.983Z"
 }

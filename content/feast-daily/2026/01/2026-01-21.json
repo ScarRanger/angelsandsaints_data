@@ -1,29 +1,13 @@
 {
   "date": "2026-01-21",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT AGNES OF ROME",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT AGNES OF ROME"
-  ],
-  "suppressedObservances": [],
-  "summary": "Agnes is one of the most glorious saints in the calendar of the Roman Church. The greatest Church Fathers vie with one another in sounding her praise and glory. St. Jerome writes: \"All nations, especially their Christian communities, praise in word and writing the life of St. Agnes. She triumphed over her tender age as well as over the merciless tyrant. To the crown of spotless innocence she added the glory of martyrdom.\"",
+  "title": "SAINT AGNES OF ROME",
+  "patronage": "Affianced couples; betrothed couples; bodily purity; chastity; Children of Mary; Colegio Capranica of Rome; crops; engaged couples; gardeners; Girl Scouts; girls; rape victims; diocese of Rockville Centre, New York; virgins.",
+  "prayer": "Almighty ever-living God, who choose what is weak in the world to confound the strong, mercifully grant, that we, who celebrate the heavenly birthday of your Martyr Saint Agnes, may follow her constancy in the faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+  "biography": "VIRGIN AND MARTYR\n\n( c. 291 – c. 304)\n\nAgnes is one of the most glorious saints in the calendar of the Roman Church. The greatest Church Fathers vie with one another in sounding her praise and glory. St. Jerome writes: \"All nations, especially their Christian communities, praise in word and writing the life of St. Agnes. She triumphed over her tender age as well as over the merciless tyrant. To the crown of spotless innocence she added the glory of martyrdom.\"\n\nOur saint's name should be traced to the Greek hagne - the pure, rather than to the Latin agna - lamb. But the Latin derivation prevailed in the early Church. The reason may have been that eight days after her death Agnes appeared to her parents with a train of virgins, and a lamb at her side. St. Augustine knew both derivations. \"Agnes\", he writes, \"means 'lamb' in Latin, but in Greek it denotes 'the pure one'\". The Latin interpretation occasioned the yearly blessing of the St. Agnes lambs; it takes place on this day in the Church of which she is patron, and the wool is used in weaving the palliums worn by archbishops and, through privilege, by some bishops. In the church built by the Emperor Constantine over the saint's grave, Pope Gregory the Great preached a number of homilies. Reliable details concerning the life of St. Agnes are very few. The oldest material occurs in St. Ambrose's De Virginibus, parts of which are read today at Matins. The value of the later (definitely unauthentic) \"Passion\" of the saint is enhanced by the fact that various antiphons and responsories in the Office are derived from it.\n\nFrom such liturgical sources we may construct the following \"life of St. Agnes\". One day when Agnes, then thirteen years old, was returning home from school, she happened to meet Symphronius, a son of the city prefect. At once he became passionately attracted to her and tried to win her by precious gifts. Agnes repelled him, saying: \"Away from me, food of death, for I have already found another lover\" (r. Ant.). \"With His ring my Lord Jesus Christ has betrothed me, and He has adorned me with the bridal crown\" (3. Ant., Lauds). \"My right hand and my neck He has encircled with precious stones, and has given me earrings with priceless pearls; He has decked me with lovely, glittering gems\" (2. Ant.). \"The Lord has clothed me with a robe of gold, He has adorned me with priceless jewels\" (4. Ant.). \"Honey and milk have I received from His mouth, and His blood has reddened my cheeks\" (5. Ant.). \"I love Christ, into whose chamber I shall enter, whose Mother is a virgin, whose Father knows not woman, whose music and melody are sweet to my ears. When I love Him, I remain chaste; when I touch Him, I remain pure; when I possess Him, I remain a virgin\" (2. Resp.). \"I am betrothed to Him whom the angels serve, whose beauty the sun and moon admire\" (9. Ant.). \"For Him alone I keep my troth, to Him I surrender with all my heart\" (6. Ant.).\n\nIncensed by her rebuff, Symphronius denounced Agnes to his father, the city prefect. When he threatened her with commitment to a house of ill fame, Agnes replied: \"At my side I have a protector of my body, an angel of the Lord\" (2. Ant., Lauds). \"When Agnes entered the house of shame, she found an angel of the Lord ready to protect her\" (1. Ant., Lauds). A light enveloped her and blinded all who tried to approach. Then another judge condemned her to the stake because the pagan priests accused her of sorcery.\n\nSurrounded by flames she prayed with outstretched arms: \"I beseech You, Father almighty, most worthy of awe and adoration. Through Your most holy Son I escaped the threats of the impious tyrant and passed through Satan's filth with feet unsullied. Behold, I now come to You, whom I have loved, whom I have sought, whom I have always desired.\" She gave thanks as follows: \"O You, the almighty One, who must be adored, worshipped, feared - I praise You because through Your only begotten Son I have escaped the threats of wicked men and have walked through the filth of sin with feet unsullied. I extol You with my lips, and I desire You with all my heart and strength.\"\n\nAfter the flames died out, she continued: \"I praise You, Father of my Lord Jesus Christ, because by Your Son the fire around me was extinguished\" (4. Ant., Lauds). And now she longed for union with Christ: \"Behold, what I yearned for, I already see; what I hoped for, I already hold in embrace; with Him I am united in heaven whom on earth I loved with all my heart\" (Ben. Ant.). Her wish was granted; the judge ordered her beheaded.\n\n— The Church's Year of Grace, Pius Parsch",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT AGNES OF ROME"
-    },
-    {
-      "type": "text",
-      "value": "WEDNESDAY, 21 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Affianced couples; betrothed couples; bodily purity; chastity; Children of Mary; Colegio Capranica of Rome; crops; engaged couples; gardeners; Girl Scouts; girls; rape victims; diocese of Rockville Centre, New York; virgins."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "VIRGIN AND MARTYR"
+    },
+    {
+      "type": "text",
+      "value": "( c. 291 – c. 304)"
     },
     {
       "type": "text",
@@ -46,6 +42,22 @@
       "value": "From such liturgical sources we may construct the following \"life of St. Agnes\". One day when Agnes, then thirteen years old, was returning home from school, she happened to meet Symphronius, a son of the city prefect. At once he became passionately attracted to her and tried to win her by precious gifts. Agnes repelled him, saying: \"Away from me, food of death, for I have already found another lover\" (r. Ant.). \"With His ring my Lord Jesus Christ has betrothed me, and He has adorned me with the bridal crown\" (3. Ant., Lauds). \"My right hand and my neck He has encircled with precious stones, and has given me earrings with priceless pearls; He has decked me with lovely, glittering gems\" (2. Ant.). \"The Lord has clothed me with a robe of gold, He has adorned me with priceless jewels\" (4. Ant.). \"Honey and milk have I received from His mouth, and His blood has reddened my cheeks\" (5. Ant.). \"I love Christ, into whose chamber I shall enter, whose Mother is a virgin, whose Father knows not woman, whose music and melody are sweet to my ears. When I love Him, I remain chaste; when I touch Him, I remain pure; when I possess Him, I remain a virgin\" (2. Resp.). \"I am betrothed to Him whom the angels serve, whose beauty the sun and moon admire\" (9. Ant.). \"For Him alone I keep my troth, to Him I surrender with all my heart\" (6. Ant.)."
     },
     {
+      "type": "text",
+      "value": "Incensed by her rebuff, Symphronius denounced Agnes to his father, the city prefect. When he threatened her with commitment to a house of ill fame, Agnes replied: \"At my side I have a protector of my body, an angel of the Lord\" (2. Ant., Lauds). \"When Agnes entered the house of shame, she found an angel of the Lord ready to protect her\" (1. Ant., Lauds). A light enveloped her and blinded all who tried to approach. Then another judge condemned her to the stake because the pagan priests accused her of sorcery."
+    },
+    {
+      "type": "text",
+      "value": "Surrounded by flames she prayed with outstretched arms: \"I beseech You, Father almighty, most worthy of awe and adoration. Through Your most holy Son I escaped the threats of the impious tyrant and passed through Satan's filth with feet unsullied. Behold, I now come to You, whom I have loved, whom I have sought, whom I have always desired.\" She gave thanks as follows: \"O You, the almighty One, who must be adored, worshipped, feared - I praise You because through Your only begotten Son I have escaped the threats of wicked men and have walked through the filth of sin with feet unsullied. I extol You with my lips, and I desire You with all my heart and strength.\""
+    },
+    {
+      "type": "text",
+      "value": "After the flames died out, she continued: \"I praise You, Father of my Lord Jesus Christ, because by Your Son the fire around me was extinguished\" (4. Ant., Lauds). And now she longed for union with Christ: \"Behold, what I yearned for, I already see; what I hoped for, I already hold in embrace; with Him I am united in heaven whom on earth I loved with all my heart\" (Ben. Ant.). Her wish was granted; the judge ordered her beheaded."
+    },
+    {
+      "type": "text",
+      "value": "— The Church's Year of Grace, Pius Parsch"
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +66,6 @@
       "value": "Almighty ever-living God, who choose what is weak in the world to confound the strong, mercifully grant, that we, who celebrate the heavenly birthday of your Martyr Saint Agnes, may follow her constancy in the faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:29.664Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:26.591Z"
 }

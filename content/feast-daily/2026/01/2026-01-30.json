@@ -1,29 +1,13 @@
 {
   "date": "2026-01-30",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT MARTINA OF ROME",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT MARTINA OF ROME"
-  ],
-  "suppressedObservances": [],
-  "summary": "Martina, a noble virgin of Rome, was the daughter of a Consul. Having lost her parents when quite a child, and being exceedingly fervent in the practice of the christian religion, she was singularly charitable to the poor, and distributed among them her immense riches. During the reign of Alexander Severus, she was ordered to worship the false gods, but most courageously refused to commit so detestable a crime. Whereupon, she was several times scourged; her flesh was torn with iron hooks and nails, and with potsherds, and her whole body was cut with most sharp swords; she was scalded with boiling oil, and was, at length, condemned to be devoured by wild beasts, in the amphitheater; but being miraculously left untouched by them, she was thrown on a burning pile, from which she also escaped unhurt, by the same divine power.",
+  "title": "SAINT MARTINA OF ROME",
+  "patronage": "Nursing mothers, Rome, Italy.",
+  "prayer": "O St. Martina, princes of paradise, forever assured of the crown merited by your sufferings, have compassion on us, poor wanderers, sighing in this valley of tears, uncertain of our eternal destiny. obtain for us, we pray a great love of God, so that we also may one day praise and bless with you that infinite Good which you already possess, love, and behold face to face. Amen.",
+  "biography": "VIRGIN AND MARTYR\n\n(228 AD)\n\nMartina, a noble virgin of Rome, was the daughter of a Consul. Having lost her parents when quite a child, and being exceedingly fervent in the practice of the christian religion, she was singularly charitable to the poor, and distributed among them her immense riches. During the reign of Alexander Severus, she was ordered to worship the false gods, but most courageously refused to commit so detestable a crime. Whereupon, she was several times scourged; her flesh was torn with iron hooks and nails, and with potsherds, and her whole body was cut with most sharp swords; she was scalded with boiling oil, and was, at length, condemned to be devoured by wild beasts, in the amphitheater; but being miraculously left untouched by them, she was thrown on a burning pile, from which she also escaped unhurt, by the same divine power.\n\nSome of the men that had inflicted these tortures upon her, being struck by the miracle, and touched by the grace of God, embraced the christian faith, and, after suffering many tortures, gained the glorious palm of martyrdom by being beheaded. The prayers of Martina were powerful with God. Earthquakes shook the city, fire fell from the heavens in the midst of loud thunder, the temples and idols of the gods were overthrown and destroyed. More than once, milk flowed from her wounds together with the blood, and a most sweet fragrance was perceived by the by-standers ; and sometimes she was seen raised up and placed on a beautiful throne, and singing the divine praises surrounded by heavenly spirits.\n\nVexed above measure by these prodigies, and, above all, by her constancy, the judge ordered her to be beheaded. Which being done, a voice from heaven was heard calling Martina to ascend : the whole city trembled, and many of the idolaters were converted to the faith of Christ. Martina suffered under the Pontificate of Urban the First; and under that of Urban the Eighth, her body was discovered in an ancient Church, together with those of the holy Martyrs Concordius, Epiphanius and Companions, near the Mamertine prison, at the foot of the Capitoline hill. The Church was restored, and decorated, and the body of the Saint was again placed in it, with much solemnity, in the presence of a great concourse of people, and amidst shouts of joy from the whole city.\n\nhttps://www.catholicculture.org/culture/liturgicalyear/activities/view.cfm?id=1008",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT MARTINA OF ROME"
-    },
-    {
-      "type": "text",
-      "value": "FRIDAY, 30 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Nursing mothers, Rome, Italy."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "VIRGIN AND MARTYR"
+    },
+    {
+      "type": "text",
+      "value": "(228 AD)"
     },
     {
       "type": "text",
@@ -46,6 +42,10 @@
       "value": "Vexed above measure by these prodigies, and, above all, by her constancy, the judge ordered her to be beheaded. Which being done, a voice from heaven was heard calling Martina to ascend : the whole city trembled, and many of the idolaters were converted to the faith of Christ. Martina suffered under the Pontificate of Urban the First; and under that of Urban the Eighth, her body was discovered in an ancient Church, together with those of the holy Martyrs Concordius, Epiphanius and Companions, near the Mamertine prison, at the foot of the Capitoline hill. The Church was restored, and decorated, and the body of the Saint was again placed in it, with much solemnity, in the presence of a great concourse of people, and amidst shouts of joy from the whole city."
     },
     {
+      "type": "text",
+      "value": "https://www.catholicculture.org/culture/liturgicalyear/activities/view.cfm?id=1008"
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +54,6 @@
       "value": "O St. Martina, princes of paradise, forever assured of the crown merited by your sufferings, have compassion on us, poor wanderers, sighing in this valley of tears, uncertain of our eternal destiny. obtain for us, we pray a great love of God, so that we also may one day praise and bless with you that infinite Good which you already possess, love, and behold face to face. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:40.289Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:40.058Z"
 }

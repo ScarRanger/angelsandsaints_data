@@ -1,29 +1,13 @@
 {
   "date": "2026-01-24",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT FRANCIS DE SALES",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT FRANCIS DE SALES"
-  ],
-  "suppressedObservances": [],
-  "summary": "Francis was born on August 21, 1567, and ordained to the priesthood in 1593. From 1594 to 1598 he labored at the difficult and dangerous task of preaching to the Protestants of Chablais and effected the return of some 70,000 souls to the Catholic faith. In 1602 he became bishop of Genf. His zeal for souls is attested in 21,000 extant letters and 4,000 sermons which exemplify how he applied St. Paul's words: \"I have become all things to all men.\" You may epitomize his character in two words, kindliness and lovableness — virtues that were the secret of his success. His writings reflect his kindheartedness and sweet disposition.",
+  "title": "SAINT FRANCIS DE SALES",
+  "patronage": "Authors; Diocese of Baker, Oregon; Archdiocese of Cincinnati, Ohio; Catholic press; Diocese of Columbus, Ohio; confessors; deaf people; deafness; Diocese of Wilmington, Delaware; educators; journalists; teachers; writers.",
+  "prayer": "O God, who for the salvation of souls willed that the Bishop Saint Francis de Sales become all things to all, graciously grant that, following his example, we may always display the gentleness of your charity in the service of our neighbor. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+  "biography": "BISHOP, CONFESSOR AND DOCTOR OF THE CHURCH\n\n(21 August 1567 - 28 December 1622)\n\nFrancis was born on August 21, 1567, and ordained to the priesthood in 1593. From 1594 to 1598 he labored at the difficult and dangerous task of preaching to the Protestants of Chablais and effected the return of some 70,000 souls to the Catholic faith. In 1602 he became bishop of Genf. His zeal for souls is attested in 21,000 extant letters and 4,000 sermons which exemplify how he applied St. Paul's words: \"I have become all things to all men.\" You may epitomize his character in two words, kindliness and lovableness — virtues that were the secret of his success. His writings reflect his kindheartedness and sweet disposition.\n\nMost widely known is the saint's Introduction to the Devout Life, which, with the Imitation of Christ, is rightly considered the finest outline of Christian perfection. Francis' Introduction proves to the world that true piety makes persons amiable, lovable and happy. A renowned and holy friendship existed between him and St. Frances de Chantal. In cooperation with her he founded the Visitation Nuns in 1610. Out of love for his own poor diocese, he refused opportunities for advancement, including the cardinalate. In recognition of the Introduction and his other writings, Francis has been declared a doctor of the Church.\n\nHow Francis developed a gentle and amiable disposition is a story in itself; he was not born a saint. By nature his temperament was choleric, fiery; little was needed to throw him into a state of violent anger. It took years before he mastered his impatience, his unruly temper. Even after he became bishop, there were slips, as for instance, when someone rang a bell before he had finished preaching. The important point, of course, is that by constant perseverance he did in time attain perfect self-mastery. Wherein lies a lesson.\n\n— Excerpted from The Church's Year of Grace, Pius Parsch\n\nTHE PRAYER OF ST. FRANCIS DE SALES\n\nBe at peace.Do not look forward in fear to the changes of life;rather look to them with full hope as they arise.God, whose very own you are, will deliver you from out of them.He has kept you hitherto, and He will lead you safely through all things;and when you cannot stand it, God will bury you in his arms.Do not fear what may happen tomorrow;the same everlasting Father who cares for you todaywill take care of you then and every day.He will either shield you from suffering, or give you unfailing strength to bear it.Be at peace, and put aside all anxious thoughts and imagination.",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT FRANCIS DE SALES"
-    },
-    {
-      "type": "text",
-      "value": "SATURDAY, 24 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Authors; Diocese of Baker, Oregon; Archdiocese of Cincinnati, Ohio; Catholic press; Diocese of Columbus, Ohio; confessors; deaf people; deafness; Diocese of Wilmington, Delaware; educators; journalists; teachers; writers."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "BISHOP, CONFESSOR AND DOCTOR OF THE CHURCH"
+    },
+    {
+      "type": "text",
+      "value": "(21 August 1567 - 28 December 1622)"
     },
     {
       "type": "text",
@@ -46,6 +42,18 @@
       "value": "How Francis developed a gentle and amiable disposition is a story in itself; he was not born a saint. By nature his temperament was choleric, fiery; little was needed to throw him into a state of violent anger. It took years before he mastered his impatience, his unruly temper. Even after he became bishop, there were slips, as for instance, when someone rang a bell before he had finished preaching. The important point, of course, is that by constant perseverance he did in time attain perfect self-mastery. Wherein lies a lesson."
     },
     {
+      "type": "text",
+      "value": "— Excerpted from The Church's Year of Grace, Pius Parsch"
+    },
+    {
+      "type": "text",
+      "value": "THE PRAYER OF ST. FRANCIS DE SALES"
+    },
+    {
+      "type": "text",
+      "value": "Be at peace.Do not look forward in fear to the changes of life;rather look to them with full hope as they arise.God, whose very own you are, will deliver you from out of them.He has kept you hitherto, and He will lead you safely through all things;and when you cannot stand it, God will bury you in his arms.Do not fear what may happen tomorrow;the same everlasting Father who cares for you todaywill take care of you then and every day.He will either shield you from suffering, or give you unfailing strength to bear it.Be at peace, and put aside all anxious thoughts and imagination."
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +62,6 @@
       "value": "O God, who for the salvation of souls willed that the Bishop Saint Francis de Sales become all things to all, graciously grant that, following his example, we may always display the gentleness of your charity in the service of our neighbor. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:33.224Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:30.772Z"
 }

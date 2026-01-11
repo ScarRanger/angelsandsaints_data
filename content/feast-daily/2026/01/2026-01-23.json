@@ -1,29 +1,13 @@
 {
   "date": "2026-01-23",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT MARIANNE COPE",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT MARIANNE COPE"
-  ],
-  "suppressedObservances": [],
-  "summary": "Today's saint was a model female Franciscan who emulated Saint Francis' heroic example of personally caring for those outcasts of all outcasts—lepers. Saints are not born, of course; they are made. And Saint Marianne Cope came from a specific time, place, and family. She could have developed her abundant talents in many directions and used them for many purposes, but she re-directed what God loaned her to serve and honor Him, His Church, and mankind. The Church, the Franciscans, and Hawaii were the arenas in which this elite spiritual athlete exercised her skills. She was asked for much and gave even more. She became a great, great woman.",
+  "title": "SAINT MARIANNE COPE",
+  "patronage": "lepers, outcasts, those with HIV/AIDS, Hawaiʻi.",
+  "prayer": "Saint Marianne Cope, help us to be as generous as you were in serving those on the margins, those who need our help, and those who have no one else to assist them. You were a model Franciscan in dying to self. Help us to likewise die so that we might likewise live. Amen.",
+  "biography": "VIRGIN\n\n(January 23, 1838 – August 9, 1918)\n\nToday's saint was a model female Franciscan who emulated Saint Francis' heroic example of personally caring for those outcasts of all outcasts—lepers. Saints are not born, of course; they are made. And Saint Marianne Cope came from a specific time, place, and family. She could have developed her abundant talents in many directions and used them for many purposes, but she re-directed what God loaned her to serve and honor Him, His Church, and mankind. The Church, the Franciscans, and Hawaii were the arenas in which this elite spiritual athlete exercised her skills. She was asked for much and gave even more. She became a great, great woman.\n\nMarianne Cope was born in Germany and was brought to New York state by her parents when she was still a baby. She was the oldest of ten children. Her parents lived, struggled, and worked for their kids. She saw generosity in action at home everyday. She quit school after eighth grade to work in a factory to financially support her ailing father, her mother, and her many siblings. The challenges inherent to migration, a new culture, illness, a large family, and poverty turned Marianne into a serious, mature woman when she was just a teen. She fulfilled her long delayed desire to enter religious life in 1862. Once professed, she moved quickly into leadership positions. She taught in German-speaking Catholic grade schools, became a school principal, and was elected by her fellow Franciscans to positions of governance in her Order. She opened the first hospitals in her region of central New York, dedicating herself and her Order to the time-honored religious vocation of caring for the sick, regardless of their ability to pay for medical services. She was eventually elected Superior General. In her early forties she was already a woman of wide experience: serious, administratively gifted, spiritually grounded, and of great human virtues. But this was all preparation. She now began the second, great act of her drama. She went to Hawaii.\n\nIn 1883 she received a letter from the Bishop of Honolulu begging her, as Superior General, to send sisters to care for lepers in Hawaii. He had written to various other religious Orders without success. Sister Marianne was elated. She responded like the prophet Isaiah, saying, “Here I am, send me” (Is 6:8). She not only sent six sisters, she sent herself! She planned to one day return to New York but never did. For the next thirty-five years, Sister Marianne Cope became a type of recluse on remote Hawaii, giving herself completely to the will of God.\n\nSister Marianne and her fellow Franciscans managed one hospital, founded another, opened a home for the daughters of lepers, and, after a few years of proving themselves, opened a home for women and girls on the virtually inaccessible island of Molokai. Here her life coincided with the final months of Saint Damien de Veuster. Sister Marianne nursed the future saint in his dying days, assuring him that she and her sisters would continue his work among the lepers. After Father Damien died, the Franciscans, in addition to caring for the leprous girls, now cared for the boys as well. A male Congregation eventually relieved them of this apostolate.\n\nSister Marianne Cope lived the last thirty years of her life on Molokai until her death in 1918. She was beatified by Pope Benedict XVI in 2005 and canonized by him in 2012. She loved the Holy Eucharist, the Virgin Mary, and the Church. And because she loved God first, she loved those whom God loves, her brothers and sisters in Christ. She sacrificed for them, left home and family for them, put her health at risk for them, and became a saint through them.",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT MARIANNE COPE"
-    },
-    {
-      "type": "text",
-      "value": "FRIDAY, 23 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "lepers, outcasts, those with HIV/AIDS, Hawaiʻi."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "VIRGIN"
+    },
+    {
+      "type": "text",
+      "value": "(January 23, 1838 – August 9, 1918)"
     },
     {
       "type": "text",
@@ -46,6 +42,14 @@
       "value": "In 1883 she received a letter from the Bishop of Honolulu begging her, as Superior General, to send sisters to care for lepers in Hawaii. He had written to various other religious Orders without success. Sister Marianne was elated. She responded like the prophet Isaiah, saying, “Here I am, send me” (Is 6:8). She not only sent six sisters, she sent herself! She planned to one day return to New York but never did. For the next thirty-five years, Sister Marianne Cope became a type of recluse on remote Hawaii, giving herself completely to the will of God."
     },
     {
+      "type": "text",
+      "value": "Sister Marianne and her fellow Franciscans managed one hospital, founded another, opened a home for the daughters of lepers, and, after a few years of proving themselves, opened a home for women and girls on the virtually inaccessible island of Molokai. Here her life coincided with the final months of Saint Damien de Veuster. Sister Marianne nursed the future saint in his dying days, assuring him that she and her sisters would continue his work among the lepers. After Father Damien died, the Franciscans, in addition to caring for the leprous girls, now cared for the boys as well. A male Congregation eventually relieved them of this apostolate."
+    },
+    {
+      "type": "text",
+      "value": "Sister Marianne Cope lived the last thirty years of her life on Molokai until her death in 1918. She was beatified by Pope Benedict XVI in 2005 and canonized by him in 2012. She loved the Holy Eucharist, the Virgin Mary, and the Church. And because she loved God first, she loved those whom God loves, her brothers and sisters in Christ. She sacrificed for them, left home and family for them, put her health at risk for them, and became a saint through them."
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +58,6 @@
       "value": "Saint Marianne Cope, help us to be as generous as you were in serving those on the margins, those who need our help, and those who have no one else to assist them. You were a model Franciscan in dying to self. Help us to likewise die so that we might likewise live. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:32.027Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:29.444Z"
 }

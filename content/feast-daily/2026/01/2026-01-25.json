@@ -1,29 +1,13 @@
 {
   "date": "2026-01-25",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "CONVERSION OF SAINT PAUL",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": true,
-    "isTransferred": false
-  },
-  "saints": [
-    "CONVERSION OF SAINT PAUL"
-  ],
-  "suppressedObservances": [],
-  "summary": "St. Paul was born at Tarsus, Cilicia, of Jewish parents who were descended from the tribe of Benjamin. He was a Roman citizen from birth. As he was \"a young man\" at the stoning of Stephen and \"an old man\" when writing to Philemon, about the year 63, he was probably born around the beginning of the Christian era.",
+  "title": "CONVERSION OF SAINT PAUL",
+  "patronage": "Against snakes; authors; Cursillo movement; evangelists; hailstorms; hospital public relations; journalists; lay people; missionary bishops; musicians; poisonous snakes; public relations personnel; public relations work; publishers; reporters; rope braiders; rope makers; saddlemakers; saddlers; snake bites; tent makers; writers; Malta; Rome; Poznan, Poland; newspaper editorial staff Archdiocese of Philadelphia, Pennsylvania; Diocese of Covington, Kentucky; Diocese of Birmingham, Alabama; Diocese of Las Vegas, Nevada; Diocese of Providence, Rhode Island; Diocese of Worcester, Massachusetts.",
+  "prayer": "O God, who taught the whole world through the preaching of the blessed Apostle Paul, draw us, we pray, nearer to you through the example of him whose conversion we celebrate today, and so make us witnesses to your truth in the world. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+  "biography": "APOSTLE\n\nSt. Paul was born at Tarsus, Cilicia, of Jewish parents who were descended from the tribe of Benjamin. He was a Roman citizen from birth. As he was \"a young man\" at the stoning of Stephen and \"an old man\" when writing to Philemon, about the year 63, he was probably born around the beginning of the Christian era.\n\nTo complete his schooling, St. Paul was sent to Jerusalem, where he sat at the feet of the learned Gamaliel and was educated in the strict observance of the ancestral Law. Here he also acquired a good knowledge of exegesis and was trained in the practice of disputation. As a convinced and zealous Pharisee, he returned to Tarsus before the public life of Christ opened in Palestine.\n\nSome time after the death of Our Lord, St. Paul returned to Palestine. His profound conviction made his zeal develop to a religious fanaticism against the infant Church. He took part in the stoning of the first martyr, St. Stephen, and in the fierce persecution of the Christians that followed.\n\nEntrusted with a formal mission from the high priest, he departed for Damascus to arrest the Christians there and bring them bound to Jerusalem. As he was nearing Damascus, about noon, a light from heaven suddenly blazed round him. Jesus with His glorified body appeared to him and addressed him, turning him away from his apparently successful career.\n\nAn immediate transformation was wrought in the soul of St. Paul. He was suddenly converted to the Christian Faith. He was baptized, changed his name from Saul to Paul, and began travelling and preaching the Faith. He was martyred as an Apostle in Rome around 65 AD.\n\n— Excerpted from Lives of the Saints",
   "blocks": [
     {
       "type": "heading",
       "value": "CONVERSION OF SAINT PAUL"
-    },
-    {
-      "type": "text",
-      "value": "SUNDAY, 25 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,14 @@
     {
       "type": "text",
       "value": "Against snakes; authors; Cursillo movement; evangelists; hailstorms; hospital public relations; journalists; lay people; missionary bishops; musicians; poisonous snakes; public relations personnel; public relations work; publishers; reporters; rope braiders; rope makers; saddlemakers; saddlers; snake bites; tent makers; writers; Malta; Rome; Poznan, Poland; newspaper editorial staff Archdiocese of Philadelphia, Pennsylvania; Diocese of Covington, Kentucky; Diocese of Birmingham, Alabama; Diocese of Las Vegas, Nevada; Diocese of Providence, Rhode Island; Diocese of Worcester, Massachusetts."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "APOSTLE"
     },
     {
       "type": "text",
@@ -46,6 +38,18 @@
       "value": "Some time after the death of Our Lord, St. Paul returned to Palestine. His profound conviction made his zeal develop to a religious fanaticism against the infant Church. He took part in the stoning of the first martyr, St. Stephen, and in the fierce persecution of the Christians that followed."
     },
     {
+      "type": "text",
+      "value": "Entrusted with a formal mission from the high priest, he departed for Damascus to arrest the Christians there and bring them bound to Jerusalem. As he was nearing Damascus, about noon, a light from heaven suddenly blazed round him. Jesus with His glorified body appeared to him and addressed him, turning him away from his apparently successful career."
+    },
+    {
+      "type": "text",
+      "value": "An immediate transformation was wrought in the soul of St. Paul. He was suddenly converted to the Christian Faith. He was baptized, changed his name from Saul to Paul, and began travelling and preaching the Faith. He was martyred as an Apostle in Rome around 65 AD."
+    },
+    {
+      "type": "text",
+      "value": "— Excerpted from Lives of the Saints"
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +58,6 @@
       "value": "O God, who taught the whole world through the preaching of the blessed Apostle Paul, draw us, we pray, nearer to you through the example of him whose conversion we celebrate today, and so make us witnesses to your truth in the world. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:34.602Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:32.054Z"
 }

@@ -1,29 +1,13 @@
 {
   "date": "2026-01-29",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT GILDAS - THE WISE",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT GILDAS - THE WISE"
-  ],
-  "suppressedObservances": [],
-  "summary": "He was born in 516, in the North of England or Wales. His father's name was Cau (or Nau) and that he came from noble lineage.",
+  "title": "SAINT GILDAS - THE WISE",
+  "patronage": "Welsh historians; bell founders.",
+  "prayer": "Saint Gildas, we thank you for your wisdom and the legacy you left for your countrymen and brethren in the faith. We pray for your intercession to help us live saintly lives so that when our days are done here we may join you and our Lord for eternity. Amen.",
+  "biography": "ABBOT\n\n(516 AD - 29 January 570 AD)\n\nHe was born in 516, in the North of England or Wales. His father's name was Cau (or Nau) and that he came from noble lineage.\n\nHe lived in a time when the glory of Rome was faded from Britain. The permanent legions had been withdrawn by Maximus, who used them to sack Rome itself and make himself Emperor.\n\nGildas noted for his piety was well educated, and was not afraid of publicly rebuking contemporary monarchs, at a time when libel was answered by a sword, rather than a Court order.\n\nHe lived for many years as an ascetic hermit on Flatholm Island in the Bristol Channel. Here he established his reputation for that peculiar Celtic sort of holiness that consists of extreme self-denial and isolation. At around this time, according to the Welsh, he also preached to Nemata, the mother of St. David, while she was pregnant with the Saint.\n\nIn about 547 he wrote De Excidio Britanniae (The Ruin of Britain). In this he writes a brief tale of the island from pre-Roman times and criticizes the rulers of the island for their lax morals and blames their sins (and those that follow them) for the destruction of civilization in Britain. The book was avowedly written as a moral tale.\n\nHe also wrote a longer work, the Epistle. This is a series of sermons on the moral laxity of rulers and of the clergy. In these Gildas shows that he has a wide reading of the Bible and of some other classical works.\n\nGildas was an influential preacher, visiting Ireland and doing missionary work. He was responsible for the conversion of much of the island and may be the one who introduced anchorite customs to the monks of that land.\n\nHe retired from Llancarfan to Rhuys, in Brittany, where he founded a monastery. Of his work on the running of a monastery (one of the earliest known in the Christian Church), only the so-called Penitential, a guide for Abbots in setting punishment, survives.\n\nHe died in 570, at Rhuys. The monastery that he had founded became the center of his cult.\n\nSt. Gildas is regarded as being one of the most influential figures of the early English Church. The influence of his writing was felt until well into the Middle Ages, particularly in the Celtic Church.",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT GILDAS - THE WISE"
-    },
-    {
-      "type": "text",
-      "value": "THURSDAY, 29 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Welsh historians; bell founders."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "ABBOT"
+    },
+    {
+      "type": "text",
+      "value": "(516 AD - 29 January 570 AD)"
     },
     {
       "type": "text",
@@ -46,6 +42,34 @@
       "value": "Gildas noted for his piety was well educated, and was not afraid of publicly rebuking contemporary monarchs, at a time when libel was answered by a sword, rather than a Court order."
     },
     {
+      "type": "text",
+      "value": "He lived for many years as an ascetic hermit on Flatholm Island in the Bristol Channel. Here he established his reputation for that peculiar Celtic sort of holiness that consists of extreme self-denial and isolation. At around this time, according to the Welsh, he also preached to Nemata, the mother of St. David, while she was pregnant with the Saint."
+    },
+    {
+      "type": "text",
+      "value": "In about 547 he wrote De Excidio Britanniae (The Ruin of Britain). In this he writes a brief tale of the island from pre-Roman times and criticizes the rulers of the island for their lax morals and blames their sins (and those that follow them) for the destruction of civilization in Britain. The book was avowedly written as a moral tale."
+    },
+    {
+      "type": "text",
+      "value": "He also wrote a longer work, the Epistle. This is a series of sermons on the moral laxity of rulers and of the clergy. In these Gildas shows that he has a wide reading of the Bible and of some other classical works."
+    },
+    {
+      "type": "text",
+      "value": "Gildas was an influential preacher, visiting Ireland and doing missionary work. He was responsible for the conversion of much of the island and may be the one who introduced anchorite customs to the monks of that land."
+    },
+    {
+      "type": "text",
+      "value": "He retired from Llancarfan to Rhuys, in Brittany, where he founded a monastery. Of his work on the running of a monastery (one of the earliest known in the Christian Church), only the so-called Penitential, a guide for Abbots in setting punishment, survives."
+    },
+    {
+      "type": "text",
+      "value": "He died in 570, at Rhuys. The monastery that he had founded became the center of his cult."
+    },
+    {
+      "type": "text",
+      "value": "St. Gildas is regarded as being one of the most influential figures of the early English Church. The influence of his writing was felt until well into the Middle Ages, particularly in the Celtic Church."
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +78,6 @@
       "value": "Saint Gildas, we thank you for your wisdom and the legacy you left for your countrymen and brethren in the faith. We pray for your intercession to help us live saintly lives so that when our days are done here we may join you and our Lord for eternity. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:39.181Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:38.603Z"
 }

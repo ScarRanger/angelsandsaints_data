@@ -1,58 +1,15 @@
 {
   "date": "2026-01-31",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT JOHN BOSCO",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT JOHN BOSCO"
-  ],
-  "suppressedObservances": [],
-  "summary": "John Bosco was born on the 16th of August 1815, in Becchi, Castelnuovo, Italy. He came from a family of poor farmers. He lost his father, Francesco, at the age of two. His mother Margherita raised him with tenderness and taught him to pray, to cultivate the soil and to see God behind the beauty of the heavens, the abundance of the harvest, the rain which showered the vines. For John, to pray meant to speak with God on his knees on the kitchen pavement, to think of him while seated on the grass, gazing at the heavens. From his mother, John learned to see God also in other faces, those of the poor or those of the miserable ones who came knocking at the door of the house during winter, and to whom Margherita gave hot soup, mended shoes.",
+  "title": "And you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Judah for from you shall come a ruler who will govern my people Israel.'",
+  "patronage": null,
+  "prayer": null,
+  "biography": "",
   "blocks": [
     {
       "type": "heading",
-      "value": "SAINT JOHN BOSCO"
-    },
-    {
-      "type": "text",
-      "value": "SATURDAY, 31 JANUARY, 2026"
-    },
-    {
-      "type": "heading",
-      "value": "Patronage"
-    },
-    {
-      "type": "text",
-      "value": "Apprentices; boys; editors; laborers; schoolchildren; students; young people."
-    },
-    {
-      "type": "text",
-      "value": "John Bosco was born on the 16th of August 1815, in Becchi, Castelnuovo, Italy. He came from a family of poor farmers. He lost his father, Francesco, at the age of two. His mother Margherita raised him with tenderness and taught him to pray, to cultivate the soil and to see God behind the beauty of the heavens, the abundance of the harvest, the rain which showered the vines. For John, to pray meant to speak with God on his knees on the kitchen pavement, to think of him while seated on the grass, gazing at the heavens. From his mother, John learned to see God also in other faces, those of the poor or those of the miserable ones who came knocking at the door of the house during winter, and to whom Margherita gave hot soup, mended shoes."
-    },
-    {
-      "type": "text",
-      "value": "THE GREAT DREAM: At the age of nine, Don Bosco had his first, great dream. He saw a multitude of very poor boys who play and blaspheme. A Man of majestic appearance told him: With meekness and charity you will conquer these your friends; and a Lady just as majestic added: Make yourself humble, strong and robust. At the right time you will understand everything."
-    },
-    {
-      "type": "text",
-      "value": "John studied the jugglers, tricks and the acrobats secrets. One Sunday evening, John gave his first performance in front of the kids from the neighbouring houses. He performed balancing miracles with pots and pans on the tip of his nose. Then he jumped up on a rope strung between two trees, and walked on it applauded by the young spectators. Then he repeated for them the sermon he heard at the morning Mass. The games and the Word of God began transforming his little friends who were encouraged to pray with John."
-    },
-    {
-      "type": "heading",
-      "value": "Prayer"
-    },
-    {
-      "type": "text",
-      "value": "O glorious Saint John Bosco, who in order to lead young people to the feet of the divine Master and to mould them in the light of faith and Christian morality didst heroically sacrifice thyself to the very end of thy life and didst set up a proper religious Institute destined to endure and to bring to the farthest boundaries of the earth thy glorious work, obtain also for us from Our Lord a holy love for young people who are exposed to so many seductions in order that we may generously spend ourselves in supporting them against the snares of the devil, in keeping them safe from the dangers of the world, and in guiding them, pure and holy, in the path that leads to God. Amen."
+      "value": "And you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Judah for from you shall come a ruler who will govern my people Israel.'"
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:41.410Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:43.206Z"
 }

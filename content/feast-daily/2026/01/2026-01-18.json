@@ -1,29 +1,13 @@
 {
   "date": "2026-01-18",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT PRISCA OF ROME",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": true,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT PRISCA OF ROME"
-  ],
-  "suppressedObservances": [],
-  "summary": "Prisca, who is also known as Priscilla, was a child martyr of the early Roman Church. Born to Christian parents of a noble family, Prisca was raised during the reign of the Roman emperor Claudius. While Claudius did not persecute Christians with the same fervor as other Roman emperors, Christians still did not practice their faith openly. In fact, Prisca's parents went to great lengths to conceal their faith, and thus they were not suspected of being Christians.",
+  "title": "SAINT PRISCA OF ROME",
+  "patronage": "Good Marriages.",
+  "prayer": "Grant, we pray You, almighty God, that as we celebrate the heavenly birthday of blessed Prisca, your virgin and martyr, so we may rejoice in her annual festival and profit by the example of her great faith. Through our Lord Jesus Christ, Your Son, who being God, lives and reigns with you in the unity of the Holy Spirit, for ever and ever. Amen.",
+  "biography": "VIRGIN AND MARTYR\n\n(269 AD)\n\nPrisca, who is also known as Priscilla, was a child martyr of the early Roman Church. Born to Christian parents of a noble family, Prisca was raised during the reign of the Roman emperor Claudius. While Claudius did not persecute Christians with the same fervor as other Roman emperors, Christians still did not practice their faith openly. In fact, Prisca's parents went to great lengths to conceal their faith, and thus they were not suspected of being Christians.\n\nPrisca, however, did not feel the need to take precaution. The young girl openly professed her dedication to Christ, and eventually, she was reported to the emperor. Claudius had her arrested, and commanded her to make a sacrifice to Apollo, the pagan god of the sun.\n\nAccording to the legend, Prisca refused, and was tortured for disobeying. Then, suddenly, a bright, yellow light shone about her, and she appeared to be a little star.\n\nClaudius ordered that Prisca be taken away to prison, in the hopes that she would abandon Christ. When all efforts to change her mind were unsuccessful, she was taken to an amphitheatre and thrown in with a lion.\n\nAs the crowd watched, Prisca stood fearless. According to legend, the lion walked toward the barefoot girl, and then gently licked her feet. Disgusted by his thwarted efforts to dissuade Prisca, Claudius had her beheaded.\n\nSeventh-century accounts of the grave sites of Roman martyrs refer to the discovery of an epitaph of a Roman Christian named Priscilla in a large catacomb and identifies her place of interment on the Via Salaria as the Catacomb of Priscilla.\n\n— Excerpted from Ordinary People Extraordinary Lives.",
   "blocks": [
     {
       "type": "heading",
       "value": "SAINT PRISCA OF ROME"
-    },
-    {
-      "type": "text",
-      "value": "SUNDAY, 18 JANUARY, 2026"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Good Marriages."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "VIRGIN AND MARTYR"
+    },
+    {
+      "type": "text",
+      "value": "(269 AD)"
     },
     {
       "type": "text",
@@ -46,6 +42,22 @@
       "value": "According to the legend, Prisca refused, and was tortured for disobeying. Then, suddenly, a bright, yellow light shone about her, and she appeared to be a little star."
     },
     {
+      "type": "text",
+      "value": "Claudius ordered that Prisca be taken away to prison, in the hopes that she would abandon Christ. When all efforts to change her mind were unsuccessful, she was taken to an amphitheatre and thrown in with a lion."
+    },
+    {
+      "type": "text",
+      "value": "As the crowd watched, Prisca stood fearless. According to legend, the lion walked toward the barefoot girl, and then gently licked her feet. Disgusted by his thwarted efforts to dissuade Prisca, Claudius had her beheaded."
+    },
+    {
+      "type": "text",
+      "value": "Seventh-century accounts of the grave sites of Roman martyrs refer to the discovery of an epitaph of a Roman Christian named Priscilla in a large catacomb and identifies her place of interment on the Via Salaria as the Catacomb of Priscilla."
+    },
+    {
+      "type": "text",
+      "value": "— Excerpted from Ordinary People Extraordinary Lives."
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +66,6 @@
       "value": "Grant, we pray You, almighty God, that as we celebrate the heavenly birthday of blessed Prisca, your virgin and martyr, so we may rejoice in her annual festival and profit by the example of her great faith. Through our Lord Jesus Christ, Your Son, who being God, lives and reigns with you in the unity of the Holy Spirit, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:25.933Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:22.870Z"
 }

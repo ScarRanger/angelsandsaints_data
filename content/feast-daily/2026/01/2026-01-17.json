@@ -1,29 +1,13 @@
 {
   "date": "2026-01-17",
-  "calendar": "general_roman",
-  "source": "marian_calendar",
-  "observance": {
-    "title": "SAINT ANTHONY THE ABBOT (GREAT / EGYPT)",
-    "type": "saint",
-    "rank": "memorial",
-    "color": "white",
-    "season": "Ordinary Time",
-    "isSunday": false,
-    "isTransferred": false
-  },
-  "saints": [
-    "SAINT ANTHONY THE ABBOT (GREAT / EGYPT)"
-  ],
-  "suppressedObservances": [],
-  "summary": "Anthony \"the Great\", the \"Father of Monks\", ranks with those saints whose life exercised a profound influence upon succeeding generations. He was born in Middle Egypt (about 250) of distinguished parents. After their untimely deaths, he dedicated himself wholly to acts of mortification.",
+  "title": "SAINT ANTHONY THE ABBOT GREAT  EGYPT",
+  "patronage": "Amputees; animals; basket makers; basket weavers; brushmakers; butchers; cemetery workers; domestic animals; eczema; epilepsy; epileptics; ergotism (Saint Anthony's fire); erysipelas; gravediggers; hermits; hogs; monks; pigs; relief from pestilence; skin diseases; skin rashes; swine; swineherds.",
+  "prayer": "O God, who brought the Abbot Saint Anthony to serve you by a wondrous way of life in the desert, grant, through his intercession, that, denying ourselves, we may always love you above all things. Through our Lord Jesus Christ, your Son,who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+  "biography": "ABBOT\n\n( 12 January 251 AD -  17 January 356 AD)\n\nAnthony \"the Great\", the \"Father of Monks\", ranks with those saints whose life exercised a profound influence upon succeeding generations. He was born in Middle Egypt (about 250) of distinguished parents. After their untimely deaths, he dedicated himself wholly to acts of mortification.\n\nOne day while in church he heard the words of the Gospel: \"If you wish to be perfect, go, sell what you have, and give it to the poor\" (Matt. 19:21). It seemed as if Christ had spoken to him personally, giving a command he must obey. Without delay he sold his property, gave the proceeds to the poor, and went into the desert (about 270). When overcome by fatigue, his bed was the hard ground. He fasted rigorously, ate only bread and salt, and drank only water. Nor would he take food before sundown; at times he passed two days without any nourishment. Often, too, he spent whole nights in prayer.\n\nThe saint suffered repeatedly from diabolical attacks, but these merely made him more steadfast in virtue. He would encourage his disciples in their struggle with the devil with such words: \"Believe me; the devil fears the vigils of pious souls, and their fastings, their voluntary poverty, their loving compassion, their humility, but most of all their ardent love of Christ our Lord. As soon as he sees the sign of the Cross, he flees in terror.\" He died in 356 on Mount Kolzin by the Red Sea, 105 years old. A year later his friend, the fearless bishop and confessor St. Athanasius, wrote his biography, which for centuries became the classic handbook of ascetics. As seen by St. Anthony, the purpose of asceticism is not to destroy the body but to bring it into subjection, re-establishing man's original harmonious integrity, his true God-given nature.\n\nSt. Anthony lived in solitude for about twenty years. \"His was a perfectly purified soul. No pain could annoy him, no pleasure bind him. In him was neither laughter nor sadness. The sight of the crowd did not trouble him, and the warm greetings of so many men did not move him. In a word, he was thoroughly immune to the vanities of the world, like a man unswervingly governed by reason, established in inner peace and harmony.\"\n\nHere are a few of his famous sayings to monks. \"Let it be your supreme and common purpose not to grow weary in the work you have begun, and in time of trial and affliction not to lose courage and say: Oh, how long already have we been mortifying ourselves! Rather, we should daily begin anew and constantly increase our fervor. For man's whole life is short when measured against the time to come, so short, in fact, that it is as nothing in comparison with eternity. . . . Therefore, my children, let us persevere in our acts of asceticism. And that we may not become weary and disheartened, it is good to meditate on the words of the apostle: 'I die daily.' If we live with the picture of death always before our eyes, we will not sin. The apostle's words tell us that we should so awaken in the morning as though we would not live to evening, and so fall asleep as if there were to be no awakening. For our life is by nature uncertain and is daily meted out to us by Providence. If we are convinced of this and live each day as the apostle suggests, then we will not fall into sin; no desire will enslave us, no anger move us, no treasure bind us to earth; we will await death with unfettered hearts.\"\n\n— Excerpted from The Church's Year of Grace, Pius Parsch",
   "blocks": [
     {
       "type": "heading",
-      "value": "SAINT ANTHONY THE ABBOT (GREAT / EGYPT)"
-    },
-    {
-      "type": "text",
-      "value": "SATURDAY, 17 JANUARY, 2026"
+      "value": "SAINT ANTHONY THE ABBOT GREAT  EGYPT"
     },
     {
       "type": "heading",
@@ -32,6 +16,18 @@
     {
       "type": "text",
       "value": "Amputees; animals; basket makers; basket weavers; brushmakers; butchers; cemetery workers; domestic animals; eczema; epilepsy; epileptics; ergotism (Saint Anthony's fire); erysipelas; gravediggers; hermits; hogs; monks; pigs; relief from pestilence; skin diseases; skin rashes; swine; swineherds."
+    },
+    {
+      "type": "heading",
+      "value": "Biography"
+    },
+    {
+      "type": "text",
+      "value": "ABBOT"
+    },
+    {
+      "type": "text",
+      "value": "( 12 January 251 AD -  17 January 356 AD)"
     },
     {
       "type": "text",
@@ -46,6 +42,18 @@
       "value": "The saint suffered repeatedly from diabolical attacks, but these merely made him more steadfast in virtue. He would encourage his disciples in their struggle with the devil with such words: \"Believe me; the devil fears the vigils of pious souls, and their fastings, their voluntary poverty, their loving compassion, their humility, but most of all their ardent love of Christ our Lord. As soon as he sees the sign of the Cross, he flees in terror.\" He died in 356 on Mount Kolzin by the Red Sea, 105 years old. A year later his friend, the fearless bishop and confessor St. Athanasius, wrote his biography, which for centuries became the classic handbook of ascetics. As seen by St. Anthony, the purpose of asceticism is not to destroy the body but to bring it into subjection, re-establishing man's original harmonious integrity, his true God-given nature."
     },
     {
+      "type": "text",
+      "value": "St. Anthony lived in solitude for about twenty years. \"His was a perfectly purified soul. No pain could annoy him, no pleasure bind him. In him was neither laughter nor sadness. The sight of the crowd did not trouble him, and the warm greetings of so many men did not move him. In a word, he was thoroughly immune to the vanities of the world, like a man unswervingly governed by reason, established in inner peace and harmony.\""
+    },
+    {
+      "type": "text",
+      "value": "Here are a few of his famous sayings to monks. \"Let it be your supreme and common purpose not to grow weary in the work you have begun, and in time of trial and affliction not to lose courage and say: Oh, how long already have we been mortifying ourselves! Rather, we should daily begin anew and constantly increase our fervor. For man's whole life is short when measured against the time to come, so short, in fact, that it is as nothing in comparison with eternity. . . . Therefore, my children, let us persevere in our acts of asceticism. And that we may not become weary and disheartened, it is good to meditate on the words of the apostle: 'I die daily.' If we live with the picture of death always before our eyes, we will not sin. The apostle's words tell us that we should so awaken in the morning as though we would not live to evening, and so fall asleep as if there were to be no awakening. For our life is by nature uncertain and is daily meted out to us by Providence. If we are convinced of this and live each day as the apostle suggests, then we will not fall into sin; no desire will enslave us, no anger move us, no treasure bind us to earth; we will await death with unfettered hearts.\""
+    },
+    {
+      "type": "text",
+      "value": "— Excerpted from The Church's Year of Grace, Pius Parsch"
+    },
+    {
       "type": "heading",
       "value": "Prayer"
     },
@@ -54,5 +62,6 @@
       "value": "O God, who brought the Abbot Saint Anthony to serve you by a wondrous way of life in the desert, grant, through his intercession, that, denying ourselves, we may always love you above all things. Through our Lord Jesus Christ, your Son,who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever. Amen."
     }
   ],
-  "lastUpdated": "2026-01-10T11:33:24.778Z"
+  "source": "jesusreignsmarianmovement.faith",
+  "lastUpdated": "2026-01-11T16:33:21.779Z"
 }
