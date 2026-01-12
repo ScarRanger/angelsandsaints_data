@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Run Fetch Script
-        run: node testing/marathireadings/loopfetch.js
+        run: node scripts/fetch_marathi_readings.js
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
