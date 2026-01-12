@@ -11,14 +11,14 @@
             "id": "apostles",
             "title": "Apostles",
             "imageUrl": "res:/drawable/peter_thumb",
-            "order": 2,
+            "order": 6,
             "enabled": true
         },
         {
             "id": "saints",
             "title": "Saints",
             "imageUrl": "res:/drawable/joseph_thumb",
-            "order": 3,
+            "order": 7,
             "enabled": true
         },
         {
@@ -39,14 +39,14 @@
             "id": "daily-feast",
             "title": "Daily Feast",
             "imageUrl": "res:/drawable/feast",
-            "order": 6,
+            "order": 4,
             "enabled": true
         },
         {
             "id": "daily-readings",
             "title": "Daily Readings",
             "imageUrl": "res:/drawable/feast",
-            "order": 7,
+            "order": 3,
             "enabled": true
         }
     ]
