@@ -1,0 +1,34 @@
+name: Fetch Marathi Readings
+
+on:
+  schedule:
+    # Run at hour 0 and 14 (approx every 14 hours - 14h gap then 10h gap)
+    - cron: '0 0,14 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-readings:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Fetch Script
+        run: node testing/marathireadings/loopfetch.js
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update marathi readings"
+          file_pattern: "content/readings-marathi/**/*.json"
