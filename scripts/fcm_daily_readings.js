@@ -1,7 +1,11 @@
 import admin from 'firebase-admin';
 
 // Use the secret from environment variables
-const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+if (!process.env.FIREBASE_SERVICE_ACCOUNT) {
+    console.error("Error: FIREBASE_SERVICE_ACCOUNT environment variable is missing.");
+    process.exit(1);
+}
+const serviceAccount = JSON.parse(Buffer.from(process.env.FIREBASE_SERVICE_ACCOUNT, 'base64').toString('utf-8'));
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount)
@@ -20,8 +24,6 @@ const message = {
     topic: "daily_readings",
     android: {
         notification: {
-            // This ensures the system uses the deep link if handled by the OS
-            link: "saints://daily-readings",
             // Using the default launcher activity is best unless you have 
             // a specific reason for a custom click_action.
             priority: "high"
