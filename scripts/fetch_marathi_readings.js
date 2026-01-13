@@ -246,7 +246,7 @@ async function main() {
     // Determine base paths
     // Current script: testing/marathireadings/loopfetch.js
     // Target content: content/readings-marathi
-    const contentDir = path.resolve(__dirname, '../../content/readings-marathi');
+    const contentDir = path.resolve(__dirname, '../content/readings-marathi');
 
     // Find where to start
     let cursorDate = getLastProcessedDate(contentDir);
