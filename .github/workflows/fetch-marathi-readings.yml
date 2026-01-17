@@ -2,8 +2,8 @@ name: Fetch Marathi Readings
 
 on:
   schedule:
-    # Run at hour 0 and 14 (approx every 14 hours - 14h gap then 10h gap)
-    - cron: '0 0,14 * * *'
+    # Run at hour 0 and 12 (every 12 hours)
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 jobs:

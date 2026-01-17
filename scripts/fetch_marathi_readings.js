@@ -24,6 +24,52 @@ function getDayName(date) {
     return date.toLocaleDateString('en-US', { weekday: 'long' }).toLowerCase();
 }
 
+const ORDINAL_WORDS = [
+    "", "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth",
+    "eleventh", "twelfth", "thirteenth", "fourteenth", "fifteenth", "sixteenth", "seventeenth", "eighteenth", "nineteenth", "twentieth",
+    "twenty-first", "twenty-second", "twenty-third", "twenty-fourth", "twenty-fifth", "twenty-sixth", "twenty-seventh", "twenty-eighth", "twenty-ninth", "thirtieth",
+    "thirty-first", "thirty-second", "thirty-third", "thirty-fourth"
+];
+
+function getEaster(year) {
+    const f = Math.floor,
+        G = year % 19,
+        C = f(year / 100),
+        H = (C - f(C / 4) - f((8 * C + 13) / 25) + 19 * G + 15) % 30,
+        I = H - f(H / 28) * (1 - f(29 / (H + 1)) * f((21 - G) / 11)),
+        J = (year + f(year / 4) + I + 2 - C + f(C / 4)) % 7,
+        L = I - J,
+        month = 3 + f((L + 40) / 44),
+        day = L + 28 - 31 * f(month / 4);
+    return new Date(year, month - 1, day);
+}
+
+function getLiturgicalSeasonAndWeek(date) {
+    const year = date.getFullYear();
+
+    // Epiphany: Sunday between Jan 2 and Jan 8
+    let epiphany = new Date(year, 0, 1);
+    while (true) {
+        if (epiphany.getDay() === 0 && epiphany.getDate() >= 2 && epiphany.getDate() <= 8) break;
+        epiphany.setDate(epiphany.getDate() + 1);
+        if (epiphany.getMonth() > 0) break; // Safety break
+    }
+
+    const easter = getEaster(year);
+    const ashWed = new Date(easter);
+    ashWed.setDate(easter.getDate() - 46);
+
+    // Ordinary Time (Before Lent)
+    if (date > epiphany && date < ashWed) {
+        const diffTime = Math.abs(date - epiphany);
+        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+        const week = Math.floor(diffDays / 7);
+        if (week > 0) return { season: 'ordinary', week: week };
+    }
+
+    return null;
+}
+
 function generateUrl(date) {
     const year = date.getFullYear();
     const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -33,6 +79,16 @@ function generateUrl(date) {
     const day = date.getDate();
     const dayName = getDayName(date);
     const suffix = getOrdinalSuffix(day);
+
+    // Special logic for Sundays
+    if (date.getDay() === 0) { // Sunday
+        const litInfo = getLiturgicalSeasonAndWeek(date);
+        if (litInfo && litInfo.season === 'ordinary') {
+            const ordinalWord = ORDINAL_WORDS[litInfo.week] || litInfo.week;
+            // Pattern: https://marathibiblereading.blogspot.com/YYYY/MM/marathi-bible-reading-ordinary-second.html
+            return `https://marathibiblereading.blogspot.com/${year}/${month}/marathi-bible-reading-${litInfo.season}-${ordinalWord}.html`;
+        }
+    }
 
     // URL Construction
     // Pattern: https://marathibiblereading.blogspot.com/YYYY/MM/marathi-bible-reading-WEEKDAY-DAYth.html
