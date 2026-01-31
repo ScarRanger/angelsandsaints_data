@@ -1,6 +1,6 @@
 {
   "id": "st-jose-sanchez",
-  "title": "St. Jose Sanchez Del Rio",
+  "title": "St. Jose Sanchez",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,31 @@
     },
     {
       "type": "heading",
-      "value": "Viva Cristo Rey!"
+      "value": "The Martyr of Mexico"
     },
     {
       "type": "text",
-      "value": "Saint José Sánchez del Río was a 14-year-old Mexican boy who died shouting 'Viva Cristo Rey!' (Long live Christ the King!) during the Cristero War, when the Mexican government persecuted the Catholic Church."
+      "value": "St. José Luis Sánchez del Río was born in 1913 in Sahuayo, Michoacán, Mexico, during a time of severe persecution of the Catholic Church. The government had outlawed public worship and was executing priests and lay Catholics who refused to renounce their faith. This conflict, known as the Cristero War, saw many martyrs for the faith."
     },
     {
       "type": "heading",
-      "value": "Young Cristero"
+      "value": "A Young Cristero"
     },
     {
       "type": "text",
-      "value": "Despite his youth, José begged to join the Cristero army defending religious freedom. His parents initially refused, but he persisted. He served as a flag-bearer, and when a general's horse was killed in battle, José gave him his own, saying 'I can run faster than you!'"
+      "value": "José was only 13 years old when he joined the Cristeros, Catholic rebels fighting for religious freedom. His mother initially refused to let him join, but José was determined to fight for Christ the King. He served as a flag bearer for the Cristero army."
     },
     {
       "type": "heading",
-      "value": "Torture and Martyrdom"
+      "value": "Martyrdom"
     },
     {
       "type": "text",
-      "value": "José was captured and tortured to make him renounce his faith. They cut the soles of his feet and forced him to walk to his execution. With each painful step, he shouted 'Viva Cristo Rey!' He was shot on February 10, 1928. He was canonized in 2016."
+      "value": "In February 1928, José was captured by government forces. He was imprisoned and tortured, and his captors tried to force him to renounounce his faith. They cut the soles of his feet and made him walk through the town to the cemetery where he would be executed. With each painful step, José cried out \"Viva Cristo Rey!\" (Long live Christ the King!). Before he was shot, he drew a cross on the ground, knelt, and forgave his executioners. He was 14 years old. José Luis was beatified by Pope Benedict XVI in 2005 and canonized by Pope Francis in 2016."
+    },
+    {
+      "type": "text",
+      "value": "Feastday February 10th."
     }
   ]
 }

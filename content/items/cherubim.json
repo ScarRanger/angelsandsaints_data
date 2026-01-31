@@ -1,6 +1,6 @@
 {
   "id": "cherubim",
-  "title": "2. Cherubim",
+  "title": "Cherubim",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,23 @@
     },
     {
       "type": "heading",
-      "value": "Angels of Deep Wisdom"
+      "value": "The Guardians of Divine Mysteries"
     },
     {
       "type": "text",
-      "value": "The Cherubim are angels of profound wisdom and knowledge. They guard sacred spaces and radiate the light of God's glory and knowledge."
+      "value": "The Cherubim (singular \"Cherub\") are the second-highest choir of angels. They are known for their profound knowledge and wisdom. The name \"Cherubim\" may derive from a word meaning \"fullness of knowledge.\""
     },
     {
       "type": "heading",
-      "value": "Biblical Role"
+      "value": "In Sacred Scripture"
     },
     {
       "type": "text",
-      "value": "After the Fall, God placed Cherubim with a flaming sword to guard the way to the Tree of Life (Genesis 3:24). In the Temple, golden images of Cherubim adorned the Ark of the Covenant, symbolizing God's throne."
-    },
-    {
-      "type": "heading",
-      "value": "Their Mission"
+      "value": "Cherubim appear frequently in Scripture. After Adam and Eve's sin, God placed Cherubim with a flaming sword at the entrance to the Garden of Eden (Genesis 3:24). In the Book of Exodus, God commanded that two golden Cherubim be placed on top of the Ark of the Covenant, facing each other with their wings spread over the mercy seat (Exodus 25:18-22)."
     },
     {
       "type": "text",
-      "value": "Cherubim protect the divine mysteries and serve as the guardians of God's holiness. They assist in dispensing divine wisdom to those whom God wishes to enlighten."
+      "value": "The prophet Ezekiel saw Cherubim in his visions, describing them as having four faces (man, lion, ox, and eagle) and four wings (Ezekiel 10). The Cherubim guard the holiness of God and contemplate His divine mysteries. They inspire us to seek wisdom and to reverence the sacred."
     }
   ]
 }

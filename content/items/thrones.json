@@ -1,6 +1,6 @@
 {
   "id": "thrones",
-  "title": "3. Thrones",
+  "title": "Thrones",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,23 @@
     },
     {
       "type": "heading",
-      "value": "Bearers of Divine Justice"
+      "value": "The Bearers of God's Justice"
     },
     {
       "type": "text",
-      "value": "The Thrones are majestic angels who serve as the living symbols of God's justice and authority. They are called Thrones because God's glory rests upon them."
+      "value": "The Thrones, also called \"Ophanim\" or \"Wheels,\" are the third choir of angels. They are called Thrones because they are the living throne of God's justice and authority. These angels are known for their humility and submission to God's will."
     },
     {
       "type": "heading",
-      "value": "Their Characteristics"
+      "value": "Their Role"
     },
     {
       "type": "text",
-      "value": "These angels are depicted in sacred Scripture as great wheels covered with eyes, constantly turning and reflecting the omnipresence of divine judgment. They manifest the steadfastness and stability of God's power."
-    },
-    {
-      "type": "heading",
-      "value": "Ministry of Justice"
+      "value": "The Thrones carry out God's judgments and make His justice manifest. They are channels through which God's grace flows to the lower choirs. Ezekiel's vision describes them as great wheels covered with eyes, symbolizing God's all-seeing providence and just judgment (Ezekiel 1:15-21)."
     },
     {
       "type": "text",
-      "value": "Thrones bring God's justice to bear upon the world. They assist in maintaining cosmic order and ensure that divine will is executed perfectly throughout creation."
+      "value": "The Thrones teach us the importance of humility, justice, and complete submission to God's will in our lives."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "st-anthony-padua",
-  "title": "St. Anthony of Padua",
+  "title": "St. Anthony Padua",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,43 @@
     },
     {
       "type": "heading",
-      "value": "The Hammer of Heretics"
+      "value": "Early Life and Call to Religious Life"
     },
     {
       "type": "text",
-      "value": "Saint Anthony of Padua was a brilliant Franciscan friar, Doctor of the Church, and powerful preacher. Born in Portugal, he became one of the most beloved saints, known for his devotion to the poor and his miracles."
+      "value": "St. Anthony was born in Lisbon, Portugal, in 1195 and was baptized Fernando. At the age of 15, he entered the Canons Regular of St. Augustine. Later, inspired by the martyrdom of Franciscan missionaries in Morocco, Fernando joined the Franciscan Order and took the name Anthony. He set out to preach in Morocco but fell ill and had to return. On the return journey, his ship was blown off course and landed in Sicily, leading Anthony to Italy, where his true mission would unfold."
     },
     {
       "type": "heading",
-      "value": "Powerful Preacher"
+      "value": "The Preacher"
     },
     {
       "type": "text",
-      "value": "Anthony's preaching was so effective that he converted thousands, including hardened heretics. Once, when people refused to listen, he preached to fish, which gathered to hear him—a miracle that shamed the townspeople into conversion."
+      "value": "St. Anthony was an exceptional preacher and theologian. He was known throughout Italy and France for his powerful sermons, deep knowledge of Scripture, and ability to convert even the most hardened sinners. His preaching attracted large crowds, and his words led many back to the faith. He was also a great defender of the faith against heretics, particularly the Albigensians."
     },
     {
       "type": "heading",
-      "value": "Finder of Lost Things"
+      "value": "Miracles and Devotions"
     },
     {
       "type": "text",
-      "value": "Anthony is invoked to find lost items because when a novice stole his psalter, Anthony prayed and the thief was moved to return it. He died at age 36 in 1231. He is often depicted holding the Child Jesus, who appeared to him in a vision."
+      "value": "St. Anthony is known for many miracles, including preaching to the fish when people refused to listen, finding a miser's heart in his treasure chest, and helping a man reattach his severed foot. He is the patron saint of lost items because of the story of a young novice who stole his book of psalms. Anthony prayed, and the thief was moved to return the book. Since then, countless people have prayed to St. Anthony to help find lost items."
+    },
+    {
+      "type": "heading",
+      "value": "Death and Legacy"
+    },
+    {
+      "type": "text",
+      "value": "St. Anthony died on June 13, 1231, at the age of 35, in Padua, Italy, where he had been stationed. He was canonized less than a year later by Pope Gregory IX due to his holiness and the many miracles attributed to his intercession. In 1946, Pope Pius XII declared St. Anthony a Doctor of the Church, with the title \"Evangelical Doctor,\" in recognition of his biblical preaching and his embodiment of the Gospel message."
+    },
+    {
+      "type": "text",
+      "value": "St. Anthony is one of the most beloved and popular saints in the Catholic Church. He is the patron saint of lost items, lost people, and the poor. His feast day is celebrated on June 13th, and he is often invoked in prayer for help in finding lost things and for the grace of a holy death."
+    },
+    {
+      "type": "text",
+      "value": "Feastday June 13th."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "st-francis-assisi",
-  "title": "St. Francis of Assisi",
+  "title": "St. Francis Assisi",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,83 @@
     },
     {
       "type": "heading",
-      "value": "Lover of Poverty and Creation"
+      "value": "Early Life"
     },
     {
       "type": "text",
-      "value": "Saint Francis of Assisi was born into wealth but renounced everything to follow Christ in radical poverty. He became one of the most beloved saints, known for his love of God, creation, and the poor."
+      "value": "St. Francis of Assisi was born in 1181 or 1182 in Assisi, Italy, to a wealthy merchant family. As a young man, Francis lived a carefree life, enjoying parties and dreaming of becoming a knight. In 1202, he was captured in a war between Assisi and Perugia and spent a year in prison. After his release, he became seriously ill. During his illness and recovery, Francis began to experience a profound spiritual conversion."
     },
     {
       "type": "heading",
-      "value": "Franciscan Order"
+      "value": "Conversion"
     },
     {
       "type": "text",
-      "value": "Francis gathered followers who shared his vision of living the Gospel literally. He founded the Franciscan Order, emphasizing poverty, preaching, and service. He called all creatures his brothers and sisters, famously preaching to birds and taming a wolf."
+      "value": "While praying in the dilapidated church of San Damiano, Francis heard Jesus speak to him from the crucifix: \"Francis, go and repair my house, which as you see is falling into ruin.\" Francis initially understood this literally and began to repair several small churches. Later, he realized that God was calling him to renew the entire Church."
+    },
+    {
+      "type": "text",
+      "value": "Francis renounced his wealth and inheritance, even stripping off his fine clothes in the public square and returning them to his father. He put on a rough tunic and began to live a life of radical poverty, preaching repentance and living the Gospel in its purest form. He embraced \"Lady Poverty\" as his bride and saw poverty as the way to perfect union with Christ."
     },
     {
       "type": "heading",
-      "value": "Stigmata and Death"
+      "value": "Founding the Franciscans"
     },
     {
       "type": "text",
-      "value": "In 1224, while praying on Mount La Verna, Francis received the stigmata—the wounds of Christ crucified—the first recorded case in history. He died in 1226, singing Psalm 142. He is the patron saint of animals, ecology, and Italy."
+      "value": "Francis attracted followers who were inspired by his joyful witness and simple Gospel life. In 1209, he wrote a simple Rule of life for his brothers, which was approved by Pope Innocent III. This marked the founding of the Order of Friars Minor (Franciscans). Later, with St. Clare, he founded the Poor Clares for women, and he also established the Third Order for laypeople."
+    },
+    {
+      "type": "text",
+      "value": "Francis and his friars traveled throughout Italy and beyond, preaching the Gospel, caring for lepers, and living among the poor. Francis emphasized poverty, humility, obedience, and love for all of God's creation. He had a special love for nature and called all creatures his brothers and sisters, most famously shown in his \"Canticle of the Creatures.\""
+    },
+    {
+      "type": "heading",
+      "value": "The Stigmata"
+    },
+    {
+      "type": "text",
+      "value": "In 1224, while praying on Mount La Verna, Francis received the stigmata—the five wounds of Christ—in his hands, feet, and side. He was the first recorded person in history to receive the stigmata. Francis bore these wounds for the rest of his life, though he tried to hide them out of humility. The wounds caused him great pain, yet he rejoiced in sharing in Christ's suffering."
+    },
+    {
+      "type": "heading",
+      "value": "Mission to the Saracens"
+    },
+    {
+      "type": "text",
+      "value": "In 1219, during the Fifth Crusade, Francis traveled to Egypt to meet with Sultan al-Kamil. Despite the danger, Francis crossed enemy lines to preach the Gospel to the Sultan. Although the Sultan did not convert, he was deeply impressed by Francis's faith and courage and allowed him to return safely. This encounter demonstrated Francis's commitment to peace and evangelization through love rather than violence."
+    },
+    {
+      "type": "heading",
+      "value": "Later Life and Death"
+    },
+    {
+      "type": "text",
+      "value": "In his later years, Francis suffered from various illnesses, including the effects of the stigmata and eye problems caused by his travels in harsh conditions. He became nearly blind and experienced great physical pain. Despite his suffering, Francis remained joyful and continued to preach and pray."
+    },
+    {
+      "type": "text",
+      "value": "Francis died on the evening of October 3, 1226, at the Porziuncola, the small chapel near Assisi that had been the birthplace of his order. As he lay dying, he had the Passion narrative from the Gospel of John read to him, and he sang Psalm 142. His last words were said to be from Psalm 142: \"Bring my soul out of prison, that I may praise your name.\" He was 44 or 45 years old."
+    },
+    {
+      "type": "heading",
+      "value": "Canonization and Legacy"
+    },
+    {
+      "type": "text",
+      "value": "St. Francis was canonized by Pope Gregory IX on July 16, 1228, less than two years after his death. The Basilica of St. Francis was built in Assisi to house his remains, and it stands as one of the great pilgrimage sites of Christianity."
+    },
+    {
+      "type": "text",
+      "value": "St. Francis is one of the most beloved saints in the Catholic Church and is admired even by non-Catholics. He is the patron saint of Italy, animals, ecology, and merchants. His total commitment to the Gospel, his love for the poor, his care for creation, and his joyful embrace of poverty continue to challenge and inspire people today. Pope Francis took his name in honor of St. Francis of Assisi."
+    },
+    {
+      "type": "text",
+      "value": "The Franciscan Order founded by St. Francis has grown into one of the largest religious orders in the Catholic Church, with thousands of friars, sisters, and lay members serving throughout the world. His spirituality, centered on the Incarnation, poverty, and love for all creation, remains profoundly relevant today."
+    },
+    {
+      "type": "text",
+      "value": "Feastday October 4th."
     }
   ]
 }

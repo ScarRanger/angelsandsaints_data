@@ -40,7 +40,7 @@
             "title": "Daily Feast",
             "imageUrl": "res:/drawable/feast",
             "order": 4,
-            "enabled": true
+            "enabled": false
         },
         {
             "id": "daily-readings",

@@ -1,6 +1,6 @@
 {
   "id": "st-rose-viterbo",
-  "title": "St. Rose of Viterbo",
+  "title": "St. Rose Viterbo",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,23 @@
     },
     {
       "type": "heading",
-      "value": "Child Preacher"
+      "value": "The Child Preacher"
     },
     {
       "type": "text",
-      "value": "Saint Rose of Viterbo was a 13th-century Italian girl who became a powerful preacher despite her young age. She is the patron saint of exiles and people in exile or rejected by religious orders."
+      "value": "St. Rose of Viterbo was born in 1233 in Viterbo, Italy. From a young age, she showed extraordinary holiness and love for God. At the age of 8, she had a vision of the Blessed Virgin Mary, who told her to join the Third Order of St. Francis and to preach penance to the people."
     },
     {
       "type": "heading",
-      "value": "Preaching Against Heresy"
+      "value": "Ministry and Death"
     },
     {
       "type": "text",
-      "value": "From age 8, Rose received visions and began preaching in the streets of Viterbo, calling people to repentance and defending the Church against heretics. Her passionate preaching drew large crowds, and many converted through her words."
-    },
-    {
-      "type": "heading",
-      "value": "Exile and Death"
+      "value": "Rose preached in the streets of Viterbo, calling people to repentance and to support the Pope against the Emperor. Despite her young age, her words moved many to conversion. Rose died at the age of 17 in 1251. She was canonized by Pope Callixtus III. Her body remains incorrupt."
     },
     {
       "type": "text",
-      "value": "Her bold defense of the Pope led to her family's exile. After returning to Viterbo, she tried to join the Poor Clares but was rejected. She died at age 17 in 1251. Her body remains incorrupt and is carried in procession annually in Viterbo."
+      "value": "Feastday September 4th."
     }
   ]
 }

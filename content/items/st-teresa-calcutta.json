@@ -1,6 +1,6 @@
 {
   "id": "st-teresa-calcutta",
-  "title": "St. Teresa of Calcutta",
+  "title": "St. Teresa Calcutta",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,31 @@
     },
     {
       "type": "heading",
-      "value": "Saint of the Gutters"
+      "value": "The Saint of the Gutters"
     },
     {
       "type": "text",
-      "value": "Mother Teresa of Calcutta, born Agnes Gonxha Bojaxhiu in Albania, answered God's call to serve 'the poorest of the poor.' She founded the Missionaries of Charity, dedicated to serving those whom society had abandoned."
+      "value": "St. Teresa of Calcutta (Mother Teresa) was born in 1910 in Skopje (now in North Macedonia). She joined the Sisters of Loreto and became a teacher in Calcutta, India. In 1946, she received what she called a \"call within a call\" from Jesus, asking her to leave the convent and serve Him among the poorest of the poor in the slums of Calcutta."
     },
     {
       "type": "heading",
-      "value": "Seeing Christ in the Poor"
+      "value": "Missionaries of Charity"
     },
     {
       "type": "text",
-      "value": "Mother Teresa saw Jesus in every suffering person, especially the dying destitute of Calcutta. She picked up the sick and dying from the streets, giving them dignity, love, and care in their final hours. Her famous words: 'Do small things with great love.'"
+      "value": "In 1950, Mother Teresa founded the Missionaries of Charity, a religious congregation devoted to serving the \"poorest of the poor.\" She and her sisters opened homes for the dying, orphanages, and centers for those with leprosy and HIV/AIDS. Mother Teresa saw Jesus in every suffering person she served."
     },
     {
       "type": "heading",
-      "value": "Nobel Prize and Sainthood"
+      "value": "Death and Canonization"
     },
     {
       "type": "text",
-      "value": "She received the Nobel Peace Prize in 1979. After her death in 1997, her private writings revealed a profound 'dark night of the soul'—spiritual dryness she endured for decades. She was canonized in 2016, a model of faithful service despite inner desolation."
+      "value": "Mother Teresa died on September 5, 1997, and was canonized by Pope Francis on September 4, 2016. She is the patron saint of World Youth Day."
+    },
+    {
+      "type": "text",
+      "value": "Feastday September 5th."
     }
   ]
 }

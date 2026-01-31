@@ -1,6 +1,6 @@
 {
   "id": "st-crescentius",
-  "title": "St. Crescentius of Rome",
+  "title": "St. Crescentius",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,19 @@
     },
     {
       "type": "heading",
-      "value": "Child Martyr of Rome"
+      "value": "The Boy Martyr of Rome"
     },
     {
       "type": "text",
-      "value": "Saint Crescentius was an 11-year-old Roman boy who witnessed to Christ during the Diocletian persecution around AD 303. He is one of the youngest martyrs of the early Church."
+      "value": "St. Crescentius was a young boy who was martyred for his Christian faith during the persecution of Diocletian in the early 4th century. According to tradition, Crescentius was only about 11 or 12 years old when he openly professed his faith in Jesus Christ."
     },
     {
       "type": "heading",
-      "value": "Faithful Despite Youth"
+      "value": "Courage in the Face of Death"
     },
     {
       "type": "text",
-      "value": "Crescentius was brought before Roman authorities and ordered to offer sacrifice to pagan gods. Despite his tender age, he boldly refused, declaring his faith in Jesus Christ as the one true God."
-    },
-    {
-      "type": "heading",
-      "value": "Martyrdom"
-    },
-    {
-      "type": "text",
-      "value": "The authorities, amazed at the child's courage but unwilling to relent, condemned him to death. Crescentius was beheaded, giving his life for Christ. His feast day is celebrated on September 14, and he is venerated as a model of youthful faith and courage."
+      "value": "Despite his young age, Crescentius showed remarkable courage and refused to deny Christ or offer sacrifice to pagan gods. He was arrested and subjected to various tortures. When he still refused to renounce his faith, he was beheaded. His feast is celebrated on September 14th."
     }
   ]
 }

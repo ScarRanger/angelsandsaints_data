@@ -1,6 +1,6 @@
 {
   "id": "st-agnes-rome",
-  "title": "St. Agnes of Rome",
+  "title": "St. Agnes Rome",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,23 @@
     },
     {
       "type": "heading",
-      "value": "Virgin Martyr"
+      "value": "The Martyr of Purity"
     },
     {
       "type": "text",
-      "value": "Saint Agnes was a Roman girl who was martyred at age 12 or 13 during the persecution of Diocletian around AD 304. She is one of the most venerated virgin martyrs of the Church."
+      "value": "St. Agnes was a beautiful young Roman girl who lived in the early 4th century. At the age of 12 or 13, she consecrated her virginity to God and refused to marry. According to tradition, many young men wanted to marry her, but she refused them all, saying she was already promised to Christ."
     },
     {
       "type": "heading",
-      "value": "Bride of Christ"
+      "value": "Martyrdom"
     },
     {
       "type": "text",
-      "value": "Agnes had consecrated her virginity to Christ from childhood. When a Roman official's son sought to marry her, she refused, declaring: 'I am already promised to the Lord of the universe. I will not betray my true love.'"
-    },
-    {
-      "type": "heading",
-      "value": "Martyrdom and Miracles"
+      "value": "One rejected suitor reported her to the authorities as a Christian. Agnes was subjected to various tortures and humiliations but remained steadfast in her faith. She was eventually martyred, either by being stabbed in the throat or beheaded. St. Agnes is one of the most celebrated virgin martyrs of the early Church. She is the patron saint of young girls, chastity, and gardeners."
     },
     {
       "type": "text",
-      "value": "Agnes was condemned to be defiled in a brothel, but her hair miraculously grew to cover her body, and a divine light protected her. She was then sentenced to be burned, but the flames would not touch her. Finally, she was beheaded. She is the patron saint of young girls and chastity."
+      "value": "Feastday January 21st."
     }
   ]
 }

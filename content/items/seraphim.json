@@ -1,6 +1,6 @@
 {
   "id": "seraphim",
-  "title": "1. Seraphim",
+  "title": "Seraphim",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,23 @@
     },
     {
       "type": "heading",
-      "value": "The Burning Ones"
+      "value": "The Highest Choir"
     },
     {
       "type": "text",
-      "value": "The Seraphim are the highest order of angels, closest to God's throne. Their name means 'the burning ones,' reflecting their intense love and adoration for God."
+      "value": "The Seraphim (singular \"Seraph\") are the highest choir of angels, the closest to God. Their name comes from the Hebrew word meaning \"burning ones,\" reflecting their intense love and devotion to God. They surround the throne of God and continuously worship Him."
     },
     {
       "type": "heading",
-      "value": "Biblical Description"
+      "value": "In Sacred Scripture"
     },
     {
       "type": "text",
-      "value": "In Isaiah's vision (Isaiah 6:2-3), the Seraphim are described as having six wings: with two they cover their faces, with two they cover their feet, and with two they fly. They continuously cry out 'Holy, Holy, Holy is the Lord of Hosts!'"
-    },
-    {
-      "type": "heading",
-      "value": "Their Role"
+      "value": "The prophet Isaiah describes them in his vision of God's throne: \"Seraphim were stationed above; each of them had six wings: with two they covered their faces, with two they covered their feet, and with two they hovered. One cried out to the other: 'Holy, holy, holy is the LORD of hosts! All the earth is filled with his glory!'\" (Isaiah 6:2-3)."
     },
     {
       "type": "text",
-      "value": "The Seraphim exist in perpetual worship and adoration of God. Their burning love purifies and inflames the hearts of those lower in the heavenly hierarchy, spreading divine love throughout creation."
+      "value": "Their burning love for God purifies them and all they touch. In Isaiah's vision, a Seraph touched a burning coal to the prophet's lips to purify him for his mission. The Seraphim teach us the importance of worship, adoration, and burning love for God."
     }
   ]
 }

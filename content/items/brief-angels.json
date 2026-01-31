@@ -1,6 +1,6 @@
 {
   "id": "brief-angels",
-  "title": "Brief About Angels",
+  "title": "Brief Angels",
   "blocks": [
     {
       "type": "image",
@@ -8,11 +8,35 @@
     },
     {
       "type": "heading",
-      "value": "God's Celestial Messengers"
+      "value": "Nine Choirs of Angels"
     },
     {
       "type": "text",
-      "value": "Angels are pure spiritual beings created by God to serve as His messengers and ministers. They possess intelligence and free will, and exist to glorify God and assist humanity in the journey of salvation."
+      "value": "The Catholic Church teaches that angels are organized into nine choirs or orders, traditionally divided into three hierarchies:"
+    },
+    {
+      "type": "heading",
+      "value": "First Hierarchy (Closest to God):"
+    },
+    {
+      "type": "text",
+      "value": "1. Seraphim - The \"burning ones\" who surround God's throne in constant worship\n2. Cherubim - Guardians of divine mysteries with profound wisdom\n3. Thrones - Bearers of God's justice and authority"
+    },
+    {
+      "type": "heading",
+      "value": "Second Hierarchy (Governors):"
+    },
+    {
+      "type": "text",
+      "value": "4. Dominions - Regulate the duties of lower angels\n5. Virtues - Work miracles and bestow grace\n6. Powers - Spiritual warriors against evil"
+    },
+    {
+      "type": "heading",
+      "value": "Third Hierarchy (Messengers):"
+    },
+    {
+      "type": "text",
+      "value": "7. Principalities - Protectors of nations and communities\n8. Archangels - Chief messengers sent on important missions\n9. Angels - Closest to humanity, including our Guardian Angels"
     },
     {
       "type": "heading",
@@ -20,15 +44,15 @@
     },
     {
       "type": "text",
-      "value": "Unlike humans, angels do not have physical bodies. They are immortal spirits who can take on visible forms when God sends them with messages or tasks for humanity."
+      "value": "Angels are pure spirits without physical bodies, though they can appear in visible form when God sends them with messages. They possess intellect and free will, were created in a state of grace, and are immortal. Each angel is a unique species unto itself."
     },
     {
       "type": "heading",
-      "value": "The Nine Choirs"
+      "value": "Their Mission"
     },
     {
       "type": "text",
-      "value": "Sacred Tradition teaches that angels are organized into nine choirs or orders, each with distinct roles in God's cosmic plan: Seraphim, Cherubim, Thrones, Dominions, Virtues, Powers, Principalities, Archangels, and Angels."
+      "value": "All angels exist to glorify God and to serve His plan of salvation for humanity. They protect, guide, inspire, and intercede for us. We should honor the angels and cultivate a relationship with them, especially our Guardian Angels."
     }
   ]
 }

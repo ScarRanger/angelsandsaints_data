@@ -1,6 +1,6 @@
 {
   "id": "archangels",
-  "title": "8. Archangels",
+  "title": "Archangels",
   "blocks": [
     {
       "type": "image",
@@ -8,11 +8,11 @@
     },
     {
       "type": "heading",
-      "value": "Chief Messengers of God"
+      "value": "The Chief Messengers"
     },
     {
       "type": "text",
-      "value": "Archangels are the chief messengers who carry out God's most important missions for humanity. They are known by name in Scripture and tradition."
+      "value": "The Archangels are the eighth choir of angels. While all angels are messengers of God, the Archangels are considered the chief messengers, sent on the most important missions. Unlike the higher choirs who primarily contemplate God's glory, Archangels are actively involved in human affairs."
     },
     {
       "type": "heading",
@@ -20,15 +20,23 @@
     },
     {
       "type": "text",
-      "value": "Sacred Scripture names three: Michael ('Who is like God?'), the warrior prince; Gabriel ('God is my strength'), the divine messenger; and Raphael ('God heals'), the guardian and healer."
-    },
-    {
-      "type": "heading",
-      "value": "Their Missions"
+      "value": "Sacred Scripture names only three Archangels:\n- St. Michael (\"Who is like God?\") - the warrior prince who defeated Satan and his followers. He is the protector of the Church and the defender against evil.\n- St. Gabriel (\"God is my strength\") - the messenger who announced the Incarnation to Mary and appeared to Daniel and Zechariah.\n- St. Raphael (\"God heals\") - the healer and guide, who accompanied Tobias on his journey and healed Tobit's blindness."
     },
     {
       "type": "text",
-      "value": "Archangels appear at pivotal moments in salvation history. Gabriel announced the Incarnation to Mary, Michael leads the heavenly armies, and Raphael guided Tobias on his journey. They execute God's most crucial commands."
+      "value": "Tradition also holds that there are four other great archangels: Uriel, Raguel, Remiel, and Saraqael, though only Michael, Gabriel, and Raphael are mentioned by name in the Bible."
+    },
+    {
+      "type": "heading",
+      "value": "Their Role"
+    },
+    {
+      "type": "text",
+      "value": "The Archangels deliver God's most important messages to humanity, lead armies of angels in spiritual warfare, guide and protect God's people, and announce major events in salvation history. They are powerful intercessors and protectors for the Church and individual souls. The Archangels teach us to be faithful messengers of God's love, to stand firm against evil, and to trust in God's protection and guidance."
+    },
+    {
+      "type": "text",
+      "value": "Feastday September 29th (Feast of Sts. Michael, Gabriel, and Raphael, Archangels)."
     }
   ]
 }

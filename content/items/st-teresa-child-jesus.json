@@ -1,6 +1,6 @@
 {
   "id": "st-teresa-child-jesus",
-  "title": "St. Teresa of Child Jesus",
+  "title": "St. Teresa Child Jesus",
   "blocks": [
     {
       "type": "image",
@@ -12,7 +12,7 @@
     },
     {
       "type": "text",
-      "value": "Saint Thérèse of Lisieux, known as the 'Little Flower,' was a Carmelite nun who discovered a 'little way' of spiritual childhood—doing small things with extraordinary love for God."
+      "value": "St. Thérèse of Lisieux (St. Teresa of the Child Jesus) was born in France in 1873. She entered the Carmelite convent at the young age of 15 and lived a hidden life of prayer and sacrifice."
     },
     {
       "type": "heading",
@@ -20,15 +20,19 @@
     },
     {
       "type": "text",
-      "value": "Thérèse taught that sanctity is not about great deeds but about complete surrender to God's will in everyday life. She wrote: 'My vocation is love... In the heart of the Church, I will be love.' Her path of trust and abandonment is accessible to all."
+      "value": "St. Thérèse developed her \"Little Way\" of spiritual childhood, which emphasizes doing small things with great love, trusting in God's mercy, and surrendering completely to His will. Her autobiography, \"Story of a Soul,\" has inspired millions."
     },
     {
       "type": "heading",
-      "value": "Story of a Soul"
+      "value": "Death and Legacy"
     },
     {
       "type": "text",
-      "value": "She died of tuberculosis at age 24 in 1897. Her autobiography, 'Story of a Soul,' became a worldwide bestseller. She promised to 'spend my heaven doing good on earth' and is invoked for countless miracles. She was declared a Doctor of the Church in 1997."
+      "value": "St. Thérèse died of tuberculosis in 1897 at the age of 24. She was canonized in 1925 and declared a Doctor of the Church in 1997. She is one of the patron saints of missionaries and of France."
+    },
+    {
+      "type": "text",
+      "value": "Feastday October 1st."
     }
   ]
 }

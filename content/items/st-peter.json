@@ -3,23 +3,40 @@
   "title": "Saint Peter the Apostle",
   "blocks": [
     {
-      "type": "image","value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/assets/images/home/peter_thumb.jpg"
+      "type": "image",
+      "value": "https://pub-d710eb3cff894ba7871b5e3d68581196.r2.dev/assets/images/home/peter_thumb.jpg"
     },
     {
       "type": "heading",
-      "value": "The Rock of the Church"
+      "value": "The First Pope"
     },
     {
       "type": "text",
-      "value": "Saint Peter, also known as Simon Peter, was one of the Twelve Apostles of Jesus Christ and one of the first leaders of the early Church. He is traditionally counted as the first Bishop of Rome."
+      "value": "Peter, who was also known as Simon Peter of Cephas, is considered the first Pope. Despite his papacy, Peter had humble beginnings and became one of the Twelve Apostles of Jesus. He was ordained by Jesus as the \"Rock of My Church\" written in Matthew 16:18, which says, \"And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it.\""
     },
     {
       "type": "heading",
-      "value": "Early Life and Calling"
+      "value": "Early Life"
     },
     {
       "type": "text",
-      "value": "A fisherman from Bethsaida, Peter was called by Jesus to be a 'fisher of men'. He was often the spokesman for the apostles and was present at major events like the Transfiguration."
+      "value": "Peter was a native of Bethsaida, near Lake Tiberias and was the son of Jonah. He and his brother Andrew were fishermen on Lake Genesareth. Peter followed Jesus and his life was changed forever. Though he was one of the first disciples called to follow Jesus and eventually became the spokesman for the group, Peter is known for his \"little faith.\""
+    },
+    {
+      "type": "heading",
+      "value": "Leadership of the Apostles"
+    },
+    {
+      "type": "text",
+      "value": "Peter is often depicted in the gospels as spokesman of all the Apostles. In the time following Christ's Ascension, Peter stood as the unquestionable head of the Apostles, which the book of Acts clearly describes. He went on to appoint the replacement of Judas Iscariot, spoke first to the crowds that had assembled after the descent of the Holy Spirit at Pentecost, he was the first Apostle to perform miracles in the name of the Lord, and he rendered judgment upon the deceitful Ananias and Sapphira, both of whom were stealing from church members and God alike."
+    },
+    {
+      "type": "heading",
+      "value": "Mission to the Gentiles"
+    },
+    {
+      "type": "text",
+      "value": "Peter was instrumental in bringing the Gospel to the Gentiles. He baptized the Roman pagan Cornelius, and at the Council of Jerusalem gave his support to preach to Gentiles, thereby permitting the new Church to become universal."
     },
     {
       "type": "heading",
@@ -27,7 +44,7 @@
     },
     {
       "type": "text",
-      "value": "According to tradition, Peter was crucified in Rome under Emperor Nero. He requested to be crucified upside down, as he saw himself unworthy to die in the same manner as Jesus."
+      "value": "Tradition says that Peter died in A.D. 64-68 during Nero's persecution of the Christians. He was crucified upside down on a cross.\n\nFeastday June 29th."
     }
   ]
 }

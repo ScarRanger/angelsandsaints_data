@@ -1,6 +1,6 @@
 {
   "id": "dominions",
-  "title": "4. Dominions or Lordships",
+  "title": "Dominions",
   "blocks": [
     {
       "type": "image",
@@ -8,27 +8,23 @@
     },
     {
       "type": "heading",
-      "value": "Regulators of Angelic Duties"
+      "value": "The Governors of Angelic Duties"
     },
     {
       "type": "text",
-      "value": "The Dominions, also called Lordships, are angels who regulate the duties of all lower angels. They ensure that the cosmos remains in order and that God's commands are carried out."
+      "value": "The Dominions (also called Dominations or Lordships) are the fourth choir of angels. They are known for regulating the duties of lower angels and ensuring that the universe remains in order according to God's will."
     },
     {
       "type": "heading",
-      "value": "Their Authority"
+      "value": "Their Ministry"
     },
     {
       "type": "text",
-      "value": "Dominions possess a form of divine authority and are rarely seen by mortals. They manifest the majesty of God and govern the activities of all angelic groups beneath them."
-    },
-    {
-      "type": "heading",
-      "value": "Divine Governance"
+      "value": "The Dominions are rarely sent on individual missions to earth. Instead, they govern and organize the angelic choirs beneath them. Through them, God's majesty is manifested, and they oversee the distribution of tasks to the lower choirs."
     },
     {
       "type": "text",
-      "value": "Through the Dominions, God's sovereignty is made known. They receive their orders directly from the Seraphim and Cherubim, then delegate responsibilities to the lower choirs of angels."
+      "value": "The Dominions teach us the importance of leadership guided by divine wisdom, proper authority, and respect for God's order in our lives. They remind us that all legitimate authority comes from God and should be exercised with humility and service."
     }
   ]
 }
